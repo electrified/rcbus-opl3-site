@@ -1,0 +1,2069 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2025-08-20T22:29:14+0000",
+    "kicad_version": "9.0.1",
+    "schematic_parity": [],
+    "source": "rcbus-ymf262.kicad_pcb",
+    "unconnected_items": [
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [VCC] on Front, length 0.0177 mm",
+                    "pos": {
+                        "x": 133.3174,
+                        "y": 147.3556
+                    },
+                    "uuid": "3c9f961c-3001-4033-ae88-dcd7db851772"
+                },
+                {
+                    "description": "Track [VCC] on Front, length 0.9291 mm",
+                    "pos": {
+                        "x": 114.515,
+                        "y": 156.65
+                    },
+                    "uuid": "f62e57cd-448a-402f-881c-5abdda1e5825"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                },
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R5 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "6f5ebb3d-e31b-4d44-965b-24cf851eddb1"
+                },
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R4 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "38a2302d-eec0-4f04-8e98-31f19412e441"
+                },
+                {
+                    "description": "Pad 2 [GND] of R5 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "6f5ebb3d-e31b-4d44-965b-24cf851eddb1"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                },
+                {
+                    "description": "Pad 2 [GND] of R4 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "38a2302d-eec0-4f04-8e98-31f19412e441"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R1 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 143.47
+                    },
+                    "uuid": "cc5834d8-7d5f-4d94-8ec3-83ec91d84198"
+                },
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C6 on Front",
+                    "pos": {
+                        "x": 80.2,
+                        "y": 145.0
+                    },
+                    "uuid": "998759e5-6007-4741-9724-2f478e04df94"
+                },
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [+5VA] on Front, length 6.7953 mm",
+                    "pos": {
+                        "x": 128.25,
+                        "y": 131.945
+                    },
+                    "uuid": "744bb7dc-c3c2-4f9a-9ce6-2573d5e64373"
+                },
+                {
+                    "description": "Track [+5VA] on Back, length 0.3961 mm",
+                    "pos": {
+                        "x": 148.5959,
+                        "y": 146.5043
+                    },
+                    "uuid": "ea49c845-a928-4700-9c66-673d93755ca0"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 5.5864 mm",
+                    "pos": {
+                        "x": 74.275352,
+                        "y": 154.624648
+                    },
+                    "uuid": "22f97fe7-d5d8-4baa-83b8-c45fc916a17f"
+                },
+                {
+                    "description": "Pad 1 [Net-(JP1-Pin_1)] of R6 on Front",
+                    "pos": {
+                        "x": 75.225,
+                        "y": 156.02
+                    },
+                    "uuid": "4361dd93-7828-47cb-8776-daf36e1d24c7"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_9)] on Front, length 4.4350 mm",
+                    "pos": {
+                        "x": 74.7345,
+                        "y": 147.5695
+                    },
+                    "uuid": "82b21c6f-f61c-4475-b37f-f6c09a025b96"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_9)] on Front, length 1.5900 mm",
+                    "pos": {
+                        "x": 75.05,
+                        "y": 146.06
+                    },
+                    "uuid": "621c6620-f467-4153-98f0-6c284b3f6ad9"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.0141 mm",
+                    "pos": {
+                        "x": 76.69,
+                        "y": 148.49
+                    },
+                    "uuid": "ba0ad8af-484f-465a-8cf9-b1d48fca887c"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 1.8364 mm",
+                    "pos": {
+                        "x": 77.522552,
+                        "y": 150.709
+                    },
+                    "uuid": "a30fea67-b952-414c-81f9-08604af9b37e"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_11)] on Front, length 0.5525 mm",
+                    "pos": {
+                        "x": 72.9294,
+                        "y": 143.9368
+                    },
+                    "uuid": "45f28ed7-b5d1-4019-981c-c4074787940c"
+                },
+                {
+                    "description": "Pad 1 [Net-(JP1-Pin_11)] of R1 on Front",
+                    "pos": {
+                        "x": 75.05,
+                        "y": 143.47
+                    },
+                    "uuid": "4d72fdd0-dd7e-493e-830a-cfa4c4b52eb7"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_3)] on Front, length 3.5866 mm",
+                    "pos": {
+                        "x": 74.3024,
+                        "y": 152.5555
+                    },
+                    "uuid": "f698e7a4-288c-427f-b792-2bf9ecf30c5b"
+                },
+                {
+                    "description": "Pad 1 [Net-(JP1-Pin_3)] of R5 on Front",
+                    "pos": {
+                        "x": 75.225,
+                        "y": 153.51
+                    },
+                    "uuid": "a22a165d-949c-49d6-9130-18e23698c4fd"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_5)] on Front, length 1.4750 mm",
+                    "pos": {
+                        "x": 75.225,
+                        "y": 151.0
+                    },
+                    "uuid": "9dcfc300-8ff0-4779-82b4-d820afb63384"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_5)] on Front, length 4.8166 mm",
+                    "pos": {
+                        "x": 74.3205,
+                        "y": 151.9205
+                    },
+                    "uuid": "c51856dc-f36d-4020-aa83-1514d6bab956"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        }
+    ],
+    "violations": [
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "Via [Net-(JP1-Pin_1)] on Front - Back",
+                    "pos": {
+                        "x": 76.7,
+                        "y": 156.0
+                    },
+                    "uuid": "76711d5f-5b56-4eb7-8bfd-be3675da2a46"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "Via [Net-(JP1-Pin_9)] on Front - Back",
+                    "pos": {
+                        "x": 76.7,
+                        "y": 146.0
+                    },
+                    "uuid": "ddb191a0-b35b-4f65-b601-d12d74ba2831"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "Via [Net-(JP1-Pin_7)] on Front - Back",
+                    "pos": {
+                        "x": 76.7,
+                        "y": 148.5
+                    },
+                    "uuid": "8f211102-efc3-43ed-b81f-60656dc86f70"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "Via [Net-(JP1-Pin_11)] on Front - Back",
+                    "pos": {
+                        "x": 76.280724,
+                        "y": 143.919276
+                    },
+                    "uuid": "057f9615-9fc4-4a9c-9aad-c15aba99b5b4"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "Via [Net-(JP1-Pin_3)] on Front - Back",
+                    "pos": {
+                        "x": 76.7,
+                        "y": 153.5
+                    },
+                    "uuid": "041189af-7775-4021-80d3-b2692aa778c6"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "Via [Net-(JP1-Pin_5)] on Front - Back",
+                    "pos": {
+                        "x": 76.7,
+                        "y": 151.0
+                    },
+                    "uuid": "e2b14fb3-cd37-49d4-90f2-59db135effd7"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_1))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 7.0616 mm",
+                    "pos": {
+                        "x": 72.9116,
+                        "y": 156.067
+                    },
+                    "uuid": "488aee9e-d259-4f5c-a7f6-cc56c9dedb93"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_1))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 0.5200 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "6442d0a9-56ed-4afd-95e5-b3d98f1c667a"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_1))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 1.2379 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 155.5
+                    },
+                    "uuid": "8f94db11-593b-48f0-b8a7-b58cd5d766a9"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_1))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 0.1905 mm",
+                    "pos": {
+                        "x": 73.1021,
+                        "y": 156.067
+                    },
+                    "uuid": "c29d673d-b6d5-44df-ac27-2cc61f81f1c7"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_1))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 0.3016 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "dc9aa2b4-1d60-4cf1-8dc7-b2625aac88c9"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets Net-(JP1-Pin_9) and GND)",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_9)] on Front, length 2.1348 mm",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "26a17966-359a-4e47-9d75-3191cbec67de"
+                },
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets Net-(JP1-Pin_9) and GND)",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_9)] on Front, length 7.7236 mm",
+                    "pos": {
+                        "x": 72.7366,
+                        "y": 146.013
+                    },
+                    "uuid": "3734d40e-bb67-4e45-a514-e3d1c53b7953"
+                },
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_9))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_9)] on Front, length 0.3016 mm",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "92bd85cf-3887-4fca-ac15-93e0aa0318bf"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_9))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_9)] on Front, length 0.1905 mm",
+                    "pos": {
+                        "x": 72.9271,
+                        "y": 146.013
+                    },
+                    "uuid": "e762b59e-d727-4838-b082-9e3f12833e94"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets Net-(JP1-Pin_7) and GND)",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.0789 mm",
+                    "pos": {
+                        "x": 72.9116,
+                        "y": 148.537
+                    },
+                    "uuid": "0cec63d0-0b79-432d-8f77-53874860a62a"
+                },
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets Net-(JP1-Pin_7) and GND)",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.0042 mm",
+                    "pos": {
+                        "x": 72.8327,
+                        "y": 148.537
+                    },
+                    "uuid": "133a8bb8-b208-4ed7-a8a3-fc7c45a9b283"
+                },
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_7))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.1905 mm",
+                    "pos": {
+                        "x": 73.1021,
+                        "y": 148.537
+                    },
+                    "uuid": "875f3925-6d27-401a-b977-0c9a0025fde6"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_7))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.6100 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 149.1
+                    },
+                    "uuid": "97f8db8b-472f-4851-8146-d961943a312f"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_7))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.3016 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "a1d6a388-90d6-444e-9eed-c742b1141593"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_7))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.4391 mm",
+                    "pos": {
+                        "x": 73.7105,
+                        "y": 149.4105
+                    },
+                    "uuid": "d83f5438-f4c3-4136-a59e-ae40de06fd5a"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_7))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 7.8297 mm",
+                    "pos": {
+                        "x": 72.8297,
+                        "y": 148.54
+                    },
+                    "uuid": "e30a61e8-1267-4397-b49f-400ab84b23a6"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets Net-(JP1-Pin_11) and GND)",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_11)] on Front, length 0.5525 mm",
+                    "pos": {
+                        "x": 72.9294,
+                        "y": 143.9368
+                    },
+                    "uuid": "45f28ed7-b5d1-4019-981c-c4074787940c"
+                },
+                {
+                    "description": "Pad 2 [GND] of R1 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 143.47
+                    },
+                    "uuid": "cc5834d8-7d5f-4d94-8ec3-83ec91d84198"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets Net-(JP1-Pin_11) and GND)",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_11)] on Front, length 0.1905 mm",
+                    "pos": {
+                        "x": 72.9271,
+                        "y": 143.46
+                    },
+                    "uuid": "63bf9450-ed28-4bbf-bc9b-8dfbecaf108e"
+                },
+                {
+                    "description": "Pad 2 [GND] of R1 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 143.47
+                    },
+                    "uuid": "cc5834d8-7d5f-4d94-8ec3-83ec91d84198"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets Net-(JP1-Pin_11) and GND)",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_11)] on Front, length 7.7366 mm",
+                    "pos": {
+                        "x": 72.7366,
+                        "y": 143.46
+                    },
+                    "uuid": "8b4fbea9-59a1-4bd9-bd87-0d7422615a9f"
+                },
+                {
+                    "description": "Pad 2 [GND] of R1 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 143.47
+                    },
+                    "uuid": "cc5834d8-7d5f-4d94-8ec3-83ec91d84198"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets Net-(JP1-Pin_11) and GND)",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_11)] on Front, length 0.8508 mm",
+                    "pos": {
+                        "x": 72.9294,
+                        "y": 144.7876
+                    },
+                    "uuid": "b83eedf5-e626-48e8-b71a-42a2f89b7dc7"
+                },
+                {
+                    "description": "Pad 2 [GND] of R1 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 143.47
+                    },
+                    "uuid": "cc5834d8-7d5f-4d94-8ec3-83ec91d84198"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_3))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R5 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "6f5ebb3d-e31b-4d44-965b-24cf851eddb1"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_3)] on Front, length 0.5753 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "b2b179ca-e006-4316-b0b9-5489d5f0d19e"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_3))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R5 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "6f5ebb3d-e31b-4d44-965b-24cf851eddb1"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_3)] on Front, length 0.7389 mm",
+                    "pos": {
+                        "x": 73.7799,
+                        "y": 153.078
+                    },
+                    "uuid": "b7b78d04-e41e-42c2-b8e1-d353e93e00dd"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_3))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R5 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "6f5ebb3d-e31b-4d44-965b-24cf851eddb1"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_3)] on Front, length 0.3016 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "d12908e1-09e6-401b-81c3-ebee3e46c677"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_3))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R5 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "6f5ebb3d-e31b-4d44-965b-24cf851eddb1"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_3)] on Front, length 8.0391 mm",
+                    "pos": {
+                        "x": 73.1021,
+                        "y": 153.557
+                    },
+                    "uuid": "eeea1442-257e-45d2-8aa8-92cac48faed9"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_5))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R4 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "38a2302d-eec0-4f04-8e98-31f19412e441"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_5)] on Front, length 1.3018 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "40c04686-977d-48ce-884b-de9163ac12c3"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_5))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R4 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "38a2302d-eec0-4f04-8e98-31f19412e441"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_5)] on Front, length 0.3016 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "a95039fa-5efe-4542-af50-4cc97f075a80"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and Net-(JP1-Pin_5))",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R4 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "38a2302d-eec0-4f04-8e98-31f19412e441"
+                },
+                {
+                    "description": "Track [Net-(JP1-Pin_5)] on Front, length 8.0691 mm",
+                    "pos": {
+                        "x": 73.1021,
+                        "y": 151.047
+                    },
+                    "uuid": "fa617b60-5719-4a0d-88e2-82706bdcbcee"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Silkscreen clipped by board edge",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 155.0,
+                        "y": 114.5
+                    },
+                    "uuid": "00000000-0000-0000-0000-000061899f36"
+                },
+                {
+                    "description": "Segment on F.Silkscreen",
+                    "pos": {
+                        "x": 107.75,
+                        "y": 114.5
+                    },
+                    "uuid": "2d7ad02e-6960-4b31-a930-feb4050dbc03"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_edge_clearance"
+        },
+        {
+            "description": "Silkscreen clipped by board edge",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 160.5,
+                        "y": 164.5
+                    },
+                    "uuid": "b547dd70-2ea7-4cfd-a1ee-911561975d81"
+                },
+                {
+                    "description": "Segment on F.Silkscreen",
+                    "pos": {
+                        "x": 107.75,
+                        "y": 139.75
+                    },
+                    "uuid": "77a0916d-ed6c-4e5f-b6f7-498ec06ea62c"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_edge_clearance"
+        },
+        {
+            "description": "Silkscreen clipped by board edge",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 155.0,
+                        "y": 114.5
+                    },
+                    "uuid": "00000000-0000-0000-0000-000061899f36"
+                },
+                {
+                    "description": "Reference field of C13",
+                    "pos": {
+                        "x": 125.0,
+                        "y": 115.3375
+                    },
+                    "uuid": "0502aef7-833f-4d6f-bce8-a982f5f9ed24"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_edge_clearance"
+        },
+        {
+            "description": "Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.",
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 86.595,
+                        "y": 151.85
+                    },
+                    "uuid": "00000000-0000-0000-0000-00006173b78c"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_mismatch"
+        },
+        {
+            "description": "Footprint 'SOP-24_7.5x15.4mm_P1.27mm' does not match copy in library 'Package_SO'.",
+            "items": [
+                {
+                    "description": "Footprint U2",
+                    "pos": {
+                        "x": 121.5,
+                        "y": 152.0
+                    },
+                    "uuid": "00000000-0000-0000-0000-00006189ddeb"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_mismatch"
+        },
+        {
+            "description": "Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.",
+            "items": [
+                {
+                    "description": "Footprint U3",
+                    "pos": {
+                        "x": 119.0,
+                        "y": 140.0
+                    },
+                    "uuid": "14184423-3a5e-45d5-9d35-18070dc18476"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_mismatch"
+        },
+        {
+            "description": "Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.",
+            "items": [
+                {
+                    "description": "Footprint U4",
+                    "pos": {
+                        "x": 119.1375,
+                        "y": 125.5
+                    },
+                    "uuid": "99a950bd-9e51-4edc-b882-bd952ad5777c"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_mismatch"
+        },
+        {
+            "description": "Footprint 'adlib2' not found in library 'electrified'.",
+            "items": [
+                {
+                    "description": "Footprint G1",
+                    "pos": {
+                        "x": 75.5,
+                        "y": 128.5
+                    },
+                    "uuid": "9a6eba0c-59ca-47f5-a781-fea6b3ac2c13"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'Audio out' on F.Silkscreen",
+                    "pos": {
+                        "x": 153.0,
+                        "y": 117.0
+                    },
+                    "uuid": "00000000-0000-0000-0000-0000618c1d5a"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'github.com/electrified/rcbus-ymf262' on B.Silkscreen",
+                    "pos": {
+                        "x": 132.0,
+                        "y": 160.0
+                    },
+                    "uuid": "28b01cd2-da3a-46ec-8825-b0f31a0b8987"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Thermal relief connection to zone incomplete (layer Front; zone min spoke count 2; actual 1)",
+            "items": [
+                {
+                    "description": "Zone [GND] on Front and Back",
+                    "pos": {
+                        "x": 161.0,
+                        "y": 140.0
+                    },
+                    "uuid": "00000000-0000-0000-0000-000061899f39"
+                },
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                }
+            ],
+            "severity": "error",
+            "type": "starved_thermal"
+        },
+        {
+            "description": "Thermal relief connection to zone incomplete (layer Front; zone min spoke count 2; actual 1)",
+            "items": [
+                {
+                    "description": "Zone [GND] on Front and Back",
+                    "pos": {
+                        "x": 161.0,
+                        "y": 140.0
+                    },
+                    "uuid": "00000000-0000-0000-0000-000061899f39"
+                },
+                {
+                    "description": "Pad 2 [GND] of C10 on Front",
+                    "pos": {
+                        "x": 117.75,
+                        "y": 117.6375
+                    },
+                    "uuid": "1028e898-a721-437f-b816-1805a09c9fd1"
+                }
+            ],
+            "severity": "error",
+            "type": "starved_thermal"
+        },
+        {
+            "description": "Silkscreen clipped by solder mask",
+            "items": [
+                {
+                    "description": "Reference field of R9",
+                    "pos": {
+                        "x": 114.8375,
+                        "y": 118.93
+                    },
+                    "uuid": "3764abf9-80ae-4843-b931-2d2a96dd7039"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_over_copper"
+        },
+        {
+            "description": "Silkscreen clipped by solder mask",
+            "items": [
+                {
+                    "description": "Reference field of R8",
+                    "pos": {
+                        "x": 121.32,
+                        "y": 118.5
+                    },
+                    "uuid": "0f7f0131-4931-4f65-818d-dbe0f95ba4b1"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_over_copper"
+        },
+        {
+            "description": "Silkscreen clipped by solder mask",
+            "items": [
+                {
+                    "description": "Reference field of C10",
+                    "pos": {
+                        "x": 116.32,
+                        "y": 118.5
+                    },
+                    "uuid": "1b8327a1-af40-45f4-a38d-1be03036cc47"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_over_copper"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 7.0616 mm",
+                    "pos": {
+                        "x": 72.9116,
+                        "y": 156.067
+                    },
+                    "uuid": "488aee9e-d259-4f5c-a7f6-cc56c9dedb93"
+                },
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 0.5200 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "6442d0a9-56ed-4afd-95e5-b3d98f1c667a"
+                },
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 1.2379 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 155.5
+                    },
+                    "uuid": "8f94db11-593b-48f0-b8a7-b58cd5d766a9"
+                },
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 0.1905 mm",
+                    "pos": {
+                        "x": 73.1021,
+                        "y": 156.067
+                    },
+                    "uuid": "c29d673d-b6d5-44df-ac27-2cc61f81f1c7"
+                },
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 0.3016 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "dc9aa2b4-1d60-4cf1-8dc7-b2625aac88c9"
+                },
+                {
+                    "description": "Pad 2 [GND] of R6 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 156.02
+                    },
+                    "uuid": "264a0685-33df-466d-abd8-8118ccef29e7"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_9)] on Front, length 2.1348 mm",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "26a17966-359a-4e47-9d75-3191cbec67de"
+                },
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_9)] on Front, length 7.7236 mm",
+                    "pos": {
+                        "x": 72.7366,
+                        "y": 146.013
+                    },
+                    "uuid": "3734d40e-bb67-4e45-a514-e3d1c53b7953"
+                },
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_9)] on Front, length 0.3016 mm",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "92bd85cf-3887-4fca-ac15-93e0aa0318bf"
+                },
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_9)] on Front, length 0.1905 mm",
+                    "pos": {
+                        "x": 72.9271,
+                        "y": 146.013
+                    },
+                    "uuid": "e762b59e-d727-4838-b082-9e3f12833e94"
+                },
+                {
+                    "description": "Pad 2 [GND] of R2 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 146.06
+                    },
+                    "uuid": "879ce591-353b-40cb-a717-548832767b3e"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.0789 mm",
+                    "pos": {
+                        "x": 72.9116,
+                        "y": 148.537
+                    },
+                    "uuid": "0cec63d0-0b79-432d-8f77-53874860a62a"
+                },
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.0042 mm",
+                    "pos": {
+                        "x": 72.8327,
+                        "y": 148.537
+                    },
+                    "uuid": "133a8bb8-b208-4ed7-a8a3-fc7c45a9b283"
+                },
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.1905 mm",
+                    "pos": {
+                        "x": 73.1021,
+                        "y": 148.537
+                    },
+                    "uuid": "875f3925-6d27-401a-b977-0c9a0025fde6"
+                },
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.6100 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 149.1
+                    },
+                    "uuid": "97f8db8b-472f-4851-8146-d961943a312f"
+                },
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.3016 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "a1d6a388-90d6-444e-9eed-c742b1141593"
+                },
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 0.4391 mm",
+                    "pos": {
+                        "x": 73.7105,
+                        "y": 149.4105
+                    },
+                    "uuid": "d83f5438-f4c3-4136-a59e-ae40de06fd5a"
+                },
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_7)] on Front, length 7.8297 mm",
+                    "pos": {
+                        "x": 72.8297,
+                        "y": 148.54
+                    },
+                    "uuid": "e30a61e8-1267-4397-b49f-400ab84b23a6"
+                },
+                {
+                    "description": "Pad 2 [GND] of R3 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 148.49
+                    },
+                    "uuid": "1ec7c092-8882-42a5-803b-f8ff50b3f7dc"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_11)] on Front, length 0.5525 mm",
+                    "pos": {
+                        "x": 72.9294,
+                        "y": 143.9368
+                    },
+                    "uuid": "45f28ed7-b5d1-4019-981c-c4074787940c"
+                },
+                {
+                    "description": "Pad 2 [GND] of R1 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 143.47
+                    },
+                    "uuid": "cc5834d8-7d5f-4d94-8ec3-83ec91d84198"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_11)] on Front, length 0.1905 mm",
+                    "pos": {
+                        "x": 72.9271,
+                        "y": 143.46
+                    },
+                    "uuid": "63bf9450-ed28-4bbf-bc9b-8dfbecaf108e"
+                },
+                {
+                    "description": "Pad 2 [GND] of R1 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 143.47
+                    },
+                    "uuid": "cc5834d8-7d5f-4d94-8ec3-83ec91d84198"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_11)] on Front, length 7.7366 mm",
+                    "pos": {
+                        "x": 72.7366,
+                        "y": 143.46
+                    },
+                    "uuid": "8b4fbea9-59a1-4bd9-bd87-0d7422615a9f"
+                },
+                {
+                    "description": "Pad 2 [GND] of R1 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 143.47
+                    },
+                    "uuid": "cc5834d8-7d5f-4d94-8ec3-83ec91d84198"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_11)] on Front, length 0.8508 mm",
+                    "pos": {
+                        "x": 72.9294,
+                        "y": 144.7876
+                    },
+                    "uuid": "b83eedf5-e626-48e8-b71a-42a2f89b7dc7"
+                },
+                {
+                    "description": "Pad 2 [GND] of R1 on Front",
+                    "pos": {
+                        "x": 73.225,
+                        "y": 143.47
+                    },
+                    "uuid": "cc5834d8-7d5f-4d94-8ec3-83ec91d84198"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_3)] on Front, length 0.5753 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "b2b179ca-e006-4316-b0b9-5489d5f0d19e"
+                },
+                {
+                    "description": "Pad 2 [GND] of R5 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "6f5ebb3d-e31b-4d44-965b-24cf851eddb1"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_3)] on Front, length 0.7389 mm",
+                    "pos": {
+                        "x": 73.7799,
+                        "y": 153.078
+                    },
+                    "uuid": "b7b78d04-e41e-42c2-b8e1-d353e93e00dd"
+                },
+                {
+                    "description": "Pad 2 [GND] of R5 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "6f5ebb3d-e31b-4d44-965b-24cf851eddb1"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_3)] on Front, length 0.3016 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "d12908e1-09e6-401b-81c3-ebee3e46c677"
+                },
+                {
+                    "description": "Pad 2 [GND] of R5 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "6f5ebb3d-e31b-4d44-965b-24cf851eddb1"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_3)] on Front, length 8.0391 mm",
+                    "pos": {
+                        "x": 73.1021,
+                        "y": 153.557
+                    },
+                    "uuid": "eeea1442-257e-45d2-8aa8-92cac48faed9"
+                },
+                {
+                    "description": "Pad 2 [GND] of R5 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 153.51
+                    },
+                    "uuid": "6f5ebb3d-e31b-4d44-965b-24cf851eddb1"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_5)] on Front, length 1.3018 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "40c04686-977d-48ce-884b-de9163ac12c3"
+                },
+                {
+                    "description": "Pad 2 [GND] of R4 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "38a2302d-eec0-4f04-8e98-31f19412e441"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_5)] on Front, length 0.3016 mm",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "a95039fa-5efe-4542-af50-4cc97f075a80"
+                },
+                {
+                    "description": "Pad 2 [GND] of R4 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "38a2302d-eec0-4f04-8e98-31f19412e441"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [Net-(JP1-Pin_5)] on Front, length 8.0691 mm",
+                    "pos": {
+                        "x": 73.1021,
+                        "y": 151.047
+                    },
+                    "uuid": "fa617b60-5719-4a0d-88e2-82706bdcbcee"
+                },
+                {
+                    "description": "Pad 2 [GND] of R4 on Front",
+                    "pos": {
+                        "x": 73.4,
+                        "y": 151.0
+                    },
+                    "uuid": "38a2302d-eec0-4f04-8e98-31f19412e441"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Silkscreen overlap",
+            "items": [
+                {
+                    "description": "Segment of U3 on F.Silkscreen",
+                    "pos": {
+                        "x": 124.26,
+                        "y": 140.0
+                    },
+                    "uuid": "5dc3ee89-dc5d-4400-8321-f2c92ced7388"
+                },
+                {
+                    "description": "Segment on F.Silkscreen",
+                    "pos": {
+                        "x": 107.75,
+                        "y": 139.75
+                    },
+                    "uuid": "77a0916d-ed6c-4e5f-b6f7-498ec06ea62c"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_overlap"
+        },
+        {
+            "description": "Silkscreen overlap",
+            "items": [
+                {
+                    "description": "Segment on F.Silkscreen",
+                    "pos": {
+                        "x": 107.75,
+                        "y": 139.75
+                    },
+                    "uuid": "77a0916d-ed6c-4e5f-b6f7-498ec06ea62c"
+                },
+                {
+                    "description": "Reference field of U3",
+                    "pos": {
+                        "x": 112.9,
+                        "y": 140.0
+                    },
+                    "uuid": "cb700b11-1c6c-4a1e-b592-c95265825e36"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_overlap"
+        },
+        {
+            "description": "Silkscreen overlap",
+            "items": [
+                {
+                    "description": "Segment of U3 on F.Silkscreen",
+                    "pos": {
+                        "x": 113.74,
+                        "y": 140.0
+                    },
+                    "uuid": "37f1f89b-87ca-487f-a23a-8e09e969bd95"
+                },
+                {
+                    "description": "Segment on F.Silkscreen",
+                    "pos": {
+                        "x": 107.75,
+                        "y": 139.75
+                    },
+                    "uuid": "77a0916d-ed6c-4e5f-b6f7-498ec06ea62c"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_overlap"
+        },
+        {
+            "description": "Silkscreen overlap",
+            "items": [
+                {
+                    "description": "Reference field of R9",
+                    "pos": {
+                        "x": 114.8375,
+                        "y": 118.93
+                    },
+                    "uuid": "3764abf9-80ae-4843-b931-2d2a96dd7039"
+                },
+                {
+                    "description": "Segment of C14 on F.Silkscreen",
+                    "pos": {
+                        "x": 114.896267,
+                        "y": 118.99
+                    },
+                    "uuid": "75fa61f7-c527-4a0e-b08e-54e334679e85"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_overlap"
+        },
+        {
+            "description": "Silkscreen overlap",
+            "items": [
+                {
+                    "description": "Reference field of C12",
+                    "pos": {
+                        "x": 120.68,
+                        "y": 131.3625
+                    },
+                    "uuid": "c5d2eb38-edef-4d07-8003-95d392c9ace9"
+                },
+                {
+                    "description": "Reference field of R7",
+                    "pos": {
+                        "x": 120.82,
+                        "y": 131.4125
+                    },
+                    "uuid": "e3942316-4dac-477e-b4ab-08e4e612a791"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_overlap"
+        },
+        {
+            "description": "Silkscreen overlap",
+            "items": [
+                {
+                    "description": "Reference field of R8",
+                    "pos": {
+                        "x": 121.32,
+                        "y": 118.5
+                    },
+                    "uuid": "0f7f0131-4931-4f65-818d-dbe0f95ba4b1"
+                },
+                {
+                    "description": "Segment of C9 on F.Silkscreen",
+                    "pos": {
+                        "x": 121.01,
+                        "y": 118.646267
+                    },
+                    "uuid": "502efbad-12bc-474a-b250-f382ddd81253"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_overlap"
+        }
+    ]
+}
