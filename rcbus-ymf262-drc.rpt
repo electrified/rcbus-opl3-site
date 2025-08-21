@@ -1,7 +1,7 @@
 ** Drc report for rcbus-ymf262.kicad_pcb **
-** Created on 2025-08-20T22:29:14+0000 **
+** Created on 2025-08-21T22:32:05+0000 **
 
-** Found 81 DRC violations **
+** Found 80 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(76.7 mm, 156.0 mm): Via [Net-(JP1-Pin_1)] on Front - Back
@@ -152,9 +152,6 @@
 [lib_footprint_mismatch]: Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
     @(119.1375 mm, 125.5 mm): Footprint U4
-[lib_footprint_issues]: Footprint 'adlib2' not found in library 'electrified'.
-    ; warning
-    @(75.5 mm, 128.5 mm): Footprint G1
 [text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
     ; warning
     @(153.0 mm, 117.0 mm): PCB text 'Audio out' on F.Silkscreen
@@ -288,20 +285,20 @@
     @(73.4 mm, 151.0 mm): Pad 2 [GND] of R4 on Front
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(124.26 mm, 140.0 mm): Segment of U3 on F.Silkscreen
     @(107.75 mm, 139.75 mm): Segment on F.Silkscreen
+    @(124.26 mm, 140.0 mm): Segment of U3 on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(107.75 mm, 139.75 mm): Segment on F.Silkscreen
     @(112.9 mm, 140.0 mm): Reference field of U3
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(113.74 mm, 140.0 mm): Segment of U3 on F.Silkscreen
     @(107.75 mm, 139.75 mm): Segment on F.Silkscreen
+    @(113.74 mm, 140.0 mm): Segment of U3 on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(114.8375 mm, 118.93 mm): Reference field of R9
     @(114.896267 mm, 118.99 mm): Segment of C14 on F.Silkscreen
+    @(114.8375 mm, 118.93 mm): Reference field of R9
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(120.68 mm, 131.3625 mm): Reference field of C12
@@ -347,7 +344,7 @@
 [unconnected_items]: Missing connection between items
     ; error
     @(74.275352 mm, 154.624648 mm): Track [Net-(JP1-Pin_1)] on Front, length 5.5864 mm
-    @(75.225 mm, 156.02 mm): Pad 1 [Net-(JP1-Pin_1)] of R6 on Front
+    @(75.225 mm, 156.02 mm): Track [Net-(JP1-Pin_1)] on Front, length 1.4550 mm
 [unconnected_items]: Missing connection between items
     ; error
     @(74.7345 mm, 147.5695 mm): Track [Net-(JP1-Pin_9)] on Front, length 4.4350 mm
@@ -355,15 +352,15 @@
 [unconnected_items]: Missing connection between items
     ; error
     @(76.69 mm, 148.49 mm): Track [Net-(JP1-Pin_7)] on Front, length 0.0141 mm
-    @(77.522552 mm, 150.709 mm): Track [Net-(JP1-Pin_7)] on Front, length 1.8364 mm
+    @(76.224052 mm, 149.4105 mm): Track [Net-(JP1-Pin_7)] on Front, length 2.5136 mm
 [unconnected_items]: Missing connection between items
     ; error
     @(72.9294 mm, 143.9368 mm): Track [Net-(JP1-Pin_11)] on Front, length 0.5525 mm
-    @(75.05 mm, 143.47 mm): Pad 1 [Net-(JP1-Pin_11)] of R1 on Front
+    @(75.05 mm, 143.47 mm): Track [Net-(JP1-Pin_11)] on Front, length 0.7814 mm
 [unconnected_items]: Missing connection between items
     ; error
-    @(74.3024 mm, 152.5555 mm): Track [Net-(JP1-Pin_3)] on Front, length 3.5866 mm
-    @(75.225 mm, 153.51 mm): Pad 1 [Net-(JP1-Pin_3)] of R5 on Front
+    @(73.7799 mm, 153.078 mm): Track [Net-(JP1-Pin_3)] on Front, length 0.7389 mm
+    @(75.225 mm, 153.51 mm): Track [Net-(JP1-Pin_3)] on Front, length 1.4650 mm
 [unconnected_items]: Missing connection between items
     ; error
     @(75.225 mm, 151.0 mm): Track [Net-(JP1-Pin_5)] on Front, length 1.4750 mm

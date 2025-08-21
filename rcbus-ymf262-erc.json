@@ -1,28 +1,13 @@
 {
     "$schema": "https://schemas.kicad.org/erc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-08-20T22:29:15+0000",
+    "date": "2025-08-21T22:32:06+0000",
     "kicad_version": "9.0.1",
     "sheets": [
         {
             "path": "/",
             "uuid_path": "/9a2d648d-863a-4b7b-80f9-d537185c212b",
             "violations": [
-                {
-                    "description": "Symbol 'CXO_DIP-8-14' doesn't match copy in library 'electrified'",
-                    "items": [
-                        {
-                            "description": "Symbol X1 [CXO_DIP-8-14]",
-                            "pos": {
-                                "x": 0.9906,
-                                "y": 1.8796
-                            },
-                            "uuid": "00000000-0000-0000-0000-00005f107933"
-                        }
-                    ],
-                    "severity": "warning",
-                    "type": "lib_symbol_mismatch"
-                },
                 {
                     "description": "Both GND and GNDA are attached to the same items; GND will be used in the netlist",
                     "items": [
