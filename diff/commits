@@ -1,4 +1,4 @@
+09dfc0b|2025-08-26|ed|use smd oscillator|True|True
 ebfbf4c|2025-08-21|ed|use updated footprints, update library submodule|False|True
 799e937|2025-08-20|ed|pcb updates, remove old github actions|True|True
 469c478|2025-08-19|ed|more routing|True|True
-ff89fc7|2025-08-17|ed|reroute|False|True

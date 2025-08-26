@@ -65,7 +65,7 @@ Eurocircuits class: 8B
 
 Components count: (SMD/THT)
 
-- Top: 35/4 (SMD + THT)
+- Top: 37/3 (SMD + THT)
 - Bottom: 0/0 (NONE)
 
 Defined tracks:
@@ -76,7 +76,7 @@ Defined tracks:
 
 Used tracks:
 
-- 0.38 mm (15 mils) (557) defined: yes
+- 0.38 mm (15 mils) (548) defined: yes
 
 Defined vias:
 
@@ -87,7 +87,6 @@ Used vias:
 
 Holes (excluding vias):
 
-- 0.8 mm (31 mils) (6)
 - 1.0 mm (39 mils) (51)
 - 1.2 mm (47 mils) (5)
 - 3.2 mm (126 mils) (1)
@@ -99,7 +98,7 @@ Oval holes:
 Drill tools (including vias and computing adjusts and rounding):
 
 - 0.45 mm (18 mils) (45)
-- 0.9 mm (35 mils) (11)
+- 0.9 mm (35 mils) (5)
 - 1.1 mm (43 mils) (51)
 - 1.2 mm (47 mils) (5)
 - 3.2 mm (126 mils) (1)
@@ -113,7 +112,7 @@ The stencil thickness is  0.12 mm.
 
 | Side   | Pads with paste | Area [mm²] | Paste [g] |
 |--------|-----------------|------------|-----------|
-| Total  |             136 |     143.28 |      0.71 |
+| Total  |             142 |     159.38 |      0.79 |
 
 Note: this is just an approximation to the theoretical value. Margins of the solder mask and waste aren't computed.
 

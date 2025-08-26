@@ -4,7 +4,7 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 3,"Unpolarized capacitor, small symbol",C_Small,C9 C10,2.7nf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2, ,~,,,,,,,
 4,"Unpolarized capacitor, small symbol",C_Small,C17 C18,3.9nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2, ,~,,,,,,,
 5,"Unpolarized capacitor, small symbol",C_Small,C2,10nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,~,,,,,,,
-6,"Unpolarized capacitor, small symbol",C_Small,C1 C3 C6 C7 C12,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,5, ,~,,,,,,,
+6,"Unpolarized capacitor, small symbol",C_Small,C1 C3 C6 C7 C12 C19,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,6, ,~,,,,,,,
 7,"Polarized capacitor, small symbol",C_Polarized_Small,C15 C16,10uf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2, ,~,,,,,,,
 8,"Polarized capacitor, small symbol",C_Polarized_Small,C4 C5,10uF,C_1206_3216Metric,2, ,~,,,,,,,
 9,"Unpolarized capacitor, small symbol",C_Small,C8,10uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,~,,,,,,,
@@ -21,7 +21,7 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 20,"Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14",TL074,U4,TL074,SOIC-14_3.9x8.7mm_P1.27mm,1, ,http://www.ti.com/lit/ds/symlink/tl071.pdf,,,,,,,
 21,,YAC512,U3,YAC512,SOP-16_4.55x10.3mm_P1.27mm,1, ,,,,,,,,
 22,,YMF262,U2,YMF262,SOP-24_7.5x15.4mm_P1.27mm,1, ,,,,,,,,
-23,"Crystal Clock Oscillator, DIP8-style metal package",CXO_DIP-8-14,X1,14.318MHz,Oscillator_DIP-8-14,1, ,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf,,,,,,,
+23,"3.3V HCMOS SMD Crystal Clock Oscillator, Abracon",ASV-xxxMHz,Y1,SG-8002CA,Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm,1, ,http://www.abracon.com/Oscillators/ASV.pdf,,,,,,,
 
 
 
@@ -35,7 +35,7 @@ Date:,@date@
 KiCad Version:,9.0.1+1
 Statistics:
 Component Groups:,23
-Component Count:,39 (35 SMD/ 4 THT)
-Fitted Components:,39 (35 SMD/ 4 THT)
+Component Count:,40 (37 SMD/ 3 THT)
+Fitted Components:,40 (37 SMD/ 3 THT)
 Number of PCBs:,1
-Total Components:,39
+Total Components:,40

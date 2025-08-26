@@ -1,5 +1,5 @@
 "Reference","Qty","Value","DNP","Exclude from Board","Footprint","Datasheet"
-"C1,C6,C7,C12","4","0.1uF","","Excluded from board","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
+"C1,C6,C7,C12,C19","5","0.1uF","","Excluded from board","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
 "C11","1","68pf","","","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
 "C13,C14","2","470pF","","Excluded from board","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
 "C17,C18","2","3.9nF","","Excluded from board","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
@@ -21,4 +21,4 @@
 "U2","1","YMF262","","","SOP-24_7.5x15.4mm_P1.27mm",""
 "U3","1","YAC512","","","SOP-16_4.55x10.3mm_P1.27mm",""
 "U4","1","TL074","","","SOIC-14_3.9x8.7mm_P1.27mm","http://www.ti.com/lit/ds/symlink/tl071.pdf"
-"X1","1","14.318MHz","","","Oscillator_DIP-8-14","http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf"
+"Y1","1","SG-8002CA","","","Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm","http://www.abracon.com/Oscillators/ASV.pdf"

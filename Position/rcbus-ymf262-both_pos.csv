@@ -1,11 +1,11 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
-"C1","0.1uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-50.1905,-26.2820,180.0000,top
+"C1","0.1uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-49.2780,-25.4320,180.0000,top
 "C2","10nF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-26.3606,-16.0501,0.0000,top
 "C3","100nF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-20.8606,-16.0501,0.0000,top
 "C4","10uF","C_1206_3216Metric",-15.3606,-16.0501,0.0000,top
 "C5","10uF","C_1206_3216Metric",-4.8606,-15.5501,0.0000,top
 "C6","0.1uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-81.1905,-13.6820,0.0000,top
-"C7","0.1uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-50.5655,-11.8820,180.0000,top
+"C7","0.1uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-49.2780,-11.6820,180.0000,top
 "C8","10uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-44.0280,-0.0445,-90.0000,top
 "C9","2.7nf","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-40.0280,12.8180,90.0000,top
 "C10","2.7nf","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-42.7780,12.8180,90.0000,top
@@ -17,6 +17,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "C16","10uf","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-28.5634,14.4305,90.0000,top
 "C17","3.9nF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-18.2780,10.3180,90.0000,top
 "C18","3.9nF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-18.2884,14.4305,90.0000,top
+"C19","0.1uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",-59.2780,-10.9320,0.0000,top
 "CON1","SJ1-3523N","Headphone_Jack_3.5mm_5_pin",-11.4590,6.2230,180.0000,top
 "JP1","BASE ADDRESS","PinHeader_2x06_P2.54mm_Vertical",-95.5280,-24.8420,180.0000,top
 "L1","BLM18PG221SN1D","L_0603_1608Metric_Pad1.05x0.95mm_HandSolder",-23.7356,-11.0501,180.0000,top
@@ -37,4 +38,4 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "U2","YMF262","SOP-24_7.5x15.4mm_P1.27mm",-39.0280,-20.6820,90.0000,top
 "U3","YAC512","SOP-16_4.55x10.3mm_P1.27mm",-41.5280,-8.6820,90.0000,top
 "U4","TL074","SOIC-14_3.9x8.7mm_P1.27mm",-41.3905,5.8180,90.0000,top
-"X1","14.318MHz","Oscillator_DIP-8-14",-66.0280,-3.6820,0.0000,top
+"Y1","SG-8002CA","Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm",-57.4880,-15.4320,0.0000,top
