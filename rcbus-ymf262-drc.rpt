@@ -1,7 +1,7 @@
 ** Drc report for rcbus-ymf262.kicad_pcb **
-** Created on 2025-08-28T08:10:10+0000 **
+** Created on 2025-08-28T22:15:46+0000 **
 
-** Found 76 DRC violations **
+** Found 77 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(76.7 mm, 156.0 mm): Via [Net-(JP1-Pin_1)] on Front - Back
@@ -139,6 +139,9 @@
 [lib_footprint_mismatch]: Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
     @(119.1375 mm, 125.5 mm): Footprint U4
+[unresolved_variable]: Unresolved text variable
+    ; error
+    @(160.1 mm, 160.5 mm): PCB text 'Rev: ${VERSION} ${GIT_HASH}' on F.Silkscreen
 [text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
     ; warning
     @(153.0 mm, 117.0 mm): PCB text 'Audio out' on F.Silkscreen
@@ -321,7 +324,7 @@
     @(73.225 mm, 143.47 mm): Pad 2 [GND] of R1 on Front
 [unconnected_items]: Missing connection between items
     ; error
-    @(128.25 mm, 131.945 mm): Track [+5VA] on Front, length 6.7953 mm
+    @(128.25 mm, 126.5 mm): Track [+5VA] on Front, length 5.4450 mm
     @(148.5959 mm, 146.5043 mm): Track [+5VA] on Back, length 0.3961 mm
 [unconnected_items]: Missing connection between items
     ; error
@@ -333,7 +336,7 @@
     @(73.27451 mm, 147.5695 mm): Track [Net-(JP1-Pin_9)] on Front, length 5.3062 mm
 [unconnected_items]: Missing connection between items
     ; error
-    @(76.7 mm, 148.5 mm): Via [Net-(JP1-Pin_7)] on Front - Back
+    @(76.69 mm, 148.49 mm): Track [Net-(JP1-Pin_7)] on Front, length 0.0141 mm
     @(76.224052 mm, 149.4105 mm): Track [Net-(JP1-Pin_7)] on Front, length 2.5136 mm
 [unconnected_items]: Missing connection between items
     ; error
@@ -341,8 +344,8 @@
     @(75.05 mm, 143.47 mm): Track [Net-(JP1-Pin_11)] on Front, length 0.5060 mm
 [unconnected_items]: Missing connection between items
     ; error
-    @(74.3024 mm, 152.5555 mm): Track [Net-(JP1-Pin_3)] on Front, length 3.5866 mm
-    @(75.225 mm, 153.51 mm): Track [Net-(JP1-Pin_3)] on Front, length 1.4650 mm
+    @(73.7799 mm, 153.078 mm): Track [Net-(JP1-Pin_3)] on Front, length 0.7389 mm
+    @(75.225 mm, 153.51 mm): Pad 1 [Net-(JP1-Pin_3)] of R5 on Front
 [unconnected_items]: Missing connection between items
     ; error
     @(75.225 mm, 151.0 mm): Track [Net-(JP1-Pin_5)] on Front, length 1.4750 mm

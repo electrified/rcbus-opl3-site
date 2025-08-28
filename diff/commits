@@ -1,4 +1,4 @@
+ffcfb93|2025-08-28|ed|more versioning stuff|True|True
 b43f424|2025-08-28|ed|set version no|True|True
 09dfc0b|2025-08-26|ed|use smd oscillator|True|True
 ebfbf4c|2025-08-21|ed|use updated footprints, update library submodule|False|True
-799e937|2025-08-20|ed|pcb updates, remove old github actions|True|True

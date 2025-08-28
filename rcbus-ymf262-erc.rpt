@@ -1,4 +1,4 @@
-ERC report (2025-08-28T08:10:11+0000, Encoding UTF8)
+ERC report (2025-08-28T22:15:47+0000, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both GND and GNDA are attached to the same items; GND will be used in the netlist
@@ -6,4 +6,13 @@ ERC report (2025-08-28T08:10:11+0000, Encoding UTF8)
     @(0.5588 mm, 1.6383 mm): Symbol #PWR02 Pin 1 [Power input, Line]
     @(1.5367 mm, 2.5781 mm): Symbol #PWR019 Pin 1 [Power input, Line]
 
- ** ERC messages: 1  Errors 0  Warnings 1
+[unresolved_variable]: Unresolved text variable in drawing sheet
+    ; error
+
+[unresolved_variable]: Unresolved text variable in drawing sheet
+    ; error
+
+[unresolved_variable]: Unresolved text variable in drawing sheet
+    ; error
+
+ ** ERC messages: 4  Errors 3  Warnings 1
