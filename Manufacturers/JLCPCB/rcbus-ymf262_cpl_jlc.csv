@@ -4,7 +4,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C3","100nF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",139.6674,-147.3681,0.0000,top
 "C4","10uF","C_1206_3216Metric",145.1674,-147.3681,0.0000,top
 "C5","10uF","C_1206_3216Metric",155.6674,-146.8681,0.0000,top
-"C6","0.1uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",79.3375,-145.0000,0.0000,top
+"C6","0.1uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",80.0000,-145.0000,180.0000,top
 "C7","0.1uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",111.2500,-143.0000,180.0000,top
 "C8","10uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",116.5000,-131.3625,270.0000,top
 "C9","2.7nf","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",120.5000,-118.5000,90.0000,top

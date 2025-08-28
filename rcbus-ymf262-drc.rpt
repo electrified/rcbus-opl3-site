@@ -1,7 +1,7 @@
 ** Drc report for rcbus-ymf262.kicad_pcb **
-** Created on 2025-08-26T22:43:02+0000 **
+** Created on 2025-08-28T08:10:10+0000 **
 
-** Found 83 DRC violations **
+** Found 76 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(76.7 mm, 156.0 mm): Via [Net-(JP1-Pin_1)] on Front - Back
@@ -13,7 +13,7 @@
     @(76.7 mm, 148.5 mm): Via [Net-(JP1-Pin_7)] on Front - Back
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
-    @(76.280724 mm, 143.919276 mm): Via [Net-(JP1-Pin_11)] on Front - Back
+    @(76.143018 mm, 144.056982 mm): Via [Net-(JP1-Pin_11)] on Front - Back
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(76.7 mm, 153.5 mm): Via [Net-(JP1-Pin_3)] on Front - Back
@@ -40,22 +40,6 @@
     ; error
     @(73.4 mm, 156.02 mm): Pad 2 [GND] of R6 on Front
     @(73.4 mm, 156.02 mm): Track [Net-(JP1-Pin_1)] on Front, length 0.3016 mm
-[shorting_items]: Items shorting two nets (nets Net-(JP1-Pin_9) and GND)
-    ; error
-    @(73.225 mm, 146.06 mm): Track [Net-(JP1-Pin_9)] on Front, length 2.1348 mm
-    @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
-[shorting_items]: Items shorting two nets (nets Net-(JP1-Pin_9) and GND)
-    ; error
-    @(72.7366 mm, 146.013 mm): Track [Net-(JP1-Pin_9)] on Front, length 7.7236 mm
-    @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
-[shorting_items]: Items shorting two nets (nets GND and Net-(JP1-Pin_9))
-    ; error
-    @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
-    @(73.225 mm, 146.06 mm): Track [Net-(JP1-Pin_9)] on Front, length 0.3016 mm
-[shorting_items]: Items shorting two nets (nets GND and Net-(JP1-Pin_9))
-    ; error
-    @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
-    @(72.9271 mm, 146.013 mm): Track [Net-(JP1-Pin_9)] on Front, length 0.1905 mm
 [shorting_items]: Items shorting two nets (nets Net-(JP1-Pin_7) and GND)
     ; error
     @(72.9116 mm, 148.537 mm): Track [Net-(JP1-Pin_7)] on Front, length 0.0789 mm
@@ -179,6 +163,9 @@
     @(117.75 mm, 117.6375 mm): Pad 2 [GND] of C10 on Front
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(80.0 mm, 146.6 mm): Reference field of C6
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(114.8375 mm, 118.93 mm): Reference field of R9
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -206,22 +193,6 @@
     ; error
     @(73.4 mm, 156.02 mm): Track [Net-(JP1-Pin_1)] on Front, length 0.3016 mm
     @(73.4 mm, 156.02 mm): Pad 2 [GND] of R6 on Front
-[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
-    ; error
-    @(73.225 mm, 146.06 mm): Track [Net-(JP1-Pin_9)] on Front, length 2.1348 mm
-    @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
-[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
-    ; error
-    @(72.7366 mm, 146.013 mm): Track [Net-(JP1-Pin_9)] on Front, length 7.7236 mm
-    @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
-[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
-    ; error
-    @(73.225 mm, 146.06 mm): Track [Net-(JP1-Pin_9)] on Front, length 0.3016 mm
-    @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
-[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
-    ; error
-    @(72.9271 mm, 146.013 mm): Track [Net-(JP1-Pin_9)] on Front, length 0.1905 mm
-    @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
 [solder_mask_bridge]: Front solder mask aperture bridges items with different nets
     ; error
     @(72.9116 mm, 148.537 mm): Track [Net-(JP1-Pin_7)] on Front, length 0.0789 mm
@@ -326,28 +297,28 @@
     @(133.3174 mm, 147.3556 mm): Track [VCC] on Front, length 0.0177 mm
 [unconnected_items]: Missing connection between items
     ; error
-    @(73.4 mm, 148.49 mm): Pad 2 [GND] of R3 on Front
     @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
-[unconnected_items]: Missing connection between items
-    ; error
     @(73.4 mm, 148.49 mm): Pad 2 [GND] of R3 on Front
-    @(73.4 mm, 151.0 mm): Pad 2 [GND] of R4 on Front
-[unconnected_items]: Missing connection between items
-    ; error
-    @(73.4 mm, 153.51 mm): Pad 2 [GND] of R5 on Front
-    @(73.4 mm, 151.0 mm): Pad 2 [GND] of R4 on Front
 [unconnected_items]: Missing connection between items
     ; error
     @(73.4 mm, 156.02 mm): Pad 2 [GND] of R6 on Front
     @(73.4 mm, 153.51 mm): Pad 2 [GND] of R5 on Front
 [unconnected_items]: Missing connection between items
     ; error
-    @(73.225 mm, 143.47 mm): Pad 2 [GND] of R1 on Front
-    @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
+    @(73.4 mm, 151.0 mm): Pad 2 [GND] of R4 on Front
+    @(73.4 mm, 153.51 mm): Pad 2 [GND] of R5 on Front
+[unconnected_items]: Missing connection between items
+    ; error
+    @(73.4 mm, 148.49 mm): Pad 2 [GND] of R3 on Front
+    @(73.4 mm, 151.0 mm): Pad 2 [GND] of R4 on Front
 [unconnected_items]: Missing connection between items
     ; error
     @(73.225 mm, 146.06 mm): Pad 2 [GND] of R2 on Front
-    @(80.2 mm, 145.0 mm): Pad 2 [GND] of C6 on Front
+    @(73.225 mm, 143.47 mm): Pad 2 [GND] of R1 on Front
+[unconnected_items]: Missing connection between items
+    ; error
+    @(71.0 mm, 140.0 mm): Via [GND] on Front - Back
+    @(73.225 mm, 143.47 mm): Pad 2 [GND] of R1 on Front
 [unconnected_items]: Missing connection between items
     ; error
     @(128.25 mm, 131.945 mm): Track [+5VA] on Front, length 6.7953 mm
@@ -358,16 +329,16 @@
     @(75.225 mm, 156.02 mm): Track [Net-(JP1-Pin_1)] on Front, length 1.4550 mm
 [unconnected_items]: Missing connection between items
     ; error
-    @(74.7345 mm, 147.5695 mm): Track [Net-(JP1-Pin_9)] on Front, length 4.4350 mm
     @(75.05 mm, 146.06 mm): Track [Net-(JP1-Pin_9)] on Front, length 1.5900 mm
+    @(73.27451 mm, 147.5695 mm): Track [Net-(JP1-Pin_9)] on Front, length 5.3062 mm
 [unconnected_items]: Missing connection between items
     ; error
-    @(76.69 mm, 148.49 mm): Track [Net-(JP1-Pin_7)] on Front, length 0.0141 mm
+    @(76.7 mm, 148.5 mm): Via [Net-(JP1-Pin_7)] on Front - Back
     @(76.224052 mm, 149.4105 mm): Track [Net-(JP1-Pin_7)] on Front, length 2.5136 mm
 [unconnected_items]: Missing connection between items
     ; error
     @(72.9294 mm, 143.9368 mm): Track [Net-(JP1-Pin_11)] on Front, length 0.5525 mm
-    @(75.05 mm, 143.47 mm): Track [Net-(JP1-Pin_11)] on Front, length 0.7814 mm
+    @(75.05 mm, 143.47 mm): Track [Net-(JP1-Pin_11)] on Front, length 0.5060 mm
 [unconnected_items]: Missing connection between items
     ; error
     @(74.3024 mm, 152.5555 mm): Track [Net-(JP1-Pin_3)] on Front, length 3.5866 mm

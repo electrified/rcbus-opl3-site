@@ -5,23 +5,22 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 4,"Unpolarized capacitor, small symbol",C_Small,C17 C18,3.9nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2, ,~,,,,,,,
 5,"Unpolarized capacitor, small symbol",C_Small,C2,10nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,~,,,,,,,
 6,"Unpolarized capacitor, small symbol",C_Small,C1 C3 C6 C7 C12 C19,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,6, ,~,,,,,,,
-7,"Polarized capacitor, small symbol",C_Polarized_Small,C15 C16,10uf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2, ,~,,,,,,,
+7,"Unpolarized capacitor, small symbol",C_Polarized_Small,C8 C15 C16,10uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3, ,~,,,,,,,
 8,"Polarized capacitor, small symbol",C_Polarized_Small,C4 C5,10uF,C_1206_3216Metric,2, ,~,,,,,,,
-9,"Unpolarized capacitor, small symbol",C_Small,C8,10uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,~,,,,,,,
-10,"Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)",AudioJack3_SwitchTR,CON1,SJ1-3523N,Headphone_Jack_3.5mm_5_pin,1, ,~,CP1-3523N-ND,SJ1-3523N,"Connectors, Interconnects",Barrel - Audio Connectors,https://www.cui.com/product/resource/digikeypdf/sj1-352xn_series.pdf,/product-detail/en/cui-inc/SJ1-3523N/CP1-3523N-ND/738689,CUI Inc.
-11,"Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x06_Odd_Even,JP1,BASE ADDRESS,PinHeader_2x06_P2.54mm_Vertical,1, ,~,,,,,,,
-12,Inductor,L,L2,33uH,L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~,,,,,,,
-13,Inductor,L,L1,BLM18PG221SN1D,L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~,,,,,,,
-14,"Generic connector, single row, 01x39, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x39,P1,RC2014 BUS,PinHeader_1x39_P2.54mm_Vertical,1, ,~,,,,,,,
-15,Resistor,R,R7,33,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,~,,,,,,,
-16,Resistor,R,R10 R11,1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,~,,,,,,,
-17,"Resistor, small symbol",R_Small,R1 R2 R3 R4 R5 R6,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,6, ,~,,,,,,,
-18,Resistor,R,R8 R9,15k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,~,,,,,,,
-19,8-bit magnitude comparator,74HCT688,U1,74HCT688,SOIC-20W_7.5x12.8mm_P1.27mm,1, ,https://www.ti.com/lit/ds/symlink/cd54hc688.pdf,,,,,,,
-20,"Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14",TL074,U4,TL074,SOIC-14_3.9x8.7mm_P1.27mm,1, ,http://www.ti.com/lit/ds/symlink/tl071.pdf,,,,,,,
-21,,YAC512,U3,YAC512,SOP-16_4.55x10.3mm_P1.27mm,1, ,,,,,,,,
-22,,YMF262,U2,YMF262,SOP-24_7.5x15.4mm_P1.27mm,1, ,,,,,,,,
-23,"3.3V HCMOS SMD Crystal Clock Oscillator, Abracon",ASV-xxxMHz,Y1,SG-8002CA,Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm,1, ,http://www.abracon.com/Oscillators/ASV.pdf,,,,,,,
+9,"Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)",AudioJack3_SwitchTR,CON1,SJ1-3523N,Headphone_Jack_3.5mm_5_pin,1, ,~,CP1-3523N-ND,SJ1-3523N,"Connectors, Interconnects",Barrel - Audio Connectors,https://www.cui.com/product/resource/digikeypdf/sj1-352xn_series.pdf,/product-detail/en/cui-inc/SJ1-3523N/CP1-3523N-ND/738689,CUI Inc.
+10,"Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x06_Odd_Even,JP1,BASE ADDRESS,PinHeader_2x06_P2.54mm_Vertical,1, ,~,,,,,,,
+11,Inductor,L,L2,33uH,L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~,,,,,,,
+12,Inductor,L,L1,BLM18PG221SN1D,L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~,,,,,,,
+13,"Generic connector, single row, 01x39, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x39,P1,RC2014 BUS,PinHeader_1x39_P2.54mm_Vertical,1, ,~,,,,,,,
+14,Resistor,R,R7,33,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,~,,,,,,,
+15,Resistor,R,R10 R11,1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,~,,,,,,,
+16,"Resistor, small symbol",R_Small,R1 R2 R3 R4 R5 R6,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,6, ,~,,,,,,,
+17,Resistor,R,R8 R9,15k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,~,,,,,,,
+18,8-bit magnitude comparator,74HCT688,U1,74HCT688,SOIC-20W_7.5x12.8mm_P1.27mm,1, ,https://www.ti.com/lit/ds/symlink/cd54hc688.pdf,,,,,,,
+19,"Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14",TL074,U4,TL074,SOIC-14_3.9x8.7mm_P1.27mm,1, ,http://www.ti.com/lit/ds/symlink/tl071.pdf,,,,,,,
+20,,YAC512,U3,YAC512,SOP-16_4.55x10.3mm_P1.27mm,1, ,,,,,,,,
+21,,YMF262,U2,YMF262,SOP-24_7.5x15.4mm_P1.27mm,1, ,,,,,,,,
+22,"3.3V HCMOS SMD Crystal Clock Oscillator, Abracon",ASV-xxxMHz,Y1,SG-8002CA,Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm,1, ,http://www.abracon.com/Oscillators/ASV.pdf,,,,,,,
 
 
 
@@ -34,7 +33,7 @@ Revision:,@version@
 Date:,@date@
 KiCad Version:,9.0.1+1
 Statistics:
-Component Groups:,23
+Component Groups:,22
 Component Count:,40 (37 SMD/ 3 THT)
 Fitted Components:,40 (37 SMD/ 3 THT)
 Number of PCBs:,1
