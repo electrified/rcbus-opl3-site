@@ -1,36 +1,13 @@
 {
     "$schema": "https://schemas.kicad.org/erc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-08-28T22:15:47+0000",
+    "date": "2025-08-31T08:58:04+0000",
     "kicad_version": "9.0.1",
     "sheets": [
         {
             "path": "/",
             "uuid_path": "/9a2d648d-863a-4b7b-80f9-d537185c212b",
             "violations": [
-                {
-                    "description": "Both GND and GNDA are attached to the same items; GND will be used in the netlist",
-                    "items": [
-                        {
-                            "description": "Symbol #PWR02 Pin 1 [Power input, Line]",
-                            "pos": {
-                                "x": 0.5588,
-                                "y": 1.6383
-                            },
-                            "uuid": "1287f4b0-d9e0-46ee-a0d9-3746830d246f"
-                        },
-                        {
-                            "description": "Symbol #PWR019 Pin 1 [Power input, Line]",
-                            "pos": {
-                                "x": 1.5367,
-                                "y": 2.5781
-                            },
-                            "uuid": "29648cc8-33a4-43c8-8b69-d3b314443058"
-                        }
-                    ],
-                    "severity": "warning",
-                    "type": "multiple_net_names"
-                },
                 {
                     "description": "Unresolved text variable in drawing sheet",
                     "items": [],

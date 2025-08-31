@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/rcbus-ymf262/rcbus-ymf262/rcbus-ymf262.kicad_sch")
-    (date "2025-08-28T22:24:51+0000")
+    (date "2025-08-31T09:07:07+0000")
     (tool "Eeschema 9.0.1+1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -636,7 +636,7 @@
       (property (name "ki_keywords") (value "quad opamp"))
       (property (name "ki_fp_filters") (value "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*"))
       (sheetpath (names "/") (tstamps "/"))
-      (tstamps "f92355a1-3ed8-40b6-a010-436fe060b03c" "d90335a7-d0db-4e30-a67e-76973b1144c1" "bedbd726-46c6-4f68-854f-e9838d3c0fbf" "38d53e1e-2689-4d41-bc3f-6efcef7d40f5" "1d8fb5c8-6ffb-439e-a12e-9f6c931bd5d2"))
+      (tstamps "f92355a1-3ed8-40b6-a010-436fe060b03c" "38d53e1e-2689-4d41-bc3f-6efcef7d40f5" "d90335a7-d0db-4e30-a67e-76973b1144c1" "bedbd726-46c6-4f68-854f-e9838d3c0fbf" "1d8fb5c8-6ffb-439e-a12e-9f6c931bd5d2"))
     (comp (ref "Y1")
       (value "SG-8002CA")
       (footprint "Oscillator:Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm")
