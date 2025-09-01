@@ -1732,13 +1732,13 @@ AElFTkSuQmCC" alt="Logo" width="370" height="200">
  <td class="cell-info">
    <b>PCB</b>: rcbus-ymf262<br>
    <b>Revision</b>: @version@<br>
-   <b>Date</b>: 2025-08-31T08:58:04+0000<br>
+   <b>Date</b>: 2025-09-01T23:04:49+0000<br>
    <b>KiCad Version</b>: 9.0.1<br>
  </td>
  <td class="cell-stats">
-   <b>Errors</b>: 5<br>
-   <b>Warnings</b>: 11<br>
-   <b>Total</b>: 16<br>
+   <b>Errors</b>: 0<br>
+   <b>Warnings</b>: 9<br>
+   <b>Total</b>: 9<br>
  </td>
 </tr>
 </table>
@@ -1753,96 +1753,49 @@ AElFTkSuQmCC" alt="Logo" width="370" height="200">
  </thead>
  <tbody>
   <tr id="0">
-   <td class="td-error">unresolved_variable</td>
-   <td>Unresolved text variable</td>
-   <td>@(160.1 mm, 160.5 mm): PCB text 'Rev: ${VERSION} ${GIT_HASH}' on F.Silkscreen<br></td>
+   <td class="td-warning">track_dangling</td>
+   <td>Track has unconnected end</td>
+   <td>@(71.76501 mm, 146.06 mm): Track [Net-(JP1-Pin_9)] on Front, length 0.0665 mm<br></td>
   </tr>
   <tr id="1">
-   <td class="td-error">starved_thermal</td>
-   <td>Thermal relief connection to zone incomplete (layer Front; zone min spoke count 2; actual 1)</td>
-   <td>@(161.0 mm, 140.0 mm): Zone [GND] on Front and Back<br>@(102.64 mm, 163.0 mm): PTH pad 17 [GND] of P1<br></td>
+   <td class="td-warning">isolated_copper</td>
+   <td>Isolated copper fill</td>
+   <td>@(60.5 mm, 114.5 mm): Zone [GND] on Front and Back<br></td>
   </tr>
   <tr id="2">
-   <td class="td-error">starved_thermal</td>
-   <td>Thermal relief connection to zone incomplete (layer Front; zone min spoke count 2; actual 1)</td>
-   <td>@(161.0 mm, 140.0 mm): Zone [GND] on Front and Back<br>@(117.75 mm, 117.6375 mm): Pad 2 [GND] of C10 on Front<br></td>
+   <td class="td-warning">isolated_copper</td>
+   <td>Isolated copper fill</td>
+   <td>@(60.5 mm, 114.5 mm): Zone [GND] on Front and Back<br></td>
   </tr>
   <tr id="3">
-   <td class="td-warning">silk_edge_clearance</td>
-   <td>Silkscreen clipped by board edge</td>
-   <td>@(155.0 mm, 114.5 mm): Segment on Edge.Cuts<br>@(107.75 mm, 114.5 mm): Segment on F.Silkscreen<br></td>
-  </tr>
-  <tr id="4">
-   <td class="td-warning">silk_edge_clearance</td>
-   <td>Silkscreen clipped by board edge</td>
-   <td>@(160.5 mm, 164.5 mm): Segment on Edge.Cuts<br>@(107.75 mm, 139.75 mm): Segment on F.Silkscreen<br></td>
-  </tr>
-  <tr id="5">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.</td>
    <td>@(86.595 mm, 151.85 mm): Footprint U1<br></td>
   </tr>
-  <tr id="6">
+  <tr id="4">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'SOP-24_7.5x15.4mm_P1.27mm' does not match copy in library 'Package_SO'.</td>
    <td>@(121.5 mm, 152.0 mm): Footprint U2<br></td>
   </tr>
-  <tr id="7">
+  <tr id="5">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm' does not match copy in library 'Oscillator'.</td>
    <td>@(103.04 mm, 146.75 mm): Footprint Y1<br></td>
   </tr>
-  <tr id="8">
+  <tr id="6">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.</td>
    <td>@(119.0 mm, 140.0 mm): Footprint U3<br></td>
   </tr>
-  <tr id="9">
+  <tr id="7">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.</td>
    <td>@(119.1375 mm, 125.5 mm): Footprint U4<br></td>
   </tr>
-  <tr id="10">
-   <td class="td-warning">text_thickness</td>
-   <td>Text thickness out of range (TrueType font characters with insufficient stroke weight)</td>
-   <td>@(153.0 mm, 117.0 mm): PCB text 'Audio out' on F.Silkscreen<br></td>
-  </tr>
-  <tr id="11">
+  <tr id="8">
    <td class="td-warning">text_thickness</td>
    <td>Text thickness out of range (TrueType font characters with insufficient stroke weight)</td>
    <td>@(132.0 mm, 160.0 mm): PCB text 'github.com/electrified/rcbus-ymf262' on B.Silkscreen<br></td>
-  </tr>
-  <tr id="12">
-   <td class="td-warning">silk_overlap</td>
-   <td>Silkscreen overlap</td>
-   <td>@(107.75 mm, 139.75 mm): Segment on F.Silkscreen<br>@(124.26 mm, 140.0 mm): Segment of U3 on F.Silkscreen<br></td>
-  </tr>
-  <tr id="13">
-   <td class="td-warning">silk_overlap</td>
-   <td>Silkscreen overlap</td>
-   <td>@(107.75 mm, 139.75 mm): Segment on F.Silkscreen<br>@(113.74 mm, 140.0 mm): Segment of U3 on F.Silkscreen<br></td>
-  </tr>
- </tbody>
-</table>
-<p class="subtitle">Unconnected items</p>
-<table class="content-table">
- <thead>
-  <tr>
-   <th>Type</th>
-   <th>Description</th>
-   <th>Details</th>
-  </tr>
- </thead>
- <tbody>
-  <tr id="14">
-   <td class="td-error">unconnected_items</td>
-   <td>Missing connection between items</td>
-   <td>@(133.3174 mm, 147.3556 mm): Track [VCC] on Front, length 0.0177 mm<br>@(114.515 mm, 156.65 mm): Track [VCC] on Front, length 2.3025 mm<br></td>
-  </tr>
-  <tr id="15">
-   <td class="td-error">unconnected_items</td>
-   <td>Missing connection between items</td>
-   <td>@(128.25 mm, 131.945 mm): Track [+5VA] on Front, length 6.7953 mm<br>@(148.5959 mm, 146.5043 mm): Track [+5VA] on Back, length 0.3961 mm<br></td>
   </tr>
  </tbody>
 </table>
