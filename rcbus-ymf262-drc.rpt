@@ -1,0 +1,37 @@
+** Drc report for rcbus-ymf262.kicad_pcb **
+** Created on 2025-09-02T21:15:49+0000 **
+
+** Found 9 DRC violations **
+[track_dangling]: Track has unconnected end
+    ; warning
+    @(71.76501 mm, 146.06 mm): Track [Net-(JP1-Pin_9)] on Front, length 0.0665 mm
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(60.5 mm, 114.5 mm): Zone [GND] on Front and Back
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(60.5 mm, 114.5 mm): Zone [GND] on Front and Back
+[lib_footprint_mismatch]: Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.
+    ; warning
+    @(86.595 mm, 151.85 mm): Footprint U1
+[lib_footprint_mismatch]: Footprint 'SOP-24_7.5x15.4mm_P1.27mm' does not match copy in library 'Package_SO'.
+    ; warning
+    @(121.5 mm, 152.0 mm): Footprint U2
+[lib_footprint_mismatch]: Footprint 'Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm' does not match copy in library 'Oscillator'.
+    ; warning
+    @(103.04 mm, 146.75 mm): Footprint Y1
+[lib_footprint_mismatch]: Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.
+    ; warning
+    @(119.0 mm, 140.0 mm): Footprint U3
+[lib_footprint_mismatch]: Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.
+    ; warning
+    @(119.1375 mm, 125.5 mm): Footprint U4
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(132.0 mm, 160.0 mm): PCB text 'github.com/electrified/rcbus-ymf262' on B.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
