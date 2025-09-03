@@ -1732,13 +1732,13 @@ AElFTkSuQmCC" alt="Logo" width="370" height="200">
  <td class="cell-info">
    <b>PCB</b>: rcbus-ymf262<br>
    <b>Revision</b>: @version@<br>
-   <b>Date</b>: 2025-09-02T22:40:57+0000<br>
+   <b>Date</b>: 2025-09-03T22:53:57+0000<br>
    <b>KiCad Version</b>: 9.0.1<br>
  </td>
  <td class="cell-stats">
-   <b>Errors</b>: 0<br>
-   <b>Warnings</b>: 9<br>
-   <b>Total</b>: 9<br>
+   <b>Errors</b>: 4<br>
+   <b>Warnings</b>: 8<br>
+   <b>Total</b>: 12<br>
  </td>
 </tr>
 </table>
@@ -1753,46 +1753,61 @@ AElFTkSuQmCC" alt="Logo" width="370" height="200">
  </thead>
  <tbody>
   <tr id="0">
-   <td class="td-warning">track_dangling</td>
-   <td>Track has unconnected end</td>
-   <td>@(71.76501 mm, 146.06 mm): Track [Net-(JP1-Pin_9)] on Front, length 0.0665 mm<br></td>
+   <td class="td-error">clearance</td>
+   <td>Clearance violation (zone clearance 0.5000 mm; actual 0.3100 mm)</td>
+   <td>@(100.5 mm, 148.75 mm): Track [VCC] on Front, length 5.5000 mm<br>@(60.5 mm, 114.5 mm): Zone [GND] on Front and Back<br></td>
   </tr>
   <tr id="1">
-   <td class="td-warning">isolated_copper</td>
-   <td>Isolated copper fill</td>
-   <td>@(60.5 mm, 114.5 mm): Zone [GND] on Front and Back<br></td>
+   <td class="td-error">clearance</td>
+   <td>Clearance violation (zone clearance 0.5000 mm; actual 0.4624 mm)</td>
+   <td>@(93.6905 mm, 149.4405 mm): Track [/~{CS}] on Front, length 7.9691 mm<br>@(60.5 mm, 114.5 mm): Zone [GND] on Front and Back<br></td>
   </tr>
   <tr id="2">
+   <td class="td-error">clearance</td>
+   <td>Clearance violation (zone clearance 0.5000 mm; actual 0.4593 mm)</td>
+   <td>@(99.3255 mm, 155.0755 mm): Track [/~{CS}] on Front, length 1.5164 mm<br>@(60.5 mm, 114.5 mm): Zone [GND] on Front and Back<br></td>
+  </tr>
+  <tr id="3">
+   <td class="td-error">clearance</td>
+   <td>Clearance violation (zone clearance 0.5000 mm; actual 0.4593 mm)</td>
+   <td>@(100.841933 mm, 155.0755 mm): Track [/~{CS}] on Front, length 1.5493 mm<br>@(60.5 mm, 114.5 mm): Zone [GND] on Front and Back<br></td>
+  </tr>
+  <tr id="4">
    <td class="td-warning">isolated_copper</td>
    <td>Isolated copper fill</td>
    <td>@(60.5 mm, 114.5 mm): Zone [GND] on Front and Back<br></td>
   </tr>
-  <tr id="3">
+  <tr id="5">
+   <td class="td-warning">isolated_copper</td>
+   <td>Isolated copper fill</td>
+   <td>@(60.5 mm, 114.5 mm): Zone [GND] on Front and Back<br></td>
+  </tr>
+  <tr id="6">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.</td>
    <td>@(86.595 mm, 151.85 mm): Footprint U1<br></td>
   </tr>
-  <tr id="4">
+  <tr id="7">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'SOP-24_7.5x15.4mm_P1.27mm' does not match copy in library 'Package_SO'.</td>
    <td>@(121.5 mm, 152.0 mm): Footprint U2<br></td>
   </tr>
-  <tr id="5">
+  <tr id="8">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm' does not match copy in library 'Oscillator'.</td>
    <td>@(103.04 mm, 146.75 mm): Footprint Y1<br></td>
   </tr>
-  <tr id="6">
+  <tr id="9">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.</td>
    <td>@(119.0 mm, 140.0 mm): Footprint U3<br></td>
   </tr>
-  <tr id="7">
+  <tr id="10">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.</td>
    <td>@(119.1375 mm, 125.5 mm): Footprint U4<br></td>
   </tr>
-  <tr id="8">
+  <tr id="11">
    <td class="td-warning">text_thickness</td>
    <td>Text thickness out of range (TrueType font characters with insufficient stroke weight)</td>
    <td>@(132.0 mm, 160.0 mm): PCB text 'github.com/electrified/rcbus-ymf262' on B.Silkscreen<br></td>
