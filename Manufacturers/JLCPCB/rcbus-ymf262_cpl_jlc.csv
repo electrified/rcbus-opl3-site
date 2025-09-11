@@ -21,11 +21,11 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "L1","BLM18PG221SN1D","L_0603_1608Metric_Pad1.05x0.95mm_HandSolder",84.5000,-137.1250,270.0000,top
 "L2","33uH","L_0603_1608Metric_Pad1.05x0.95mm_HandSolder",93.0000,-137.1250,90.0000,top
 "R1","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.1375,-143.4700,0.0000,top
-"R2","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.1375,-146.0600,0.0000,top
-"R3","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.3125,-148.4900,0.0000,top
-"R4","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.3125,-151.0000,0.0000,top
-"R5","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.3125,-153.5100,0.0000,top
-"R6","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.3125,-156.0200,0.0000,top
+"R2","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.1625,-146.0000,0.0000,top
+"R3","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.1625,-148.5000,0.0000,top
+"R4","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.1625,-151.0000,0.0000,top
+"R5","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.1625,-153.5000,0.0000,top
+"R6","10K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",74.1625,-156.0000,0.0000,top
 "R7","33","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",123.2500,-131.4125,90.0000,top
 "R8","15k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",122.7500,-118.5000,90.0000,top
 "R9","15k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",114.8375,-117.5000,180.0000,top

@@ -1,28 +1,12 @@
 ** Drc report for rcbus-ymf262.kicad_pcb **
-** Created on 2025-09-03T22:53:57+0000 **
+** Created on 2025-09-11T23:19:43+0000 **
 
-** Found 12 DRC violations **
+** Found 8 DRC violations **
 [isolated_copper]: Isolated copper fill
     ; warning
     @(60.5 mm, 114.5 mm): Zone [GND] on Front and Back
 [isolated_copper]: Isolated copper fill
     ; warning
-    @(60.5 mm, 114.5 mm): Zone [GND] on Front and Back
-[clearance]: Clearance violation (zone clearance 0.5000 mm; actual 0.3100 mm)
-    ; error
-    @(100.5 mm, 148.75 mm): Track [VCC] on Front, length 5.5000 mm
-    @(60.5 mm, 114.5 mm): Zone [GND] on Front and Back
-[clearance]: Clearance violation (zone clearance 0.5000 mm; actual 0.4624 mm)
-    ; error
-    @(93.6905 mm, 149.4405 mm): Track [/~{CS}] on Front, length 7.9691 mm
-    @(60.5 mm, 114.5 mm): Zone [GND] on Front and Back
-[clearance]: Clearance violation (zone clearance 0.5000 mm; actual 0.4593 mm)
-    ; error
-    @(99.3255 mm, 155.0755 mm): Track [/~{CS}] on Front, length 1.5164 mm
-    @(60.5 mm, 114.5 mm): Zone [GND] on Front and Back
-[clearance]: Clearance violation (zone clearance 0.5000 mm; actual 0.4593 mm)
-    ; error
-    @(100.841933 mm, 155.0755 mm): Track [/~{CS}] on Front, length 1.5493 mm
     @(60.5 mm, 114.5 mm): Zone [GND] on Front and Back
 [lib_footprint_mismatch]: Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning

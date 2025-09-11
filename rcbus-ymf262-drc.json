@@ -1,7 +1,7 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-09-03T22:53:57+0000",
+    "date": "2025-09-11T23:19:43+0000",
     "kicad_version": "9.0.1",
     "schematic_parity": [],
     "source": "rcbus-ymf262.kicad_pcb",
@@ -36,98 +36,6 @@
             ],
             "severity": "warning",
             "type": "isolated_copper"
-        },
-        {
-            "description": "Clearance violation (zone clearance 0.5000 mm; actual 0.3100 mm)",
-            "items": [
-                {
-                    "description": "Track [VCC] on Front, length 5.5000 mm",
-                    "pos": {
-                        "x": 100.5,
-                        "y": 148.75
-                    },
-                    "uuid": "23457f2f-2d87-4deb-9b65-ef610a4603d1"
-                },
-                {
-                    "description": "Zone [GND] on Front and Back",
-                    "pos": {
-                        "x": 60.5,
-                        "y": 114.5
-                    },
-                    "uuid": "00000000-0000-0000-0000-000061899f39"
-                }
-            ],
-            "severity": "error",
-            "type": "clearance"
-        },
-        {
-            "description": "Clearance violation (zone clearance 0.5000 mm; actual 0.4624 mm)",
-            "items": [
-                {
-                    "description": "Track [/~{CS}] on Front, length 7.9691 mm",
-                    "pos": {
-                        "x": 93.6905,
-                        "y": 149.4405
-                    },
-                    "uuid": "78959109-d78b-43b0-869e-5808153136b7"
-                },
-                {
-                    "description": "Zone [GND] on Front and Back",
-                    "pos": {
-                        "x": 60.5,
-                        "y": 114.5
-                    },
-                    "uuid": "00000000-0000-0000-0000-000061899f39"
-                }
-            ],
-            "severity": "error",
-            "type": "clearance"
-        },
-        {
-            "description": "Clearance violation (zone clearance 0.5000 mm; actual 0.4593 mm)",
-            "items": [
-                {
-                    "description": "Track [/~{CS}] on Front, length 1.5164 mm",
-                    "pos": {
-                        "x": 99.3255,
-                        "y": 155.0755
-                    },
-                    "uuid": "a5aedb43-fa1a-4a5d-b1c0-6110fdb5476f"
-                },
-                {
-                    "description": "Zone [GND] on Front and Back",
-                    "pos": {
-                        "x": 60.5,
-                        "y": 114.5
-                    },
-                    "uuid": "00000000-0000-0000-0000-000061899f39"
-                }
-            ],
-            "severity": "error",
-            "type": "clearance"
-        },
-        {
-            "description": "Clearance violation (zone clearance 0.5000 mm; actual 0.4593 mm)",
-            "items": [
-                {
-                    "description": "Track [/~{CS}] on Front, length 1.5493 mm",
-                    "pos": {
-                        "x": 100.841933,
-                        "y": 155.0755
-                    },
-                    "uuid": "b66c9a5f-8195-4ecd-8b49-aa30ff02dfc6"
-                },
-                {
-                    "description": "Zone [GND] on Front and Back",
-                    "pos": {
-                        "x": 60.5,
-                        "y": 114.5
-                    },
-                    "uuid": "00000000-0000-0000-0000-000061899f39"
-                }
-            ],
-            "severity": "error",
-            "type": "clearance"
         },
         {
             "description": "Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.",

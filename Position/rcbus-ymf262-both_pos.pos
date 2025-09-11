@@ -1,4 +1,4 @@
-### Module positions - created on Wed 03 Sep 2025 23:02:40  ###
+### Module positions - created on Thu 11 Sep 2025 23:28:32  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : both
@@ -28,11 +28,11 @@ L1       BLM18PG221SN1D   L_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -76.0280
 L2       33uH             L_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -67.5280   -5.8070    90.0000    top 
 P1       RC2014 BUS       PinHeader_1x39_P2.54mm_Vertical               -98.5280   -31.6820   90.0000    top 
 R1       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.3905   -12.1520   0.0000     top 
-R2       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.3905   -14.7420   0.0000     top 
-R3       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.2155   -17.1720   0.0000     top 
-R4       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.2155   -19.6820   0.0000     top 
-R5       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.2155   -22.1920   0.0000     top 
-R6       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.2155   -24.7020   0.0000     top 
+R2       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.3655   -14.6820   0.0000     top 
+R3       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.3655   -17.1820   0.0000     top 
+R4       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.3655   -19.6820   0.0000     top 
+R5       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.3655   -22.1820   0.0000     top 
+R6       10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -86.3655   -24.6820   0.0000     top 
 R7       33               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -37.2780   -0.0945    90.0000    top 
 R8       15k              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -37.7780   12.8180    90.0000    top 
 R9       15k              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -45.6905   13.8180    180.0000   top 

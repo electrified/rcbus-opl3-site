@@ -576,7 +576,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "vcc",
+        "pattern": "VCC"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -782,8 +787,8 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2025-09-03T22:53+00:00",
-    "GIT_HASH": "Git:9c8d0cd",
+    "DATE": "2025-09-11T23:19+00:00",
+    "GIT_HASH": "Git:646990f",
     "VERSION": "0.0.1"
   }
 }
