@@ -1,0 +1,3 @@
+"Sheet","Severity","Excluded","Type","Description","Details"
+"/ (rcbus-opl3.kicad_sch)","warning","False","unconnected_wire_endpoint","Unconnected wire endpoint","@(3.0226 mm, 1.3208 mm): Horizontal Wire, length 0.1016 mm"
+"/ (rcbus-opl3.kicad_sch)","warning","False","unconnected_wire_endpoint","Unconnected wire endpoint","@(3.0226 mm, 1.5875 mm): Horizontal Wire, length 0.1016 mm"

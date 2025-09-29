@@ -1,0 +1,44 @@
+** Drc report for rcbus-opl3.kicad_pcb **
+** Created on 2025-09-29T20:59:21+0000 **
+
+** Found 7 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(160.5 mm, 164.5 mm): Segment on Edge.Cuts
+    @(139.75 mm, 160.25 mm): PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen
+[lib_footprint_mismatch]: Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.
+    ; warning
+    @(86.595 mm, 151.85 mm): Footprint U1
+[lib_footprint_mismatch]: Footprint 'SOP-24_7.5x15.4mm_P1.27mm' does not match copy in library 'Package_SO'.
+    ; warning
+    @(121.5 mm, 152.0 mm): Footprint U2
+[lib_footprint_mismatch]: Footprint 'Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm' does not match copy in library 'Oscillator'.
+    ; warning
+    @(107.25 mm, 148.75 mm): Footprint Y1
+[lib_footprint_mismatch]: Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.
+    ; warning
+    @(119.0 mm, 138.0 mm): Footprint U3
+[lib_footprint_mismatch]: Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.
+    ; warning
+    @(119.1375 mm, 123.517697 mm): Footprint U4
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(139.75 mm, 160.25 mm): PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen
+
+** Found 3 unconnected pads **
+[unconnected_items]: Missing connection between items
+    ; error
+    @(73.3375 mm, 156.0 mm): Pad 1 [Net-(JP1-Pin_1)] of R6 on Front
+    @(72.5 mm, 154.75 mm): Track [Net-(JP1-Pin_1)] on Front, length 7.2364 mm
+[unconnected_items]: Missing connection between items
+    ; error
+    @(149.069 mm, 122.595 mm): PTH pad TN [Net-(CON1-PadT)] of CON1
+    @(149.069 mm, 120.095 mm): Track [Net-(CON1-PadT)] on Front, length 7.2240 mm
+[unconnected_items]: Missing connection between items
+    ; error
+    @(149.069 mm, 127.595 mm): PTH pad RN [Net-(CON1-PadR)] of CON1
+    @(149.069 mm, 130.095 mm): PTH pad R [Net-(CON1-PadR)] of CON1
+
+** Found 0 Footprint errors **
+
+** End of Report **

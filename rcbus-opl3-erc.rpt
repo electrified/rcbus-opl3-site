@@ -1,0 +1,12 @@
+ERC report (2025-09-29T20:59:21+0000, Encoding UTF8)
+
+***** Sheet /
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(3.0226 mm, 1.3208 mm): Horizontal Wire, length 0.1016 mm
+
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(3.0226 mm, 1.5875 mm): Horizontal Wire, length 0.1016 mm
+
+ ** ERC messages: 2  Errors 0  Warnings 2
