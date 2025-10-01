@@ -1,12 +1,24 @@
-ERC report (2025-10-01T20:48:50+0000, Encoding UTF8)
+ERC report (2025-10-01T23:01:55+0000, Encoding UTF8)
 
 ***** Sheet /
-[unconnected_wire_endpoint]: Unconnected wire endpoint
+[footprint_link_issues]: Assigned footprint (pinheader_1x39_p2.54mm_vertical) doesn't match footprint filters (Connector*:*_1x??_*).
     ; warning
-    @(3.0226 mm, 1.3208 mm): Horizontal Wire, length 0.1016 mm
+    @(0.2667 mm, 0.6985 mm): Symbol P1 [Conn_01x39]
+
+[footprint_link_issues]: Assigned footprint (sop-24_7.5x15.4mm_p1.27mm) doesn't match footprint filters (DIP*W15.24mm*).
+    ; warning
+    @(1.1938 mm, 1.3843 mm): Symbol U2 [YMF262]
+
+[footprint_link_issues]: Assigned footprint (sop-16_4.55x10.3mm_p1.27mm) doesn't match footprint filters (DIP*W15.24mm*).
+    ; warning
+    @(1.9558 mm, 0.5461 mm): Symbol U3 [YAC512]
+
+[footprint_link_issues]: Assigned footprint (headphone_jack_3.5mm_5_pin) doesn't match footprint filters (Jack*).
+    ; warning
+    @(2.3749 mm, 1.524 mm): Symbol CON1 [AudioJack3_SwitchTR]
 
 [unconnected_wire_endpoint]: Unconnected wire endpoint
     ; warning
-    @(3.0226 mm, 1.5875 mm): Horizontal Wire, length 0.1016 mm
+    @(2.6924 mm, 1.1176 mm): Horizontal Wire, length 0.0127 mm
 
- ** ERC messages: 2  Errors 0  Warnings 2
+ ** ERC messages: 5  Errors 0  Warnings 5

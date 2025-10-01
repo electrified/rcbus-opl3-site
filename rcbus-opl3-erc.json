@@ -1,7 +1,7 @@
 {
     "$schema": "https://schemas.kicad.org/erc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-10-01T20:48:50+0000",
+    "date": "2025-10-01T23:01:55+0000",
     "kicad_version": "9.0.1",
     "sheets": [
         {
@@ -9,28 +9,73 @@
             "uuid_path": "/9a2d648d-863a-4b7b-80f9-d537185c212b",
             "violations": [
                 {
-                    "description": "Unconnected wire endpoint",
+                    "description": "Assigned footprint (pinheader_1x39_p2.54mm_vertical) doesn't match footprint filters (Connector*:*_1x??_*).",
                     "items": [
                         {
-                            "description": "Horizontal Wire, length 0.1016 mm",
+                            "description": "Symbol P1 [Conn_01x39]",
                             "pos": {
-                                "x": 3.0226,
-                                "y": 1.3208
+                                "x": 0.2667,
+                                "y": 0.6985
                             },
-                            "uuid": "d3fb42f8-5f37-4f6c-923c-e9b7f7cc5119"
+                            "uuid": "00000000-0000-0000-0000-000058978fea"
                         }
                     ],
                     "severity": "warning",
-                    "type": "unconnected_wire_endpoint"
+                    "type": "footprint_link_issues"
+                },
+                {
+                    "description": "Assigned footprint (sop-24_7.5x15.4mm_p1.27mm) doesn't match footprint filters (DIP*W15.24mm*).",
+                    "items": [
+                        {
+                            "description": "Symbol U2 [YMF262]",
+                            "pos": {
+                                "x": 1.1938,
+                                "y": 1.3843
+                            },
+                            "uuid": "7d5e97d0-b99c-4f74-8fb7-8129c778093d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                },
+                {
+                    "description": "Assigned footprint (sop-16_4.55x10.3mm_p1.27mm) doesn't match footprint filters (DIP*W15.24mm*).",
+                    "items": [
+                        {
+                            "description": "Symbol U3 [YAC512]",
+                            "pos": {
+                                "x": 1.9558,
+                                "y": 0.5461
+                            },
+                            "uuid": "68ae4a16-41e2-4ce4-80d0-7e38a3cb982d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                },
+                {
+                    "description": "Assigned footprint (headphone_jack_3.5mm_5_pin) doesn't match footprint filters (Jack*).",
+                    "items": [
+                        {
+                            "description": "Symbol CON1 [AudioJack3_SwitchTR]",
+                            "pos": {
+                                "x": 2.3749,
+                                "y": 1.524
+                            },
+                            "uuid": "00000000-0000-0000-0000-00005f4c525c"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
                 },
                 {
                     "description": "Unconnected wire endpoint",
                     "items": [
                         {
-                            "description": "Horizontal Wire, length 0.1016 mm",
+                            "description": "Horizontal Wire, length 0.0127 mm",
                             "pos": {
-                                "x": 3.0226,
-                                "y": 1.5875
+                                "x": 2.6924,
+                                "y": 1.1176
                             },
                             "uuid": "3e15747d-8dd0-430d-8597-00f65e91ff79"
                         }
