@@ -1,81 +1,11 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-10-01T23:01:54+0000",
+    "date": "2025-10-04T22:29:55+0000",
     "kicad_version": "9.0.1",
     "schematic_parity": [],
     "source": "rcbus-opl3.kicad_pcb",
-    "unconnected_items": [
-        {
-            "description": "Missing connection between items",
-            "items": [
-                {
-                    "description": "Pad 1 [Net-(JP1-Pin_1)] of R6 on Front",
-                    "pos": {
-                        "x": 73.3375,
-                        "y": 156.0
-                    },
-                    "uuid": "4361dd93-7828-47cb-8776-daf36e1d24c7"
-                },
-                {
-                    "description": "Track [Net-(JP1-Pin_1)] on Front, length 7.2364 mm",
-                    "pos": {
-                        "x": 72.5,
-                        "y": 154.75
-                    },
-                    "uuid": "9701cd4f-fb78-4211-a96f-c43fe93221dc"
-                }
-            ],
-            "severity": "error",
-            "type": "unconnected_items"
-        },
-        {
-            "description": "Missing connection between items",
-            "items": [
-                {
-                    "description": "PTH pad TN [Net-(CON1-PadT)] of CON1",
-                    "pos": {
-                        "x": 149.069,
-                        "y": 122.595
-                    },
-                    "uuid": "04cdeb16-1349-4d0a-a92a-01d41a8d7d2b"
-                },
-                {
-                    "description": "Track [Net-(CON1-PadT)] on Front, length 7.2240 mm",
-                    "pos": {
-                        "x": 149.069,
-                        "y": 120.095
-                    },
-                    "uuid": "d883fb31-a0ef-494d-8628-9d5e9cc49ba3"
-                }
-            ],
-            "severity": "error",
-            "type": "unconnected_items"
-        },
-        {
-            "description": "Missing connection between items",
-            "items": [
-                {
-                    "description": "PTH pad RN [Net-(CON1-PadR)] of CON1",
-                    "pos": {
-                        "x": 149.069,
-                        "y": 127.595
-                    },
-                    "uuid": "ff55e58f-e4c8-48ca-a5b3-bb7878f4b31e"
-                },
-                {
-                    "description": "PTH pad R [Net-(CON1-PadR)] of CON1",
-                    "pos": {
-                        "x": 149.069,
-                        "y": 130.095
-                    },
-                    "uuid": "6f75e63c-1453-459c-8f70-5a028d2a0923"
-                }
-            ],
-            "severity": "error",
-            "type": "unconnected_items"
-        }
-    ],
+    "unconnected_items": [],
     "violations": [
         {
             "description": "Silkscreen clipped by board edge",
@@ -83,16 +13,16 @@
                 {
                     "description": "Segment on Edge.Cuts",
                     "pos": {
-                        "x": 160.5,
-                        "y": 164.5
+                        "x": 160.0,
+                        "y": 165.0
                     },
                     "uuid": "b547dd70-2ea7-4cfd-a1ee-911561975d81"
                 },
                 {
                     "description": "PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen",
                     "pos": {
-                        "x": 139.75,
-                        "y": 160.25
+                        "x": 139.25,
+                        "y": 160.75
                     },
                     "uuid": "28b01cd2-da3a-46ec-8825-b0f31a0b8987"
                 }
@@ -106,8 +36,8 @@
                 {
                     "description": "Footprint U1",
                     "pos": {
-                        "x": 86.595,
-                        "y": 151.85
+                        "x": 86.0,
+                        "y": 150.35
                     },
                     "uuid": "00000000-0000-0000-0000-00006173b78c"
                 }
@@ -121,8 +51,8 @@
                 {
                     "description": "Footprint U2",
                     "pos": {
-                        "x": 121.5,
-                        "y": 152.0
+                        "x": 134.5,
+                        "y": 150.5
                     },
                     "uuid": "00000000-0000-0000-0000-00006189ddeb"
                 }
@@ -136,8 +66,8 @@
                 {
                     "description": "Footprint Y1",
                     "pos": {
-                        "x": 107.25,
-                        "y": 148.75
+                        "x": 119.5,
+                        "y": 150.5
                     },
                     "uuid": "01a143e1-870a-4f3b-8de5-c0fc4158431f"
                 }
@@ -151,8 +81,8 @@
                 {
                     "description": "Footprint U3",
                     "pos": {
-                        "x": 119.0,
-                        "y": 138.0
+                        "x": 118.5,
+                        "y": 138.5
                     },
                     "uuid": "14184423-3a5e-45d5-9d35-18070dc18476"
                 }
@@ -166,8 +96,8 @@
                 {
                     "description": "Footprint U4",
                     "pos": {
-                        "x": 119.1375,
-                        "y": 123.517697
+                        "x": 118.6375,
+                        "y": 124.017697
                     },
                     "uuid": "99a950bd-9e51-4edc-b882-bd952ad5777c"
                 }
@@ -181,8 +111,8 @@
                 {
                     "description": "PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen",
                     "pos": {
-                        "x": 139.75,
-                        "y": 160.25
+                        "x": 139.25,
+                        "y": 160.75
                     },
                     "uuid": "28b01cd2-da3a-46ec-8825-b0f31a0b8987"
                 }

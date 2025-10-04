@@ -2,9 +2,9 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 1,"Unpolarized capacitor, small symbol",C_Small,C11,68pf,C_0603_1608Metric,1, ,~,,,,,,,
 2,"Unpolarized capacitor, small symbol",C_Small,C9 C10,2.7nf,C_0603_1608Metric,2, ,~,,,,,,,
 3,"Unpolarized capacitor, small symbol",C_Small,C1 C6 C7 C12 C19,0.1uF,C_0603_1608Metric,5, ,~,,,,,,,
-4,"Polarized capacitor, small symbol",C_Polarized_Small,C8 C15 C16,10uF,CP_Elec_6.3x5.8,3, ,~,,,,,,,
+4,"Polarized capacitor, small symbol",C_Polarized_Small,C2 C8 C15 C16,10uf,CP_Elec_6.3x5.8,4, ,~,,,,,,,
 5,"Polarized capacitor, small symbol",C_Polarized_Small,C5,100uF,CP_Elec_6.3x7.7,1, ,~,,,,,,,
-6,"Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)",AudioJack3_SwitchTR,CON1,SJ1-3523N,Headphone_Jack_3.5mm_5_pin,1, ,~,CP1-3523N-ND,SJ1-3523N,"Connectors, Interconnects",Barrel - Audio Connectors,https://www.cui.com/product/resource/digikeypdf/sj1-352xn_series.pdf,/product-detail/en/cui-inc/SJ1-3523N/CP1-3523N-ND/738689,CUI Inc.
+6,"Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)",AudioJack3_SwitchTR,CON1,3.5mm jack,Headphone_Jack_3.5mm_5_pin,1, ,~,CP1-3523N-ND,SJ1-3523N,"Connectors, Interconnects",Barrel - Audio Connectors,https://www.cui.com/product/resource/digikeypdf/sj1-352xn_series.pdf,/product-detail/en/cui-inc/SJ1-3523N/CP1-3523N-ND/738689,CUI Inc.
 7,"Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x06_Odd_Even,JP1,BASE ADDRESS,PinHeader_2x06_P2.54mm_Vertical,1, ,~,,,,,,,
 8,"Generic connector, single row, 01x39, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x39,P1,RC2014 BUS,PinHeader_1x39_P2.54mm_Vertical,1, ,~,,,,,,,
 9,Resistor,R,R7,33,R_0603_1608Metric,1, ,~,,,,,,,
@@ -14,7 +14,7 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 13,"Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14",TL074,U4,TL074,SOIC-14_3.9x8.7mm_P1.27mm,1, ,http://www.ti.com/lit/ds/symlink/tl071.pdf,,,,,,,
 14,,YAC512,U3,YAC512,SOP-16_4.55x10.3mm_P1.27mm,1, ,,,,,,,,
 15,,YMF262,U2,YMF262,SOP-24_7.5x15.4mm_P1.27mm,1, ,,,,,,,,
-16,"3.3V HCMOS SMD Crystal Clock Oscillator, Abracon",ASV-xxxMHz,Y1,SG-8002CA,Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm,1, ,http://www.abracon.com/Oscillators/ASV.pdf,,,,,,,
+16,"3.3V HCMOS SMD Crystal Clock Oscillator, Abracon",ASV-xxxMHz,Y1,14.3181MHz,Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm,1, ,http://www.abracon.com/Oscillators/ASV.pdf,,,,,,,
 
 
 
@@ -24,11 +24,11 @@ Project info:
 Schematic:,rcbus-opl3
 Variant:,default
 Revision:,0.0.1
-Date:,2025-10-01
+Date:,2025-10-04
 KiCad Version:,9.0.1+1
 Statistics:
 Component Groups:,16
-Component Count:,31 (28 SMD/ 3 THT)
-Fitted Components:,31 (28 SMD/ 3 THT)
+Component Count:,32 (29 SMD/ 3 THT)
+Fitted Components:,32 (29 SMD/ 3 THT)
 Number of PCBs:,1
-Total Components:,31
+Total Components:,32
