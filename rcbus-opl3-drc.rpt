@@ -1,5 +1,5 @@
 ** Drc report for rcbus-opl3.kicad_pcb **
-** Created on 2025-10-04T22:29:55+0000 **
+** Created on 2025-10-05T23:02:52+0000 **
 
 ** Found 7 DRC violations **
 [silk_edge_clearance]: Silkscreen clipped by board edge
@@ -11,16 +11,16 @@
     @(86.0 mm, 150.35 mm): Footprint U1
 [lib_footprint_mismatch]: Footprint 'SOP-24_7.5x15.4mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
-    @(134.5 mm, 150.5 mm): Footprint U2
+    @(132.0 mm, 151.0 mm): Footprint U2
 [lib_footprint_mismatch]: Footprint 'Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm' does not match copy in library 'Oscillator'.
     ; warning
-    @(119.5 mm, 150.5 mm): Footprint Y1
+    @(144.5 mm, 146.5 mm): Footprint Y1
 [lib_footprint_mismatch]: Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
-    @(118.5 mm, 138.5 mm): Footprint U3
+    @(123.595 mm, 135.75 mm): Footprint U3
 [lib_footprint_mismatch]: Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
-    @(118.6375 mm, 124.017697 mm): Footprint U4
+    @(123.5 mm, 123.037022 mm): Footprint U4
 [text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
     ; warning
     @(139.25 mm, 160.75 mm): PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen

@@ -1,5 +1,5 @@
-_local_|2025-10-04|root|Local changes not committed|False|True
+_local_|2025-10-05|root|Local changes not committed|False|True
+584da4a|2025-10-05|ed|rotate u2|False|True
 95905a1|2025-10-04|ed|reroute. add additional bulk cap|True|True
 4be4d48|2025-10-02|ed|as submitted for design review on reddit|False|True
 ca335f4|2025-10-02|ed|remove some unusted stuff from kibot, update schematic and pcb|True|True
-02f167a|2025-09-26|ed|add additional output caps/ resistors|True|True
