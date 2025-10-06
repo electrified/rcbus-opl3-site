@@ -1,6 +1,6 @@
 "Check","Severity","Excluded","Type","Description","Details"
 "Violations","warning","False","silk_edge_clearance","Silkscreen clipped by board edge","@(160.0 mm, 165.0 mm): Segment on Edge.Cuts;@(139.25 mm, 160.75 mm): PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen"
-"Violations","warning","False","lib_footprint_mismatch","Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.","@(86.0 mm, 150.35 mm): Footprint U1"
+"Violations","warning","False","lib_footprint_mismatch","Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.","@(86.265 mm, 150.35 mm): Footprint U1"
 "Violations","warning","False","lib_footprint_mismatch","Footprint 'SOP-24_7.5x15.4mm_P1.27mm' does not match copy in library 'Package_SO'.","@(132.0 mm, 151.0 mm): Footprint U2"
 "Violations","warning","False","lib_footprint_mismatch","Footprint 'Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm' does not match copy in library 'Oscillator'.","@(144.5 mm, 146.5 mm): Footprint Y1"
 "Violations","warning","False","lib_footprint_mismatch","Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.","@(123.595 mm, 135.75 mm): Footprint U3"
