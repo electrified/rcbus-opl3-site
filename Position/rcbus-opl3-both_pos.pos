@@ -1,4 +1,4 @@
-### Module positions - created on Mon 06 Oct 2025 23:49:28  ###
+### Module positions - created on Tue 07 Oct 2025 23:47:29  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : both
@@ -12,7 +12,7 @@ C8       10uF           CP_Elec_6.3x5.8                             -49.0280   3
 C9       2.7nf          C_0603_1608Metric                           -33.4280   13.3180    0.0000     top 
 C10      2.7nf          C_0603_1608Metric                           -37.3030   13.3180    0.0000     top 
 C11      68pf           C_0603_1608Metric                           -36.6280   2.6180     -90.0000   top 
-C12      0.1uF          C_0603_1608Metric                           -39.4280   2.6180     -90.0000   top 
+C12      0.1uF          C_0603_1608Metric                           -43.3280   9.9180     90.0000    top 
 C15      10uf           CP_Elec_6.3x5.8                             -24.6280   10.7230    0.0000     top 
 C16      10uf           CP_Elec_6.3x5.8                             -24.6280   0.7230     0.0000     top 
 C19      0.1uF          C_0603_1608Metric                           -10.1640   -17.7080   0.0000     top 
