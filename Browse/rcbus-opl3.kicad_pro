@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": true,
-          "min_clearance": 0.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -761,8 +761,8 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2025-10-07T23:42+00:00",
-    "GIT_HASH": "Git:749e160",
+    "DATE": "2025-10-08T18:44+00:00",
+    "GIT_HASH": "Git:bf3798d",
     "VERSION": "0.0.1"
   }
 }

@@ -1,35 +1,141 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-10-07T23:42:36+0000",
+    "date": "2025-10-08T18:44:50+0000",
     "kicad_version": "9.0.1",
-    "schematic_parity": [],
-    "source": "rcbus-opl3.kicad_pcb",
-    "unconnected_items": [
+    "schematic_parity": [
         {
-            "description": "Missing connection between items",
+            "description": "Duplicate footprints",
             "items": [
                 {
-                    "description": "PTH pad 17 [GND] of P1",
+                    "description": "Footprint REF**",
                     "pos": {
-                        "x": 102.14,
-                        "y": 163.5
+                        "x": 97.5,
+                        "y": 159.0
                     },
-                    "uuid": "a629829c-4635-4918-a0bb-0fe7d0cf6afd"
+                    "uuid": "5dc081f3-35d2-4803-9bd6-88f753cd7cf4"
                 },
                 {
-                    "description": "Zone [GND] on Front and Back",
+                    "description": "Footprint REF**",
                     "pos": {
-                        "x": 60.0,
-                        "y": 115.0
+                        "x": 53.0,
+                        "y": 96.5
                     },
-                    "uuid": "00000000-0000-0000-0000-000061899f39"
+                    "uuid": "940d65e0-c5cb-461b-8f1f-ff3cc4dd4d08"
                 }
             ],
-            "severity": "error",
-            "type": "unconnected_items"
+            "severity": "warning",
+            "type": "duplicate_footprints"
+        },
+        {
+            "description": "Duplicate footprints",
+            "items": [
+                {
+                    "description": "Footprint REF**",
+                    "pos": {
+                        "x": 91.5,
+                        "y": 159.0
+                    },
+                    "uuid": "ae156486-bf17-4d8e-bfb8-d016f54f6097"
+                },
+                {
+                    "description": "Footprint REF**",
+                    "pos": {
+                        "x": 53.0,
+                        "y": 96.5
+                    },
+                    "uuid": "940d65e0-c5cb-461b-8f1f-ff3cc4dd4d08"
+                }
+            ],
+            "severity": "warning",
+            "type": "duplicate_footprints"
+        },
+        {
+            "description": "Duplicate footprints",
+            "items": [
+                {
+                    "description": "Footprint REF**",
+                    "pos": {
+                        "x": 103.5,
+                        "y": 159.0
+                    },
+                    "uuid": "c3f9f25a-0c5c-41c2-89b0-f3d558bcf7f9"
+                },
+                {
+                    "description": "Footprint REF**",
+                    "pos": {
+                        "x": 53.0,
+                        "y": 96.5
+                    },
+                    "uuid": "940d65e0-c5cb-461b-8f1f-ff3cc4dd4d08"
+                }
+            ],
+            "severity": "warning",
+            "type": "duplicate_footprints"
+        },
+        {
+            "description": "Extra footprint",
+            "items": [
+                {
+                    "description": "Footprint REF**",
+                    "pos": {
+                        "x": 53.0,
+                        "y": 96.5
+                    },
+                    "uuid": "940d65e0-c5cb-461b-8f1f-ff3cc4dd4d08"
+                }
+            ],
+            "severity": "warning",
+            "type": "extra_footprint"
+        },
+        {
+            "description": "Extra footprint",
+            "items": [
+                {
+                    "description": "Footprint REF**",
+                    "pos": {
+                        "x": 97.5,
+                        "y": 159.0
+                    },
+                    "uuid": "5dc081f3-35d2-4803-9bd6-88f753cd7cf4"
+                }
+            ],
+            "severity": "warning",
+            "type": "extra_footprint"
+        },
+        {
+            "description": "Extra footprint",
+            "items": [
+                {
+                    "description": "Footprint REF**",
+                    "pos": {
+                        "x": 91.5,
+                        "y": 159.0
+                    },
+                    "uuid": "ae156486-bf17-4d8e-bfb8-d016f54f6097"
+                }
+            ],
+            "severity": "warning",
+            "type": "extra_footprint"
+        },
+        {
+            "description": "Extra footprint",
+            "items": [
+                {
+                    "description": "Footprint REF**",
+                    "pos": {
+                        "x": 103.5,
+                        "y": 159.0
+                    },
+                    "uuid": "c3f9f25a-0c5c-41c2-89b0-f3d558bcf7f9"
+                }
+            ],
+            "severity": "warning",
+            "type": "extra_footprint"
         }
     ],
+    "source": "rcbus-opl3.kicad_pcb",
+    "unconnected_items": [],
     "violations": [
         {
             "description": "Silkscreen clipped by board edge",
@@ -139,6 +245,21 @@
                         "y": 160.75
                     },
                     "uuid": "28b01cd2-da3a-46ec-8825-b0f31a0b8987"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'CC BY-SA\nhttps://creativecommons.org' on B.Silkscreen",
+                    "pos": {
+                        "x": 88.49936,
+                        "y": 159.0
+                    },
+                    "uuid": "74d50a94-95e9-4e57-9cd2-84e7d9bcbcd1"
                 }
             ],
             "severity": "warning",

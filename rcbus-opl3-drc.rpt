@@ -1,7 +1,7 @@
 ** Drc report for rcbus-opl3.kicad_pcb **
-** Created on 2025-10-07T23:42:36+0000 **
+** Created on 2025-10-08T18:44:50+0000 **
 
-** Found 7 DRC violations **
+** Found 8 DRC violations **
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(160.0 mm, 165.0 mm): Segment on Edge.Cuts
@@ -24,13 +24,37 @@
 [text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
     ; warning
     @(139.25 mm, 160.75 mm): PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(88.49936 mm, 159.0 mm): PCB text 'CC BY-SA
+https://creativecommons.org' on B.Silkscreen
 
-** Found 1 unconnected pads **
-[unconnected_items]: Missing connection between items
-    ; error
-    @(102.14 mm, 163.5 mm): PTH pad 17 [GND] of P1
-    @(60.0 mm, 115.0 mm): Zone [GND] on Front and Back
+** Found 0 unconnected pads **
 
-** Found 0 Footprint errors **
+** Found 7 Footprint errors **
+[duplicate_footprints]: Duplicate footprints
+    ; warning
+    @(97.5 mm, 159.0 mm): Footprint REF**
+    @(53.0 mm, 96.5 mm): Footprint REF**
+[duplicate_footprints]: Duplicate footprints
+    ; warning
+    @(91.5 mm, 159.0 mm): Footprint REF**
+    @(53.0 mm, 96.5 mm): Footprint REF**
+[duplicate_footprints]: Duplicate footprints
+    ; warning
+    @(103.5 mm, 159.0 mm): Footprint REF**
+    @(53.0 mm, 96.5 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    ; warning
+    @(53.0 mm, 96.5 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    ; warning
+    @(97.5 mm, 159.0 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    ; warning
+    @(91.5 mm, 159.0 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    ; warning
+    @(103.5 mm, 159.0 mm): Footprint REF**
 
 ** End of Report **

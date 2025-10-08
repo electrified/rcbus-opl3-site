@@ -6,4 +6,12 @@
 "Violations","warning","False","lib_footprint_mismatch","Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.","@(123.595 mm, 135.75 mm): Footprint U3"
 "Violations","warning","False","lib_footprint_mismatch","Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.","@(123.5 mm, 123.037022 mm): Footprint U4"
 "Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(139.25 mm, 160.75 mm): PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen"
-"Unconnected items","error","False","unconnected_items","Missing connection between items","@(102.14 mm, 163.5 mm): PTH pad 17 [GND] of P1;@(60.0 mm, 115.0 mm): Zone [GND] on Front and Back"
+"Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(88.49936 mm, 159.0 mm): PCB text 'CC BY-SA
+https://creativecommons.org' on B.Silkscreen"
+"Schematic parity","warning","False","duplicate_footprints","Duplicate footprints","@(97.5 mm, 159.0 mm): Footprint REF**;@(53.0 mm, 96.5 mm): Footprint REF**"
+"Schematic parity","warning","False","duplicate_footprints","Duplicate footprints","@(91.5 mm, 159.0 mm): Footprint REF**;@(53.0 mm, 96.5 mm): Footprint REF**"
+"Schematic parity","warning","False","duplicate_footprints","Duplicate footprints","@(103.5 mm, 159.0 mm): Footprint REF**;@(53.0 mm, 96.5 mm): Footprint REF**"
+"Schematic parity","warning","False","extra_footprint","Extra footprint","@(53.0 mm, 96.5 mm): Footprint REF**"
+"Schematic parity","warning","False","extra_footprint","Extra footprint","@(97.5 mm, 159.0 mm): Footprint REF**"
+"Schematic parity","warning","False","extra_footprint","Extra footprint","@(91.5 mm, 159.0 mm): Footprint REF**"
+"Schematic parity","warning","False","extra_footprint","Extra footprint","@(103.5 mm, 159.0 mm): Footprint REF**"
