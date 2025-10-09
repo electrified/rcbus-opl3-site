@@ -1,60 +1,269 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-10-09T19:09:55+0000",
+    "date": "2025-10-09T21:07:20+0000",
     "kicad_version": "9.0.1",
     "schematic_parity": [
         {
-            "description": "Duplicate footprints",
+            "description": "Pad net (Net-(U1-CV)) doesn't match net given by schematic (Net-(U1A-+)).",
             "items": [
                 {
-                    "description": "Footprint REF**",
+                    "description": "Pad 1 [Net-(U1-CV)] of C1 on Front",
                     "pos": {
-                        "x": 91.5,
-                        "y": 159.0
+                        "x": 114.2,
+                        "y": 127.8
                     },
-                    "uuid": "ae156486-bf17-4d8e-bfb8-d016f54f6097"
-                },
-                {
-                    "description": "Footprint REF**",
-                    "pos": {
-                        "x": 97.5,
-                        "y": 159.0
-                    },
-                    "uuid": "5dc081f3-35d2-4803-9bd6-88f753cd7cf4"
+                    "uuid": "ebb53799-58d4-440e-9be2-67e2cdcf138e"
                 }
             ],
             "severity": "warning",
-            "type": "duplicate_footprints"
+            "type": "net_conflict"
         },
         {
-            "description": "Duplicate footprints",
+            "description": "Pad net (Net-(C6-Pad2)) doesn't match net given by schematic (Net-(C2-Pad2)).",
             "items": [
                 {
-                    "description": "Footprint REF**",
+                    "description": "Pad 2 [Net-(C6-Pad2)] of C2 on Front",
                     "pos": {
-                        "x": 103.5,
-                        "y": 159.0
+                        "x": 138.6,
+                        "y": 130.595
                     },
-                    "uuid": "c3f9f25a-0c5c-41c2-89b0-f3d558bcf7f9"
-                },
-                {
-                    "description": "Footprint REF**",
-                    "pos": {
-                        "x": 97.5,
-                        "y": 159.0
-                    },
-                    "uuid": "5dc081f3-35d2-4803-9bd6-88f753cd7cf4"
+                    "uuid": "6dfc9bbe-b629-403f-ba0b-8a699037f502"
                 }
             ],
             "severity": "warning",
-            "type": "duplicate_footprints"
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U1-AOUT)) doesn't match net given by schematic (Net-(U1B-+)).",
+            "items": [
+                {
+                    "description": "Pad 1 [Net-(U1-AOUT)] of C6 on Front",
+                    "pos": {
+                        "x": 123.9,
+                        "y": 127.925
+                    },
+                    "uuid": "d723f3fa-e690-4a9a-953b-2a089f465ee7"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U1-SWIN)) doesn't match net given by schematic (Net-(U2-SWIN)).",
+            "items": [
+                {
+                    "description": "Pad 1 [Net-(U1-SWIN)] of R1 on Front",
+                    "pos": {
+                        "x": 125.9,
+                        "y": 129.525
+                    },
+                    "uuid": "dbee9cb7-9470-4a5d-a582-c09461c40100"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U2B--)) doesn't match net given by schematic (Net-(U1B--)).",
+            "items": [
+                {
+                    "description": "Pad 2 [Net-(U2B--)] of R1 on Front",
+                    "pos": {
+                        "x": 125.9,
+                        "y": 127.875
+                    },
+                    "uuid": "ab8bac44-92b5-4a62-ada5-288d980b9a17"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(C6-Pad2)) doesn't match net given by schematic (Net-(C2-Pad2)).",
+            "items": [
+                {
+                    "description": "Pad 1 [Net-(C6-Pad2)] of R4 on Front",
+                    "pos": {
+                        "x": 142.575,
+                        "y": 130.595
+                    },
+                    "uuid": "e2e033a7-7b9c-4329-be1e-5fe28444b51f"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U1-MP)) doesn't match net given by schematic (Net-(U1A--)).",
+            "items": [
+                {
+                    "description": "Pad 1 [Net-(U1-MP)] of U1 on Front",
+                    "pos": {
+                        "x": 119.69,
+                        "y": 125.512022
+                    },
+                    "uuid": "cc5f1ea9-038f-422b-ae93-c8897278a3dc"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U1-MP)) doesn't match net given by schematic (Net-(U1A--)).",
+            "items": [
+                {
+                    "description": "Pad 2 [Net-(U1-MP)] of U1 on Front",
+                    "pos": {
+                        "x": 120.96,
+                        "y": 125.512022
+                    },
+                    "uuid": "dd779f69-4f08-43f9-b0c4-bc2a87aad216"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U1-CV)) doesn't match net given by schematic (Net-(U1A-+)).",
+            "items": [
+                {
+                    "description": "Pad 3 [Net-(U1-CV)] of U1 on Front",
+                    "pos": {
+                        "x": 122.23,
+                        "y": 125.512022
+                    },
+                    "uuid": "67813486-7c38-426d-82c6-a981b2da39f8"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U1-AOUT)) doesn't match net given by schematic (Net-(U1B-+)).",
+            "items": [
+                {
+                    "description": "Pad 5 [Net-(U1-AOUT)] of U1 on Front",
+                    "pos": {
+                        "x": 124.77,
+                        "y": 125.512022
+                    },
+                    "uuid": "4bf4e3ed-2f79-471e-964e-71de0476d926"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U2B--)) doesn't match net given by schematic (Net-(U1B--)).",
+            "items": [
+                {
+                    "description": "Pad 6 [Net-(U2B--)] of U1 on Front",
+                    "pos": {
+                        "x": 126.04,
+                        "y": 125.512022
+                    },
+                    "uuid": "30a972b0-5657-4619-ba80-c107a5689659"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U2B--)) doesn't match net given by schematic (Net-(U1B--)).",
+            "items": [
+                {
+                    "description": "Pad 7 [Net-(U2B--)] of U1 on Front",
+                    "pos": {
+                        "x": 127.31,
+                        "y": 125.512022
+                    },
+                    "uuid": "7243de71-6a16-41cc-a1e3-5314bcfab7cc"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U1-SWIN)) doesn't match net given by schematic (Net-(U2-SWIN)).",
+            "items": [
+                {
+                    "description": "Pad 12 [Net-(U1-SWIN)] of U2 on Front",
+                    "pos": {
+                        "x": 124.23,
+                        "y": 132.5
+                    },
+                    "uuid": "5cf5eb74-66be-435c-8e0b-1d6b37c4f2aa"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U1-AOUT)) doesn't match net given by schematic (Net-(U1B-+)).",
+            "items": [
+                {
+                    "description": "Pad 13 [Net-(U1-AOUT)] of U2 on Front",
+                    "pos": {
+                        "x": 122.96,
+                        "y": 132.5
+                    },
+                    "uuid": "4a9baa9e-9d61-4e9c-8899-e77b83fa9886"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U1-MP)) doesn't match net given by schematic (Net-(U1A--)).",
+            "items": [
+                {
+                    "description": "Pad 14 [Net-(U1-MP)] of U2 on Front",
+                    "pos": {
+                        "x": 121.69,
+                        "y": 132.5
+                    },
+                    "uuid": "14483a05-c7ee-41de-a8c4-6431ae36ffda"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (unconnected-(U1-TST2-Pad15)) doesn't match net given by schematic (unconnected-(U2-TST2-Pad15)).",
+            "items": [
+                {
+                    "description": "Pad 15 [unconnected-(U1-TST2-Pad15)] of U2 on Front",
+                    "pos": {
+                        "x": 120.42,
+                        "y": 132.5
+                    },
+                    "uuid": "a9fdbccc-4e46-4324-a8a1-92bcf00aaf5f"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (Net-(U1-CV)) doesn't match net given by schematic (Net-(U1A-+)).",
+            "items": [
+                {
+                    "description": "Pad 16 [Net-(U1-CV)] of U2 on Front",
+                    "pos": {
+                        "x": 119.15,
+                        "y": 132.5
+                    },
+                    "uuid": "82e29d26-3d49-4c95-86a3-41cbb894664b"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
         },
         {
             "description": "Extra footprint",
             "items": [
                 {
-                    "description": "Footprint REF**",
+                    "description": "Footprint G4",
                     "pos": {
                         "x": 97.5,
                         "y": 159.0
@@ -69,7 +278,7 @@
             "description": "Extra footprint",
             "items": [
                 {
-                    "description": "Footprint REF**",
+                    "description": "Footprint G5",
                     "pos": {
                         "x": 91.5,
                         "y": 159.0
@@ -84,7 +293,7 @@
             "description": "Extra footprint",
             "items": [
                 {
-                    "description": "Footprint REF**",
+                    "description": "Footprint G3",
                     "pos": {
                         "x": 103.5,
                         "y": 159.0
@@ -171,7 +380,7 @@
             "description": "Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.",
             "items": [
                 {
-                    "description": "Footprint U1",
+                    "description": "Footprint U2",
                     "pos": {
                         "x": 123.595,
                         "y": 135.75
@@ -186,7 +395,7 @@
             "description": "Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.",
             "items": [
                 {
-                    "description": "Footprint U2",
+                    "description": "Footprint U1",
                     "pos": {
                         "x": 123.5,
                         "y": 123.037022

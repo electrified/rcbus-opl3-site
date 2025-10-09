@@ -1732,13 +1732,13 @@ AElFTkSuQmCC" alt="Logo" width="370" height="200">
  <td class="cell-info">
    <b>PCB</b>: rcbus-opl3<br>
    <b>Revision</b>: @version@<br>
-   <b>Date</b>: 2025-10-09T19:09:55+0000<br>
+   <b>Date</b>: 2025-10-09T21:07:20+0000<br>
    <b>KiCad Version</b>: 9.0.1<br>
  </td>
  <td class="cell-stats">
    <b>Errors</b>: 0<br>
-   <b>Warnings</b>: 13<br>
-   <b>Total</b>: 13<br>
+   <b>Warnings</b>: 28<br>
+   <b>Total</b>: 28<br>
  </td>
 </tr>
 </table>
@@ -1775,12 +1775,12 @@ AElFTkSuQmCC" alt="Logo" width="370" height="200">
   <tr id="4">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.</td>
-   <td>@(123.595 mm, 135.75 mm): Footprint U1<br></td>
+   <td>@(123.595 mm, 135.75 mm): Footprint U2<br></td>
   </tr>
   <tr id="5">
    <td class="td-warning">lib_footprint_mismatch</td>
    <td>Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.</td>
-   <td>@(123.5 mm, 123.037022 mm): Footprint U2<br></td>
+   <td>@(123.5 mm, 123.037022 mm): Footprint U1<br></td>
   </tr>
   <tr id="6">
    <td class="td-warning">text_thickness</td>
@@ -1806,29 +1806,104 @@ https://creativecommons.org' on B.Silkscreen<br></td>
  </thead>
  <tbody>
   <tr id="8">
-   <td class="td-warning">duplicate_footprints</td>
-   <td>Duplicate footprints</td>
-   <td>@(91.5 mm, 159.0 mm): Footprint REF**<br>@(97.5 mm, 159.0 mm): Footprint REF**<br></td>
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-CV)) doesn't match net given by schematic (Net-(U1A-+)).</td>
+   <td>@(114.2 mm, 127.8 mm): Pad 1 [Net-(U1-CV)] of C1 on Front<br></td>
   </tr>
   <tr id="9">
-   <td class="td-warning">duplicate_footprints</td>
-   <td>Duplicate footprints</td>
-   <td>@(103.5 mm, 159.0 mm): Footprint REF**<br>@(97.5 mm, 159.0 mm): Footprint REF**<br></td>
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(C6-Pad2)) doesn't match net given by schematic (Net-(C2-Pad2)).</td>
+   <td>@(138.6 mm, 130.595 mm): Pad 2 [Net-(C6-Pad2)] of C2 on Front<br></td>
   </tr>
   <tr id="10">
-   <td class="td-warning">extra_footprint</td>
-   <td>Extra footprint</td>
-   <td>@(97.5 mm, 159.0 mm): Footprint REF**<br></td>
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-AOUT)) doesn't match net given by schematic (Net-(U1B-+)).</td>
+   <td>@(123.9 mm, 127.925 mm): Pad 1 [Net-(U1-AOUT)] of C6 on Front<br></td>
   </tr>
   <tr id="11">
-   <td class="td-warning">extra_footprint</td>
-   <td>Extra footprint</td>
-   <td>@(91.5 mm, 159.0 mm): Footprint REF**<br></td>
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-SWIN)) doesn't match net given by schematic (Net-(U2-SWIN)).</td>
+   <td>@(125.9 mm, 129.525 mm): Pad 1 [Net-(U1-SWIN)] of R1 on Front<br></td>
   </tr>
   <tr id="12">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U2B--)) doesn't match net given by schematic (Net-(U1B--)).</td>
+   <td>@(125.9 mm, 127.875 mm): Pad 2 [Net-(U2B--)] of R1 on Front<br></td>
+  </tr>
+  <tr id="13">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(C6-Pad2)) doesn't match net given by schematic (Net-(C2-Pad2)).</td>
+   <td>@(142.575 mm, 130.595 mm): Pad 1 [Net-(C6-Pad2)] of R4 on Front<br></td>
+  </tr>
+  <tr id="14">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-MP)) doesn't match net given by schematic (Net-(U1A--)).</td>
+   <td>@(119.69 mm, 125.512022 mm): Pad 1 [Net-(U1-MP)] of U1 on Front<br></td>
+  </tr>
+  <tr id="15">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-MP)) doesn't match net given by schematic (Net-(U1A--)).</td>
+   <td>@(120.96 mm, 125.512022 mm): Pad 2 [Net-(U1-MP)] of U1 on Front<br></td>
+  </tr>
+  <tr id="16">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-CV)) doesn't match net given by schematic (Net-(U1A-+)).</td>
+   <td>@(122.23 mm, 125.512022 mm): Pad 3 [Net-(U1-CV)] of U1 on Front<br></td>
+  </tr>
+  <tr id="17">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-AOUT)) doesn't match net given by schematic (Net-(U1B-+)).</td>
+   <td>@(124.77 mm, 125.512022 mm): Pad 5 [Net-(U1-AOUT)] of U1 on Front<br></td>
+  </tr>
+  <tr id="18">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U2B--)) doesn't match net given by schematic (Net-(U1B--)).</td>
+   <td>@(126.04 mm, 125.512022 mm): Pad 6 [Net-(U2B--)] of U1 on Front<br></td>
+  </tr>
+  <tr id="19">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U2B--)) doesn't match net given by schematic (Net-(U1B--)).</td>
+   <td>@(127.31 mm, 125.512022 mm): Pad 7 [Net-(U2B--)] of U1 on Front<br></td>
+  </tr>
+  <tr id="20">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-SWIN)) doesn't match net given by schematic (Net-(U2-SWIN)).</td>
+   <td>@(124.23 mm, 132.5 mm): Pad 12 [Net-(U1-SWIN)] of U2 on Front<br></td>
+  </tr>
+  <tr id="21">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-AOUT)) doesn't match net given by schematic (Net-(U1B-+)).</td>
+   <td>@(122.96 mm, 132.5 mm): Pad 13 [Net-(U1-AOUT)] of U2 on Front<br></td>
+  </tr>
+  <tr id="22">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-MP)) doesn't match net given by schematic (Net-(U1A--)).</td>
+   <td>@(121.69 mm, 132.5 mm): Pad 14 [Net-(U1-MP)] of U2 on Front<br></td>
+  </tr>
+  <tr id="23">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (unconnected-(U1-TST2-Pad15)) doesn't match net given by schematic (unconnected-(U2-TST2-Pad15)).</td>
+   <td>@(120.42 mm, 132.5 mm): Pad 15 [unconnected-(U1-TST2-Pad15)] of U2 on Front<br></td>
+  </tr>
+  <tr id="24">
+   <td class="td-warning">net_conflict</td>
+   <td>Pad net (Net-(U1-CV)) doesn't match net given by schematic (Net-(U1A-+)).</td>
+   <td>@(119.15 mm, 132.5 mm): Pad 16 [Net-(U1-CV)] of U2 on Front<br></td>
+  </tr>
+  <tr id="25">
    <td class="td-warning">extra_footprint</td>
    <td>Extra footprint</td>
-   <td>@(103.5 mm, 159.0 mm): Footprint REF**<br></td>
+   <td>@(97.5 mm, 159.0 mm): Footprint G4<br></td>
+  </tr>
+  <tr id="26">
+   <td class="td-warning">extra_footprint</td>
+   <td>Extra footprint</td>
+   <td>@(91.5 mm, 159.0 mm): Footprint G5<br></td>
+  </tr>
+  <tr id="27">
+   <td class="td-warning">extra_footprint</td>
+   <td>Extra footprint</td>
+   <td>@(103.5 mm, 159.0 mm): Footprint G3<br></td>
   </tr>
  </tbody>
 </table>
