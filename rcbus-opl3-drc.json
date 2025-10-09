@@ -1,7 +1,7 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-10-09T21:07:20+0000",
+    "date": "2025-10-09T21:37:14+0000",
     "kicad_version": "9.0.1",
     "schematic_parity": [
         {
@@ -265,7 +265,7 @@
                 {
                     "description": "Footprint G4",
                     "pos": {
-                        "x": 97.5,
+                        "x": 98.5,
                         "y": 159.0
                     },
                     "uuid": "5dc081f3-35d2-4803-9bd6-88f753cd7cf4"
@@ -280,7 +280,7 @@
                 {
                     "description": "Footprint G5",
                     "pos": {
-                        "x": 91.5,
+                        "x": 92.5,
                         "y": 159.0
                     },
                     "uuid": "ae156486-bf17-4d8e-bfb8-d016f54f6097"
@@ -295,7 +295,7 @@
                 {
                     "description": "Footprint G3",
                     "pos": {
-                        "x": 103.5,
+                        "x": 104.5,
                         "y": 159.0
                     },
                     "uuid": "c3f9f25a-0c5c-41c2-89b0-f3d558bcf7f9"
@@ -308,29 +308,6 @@
     "source": "rcbus-opl3.kicad_pcb",
     "unconnected_items": [],
     "violations": [
-        {
-            "description": "Silkscreen clipped by board edge",
-            "items": [
-                {
-                    "description": "Segment on Edge.Cuts",
-                    "pos": {
-                        "x": 160.0,
-                        "y": 165.0
-                    },
-                    "uuid": "b547dd70-2ea7-4cfd-a1ee-911561975d81"
-                },
-                {
-                    "description": "PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen",
-                    "pos": {
-                        "x": 139.25,
-                        "y": 160.75
-                    },
-                    "uuid": "28b01cd2-da3a-46ec-8825-b0f31a0b8987"
-                }
-            ],
-            "severity": "warning",
-            "type": "silk_edge_clearance"
-        },
         {
             "description": "Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.",
             "items": [
@@ -412,8 +389,8 @@
                 {
                     "description": "PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen",
                     "pos": {
-                        "x": 139.25,
-                        "y": 160.75
+                        "x": 138.5,
+                        "y": 161.0
                     },
                     "uuid": "28b01cd2-da3a-46ec-8825-b0f31a0b8987"
                 }
@@ -427,8 +404,8 @@
                 {
                     "description": "PCB text 'CC BY-SA\nhttps://creativecommons.org' on B.Silkscreen",
                     "pos": {
-                        "x": 88.49936,
-                        "y": 159.0
+                        "x": 89.0,
+                        "y": 159.5
                     },
                     "uuid": "74d50a94-95e9-4e57-9cd2-84e7d9bcbcd1"
                 }
