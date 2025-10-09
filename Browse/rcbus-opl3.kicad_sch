@@ -2975,7 +2975,7 @@
   (symbol (lib_id "Device:C_Small") (at 132.08 25.4 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "00000000-0000-0000-0000-000058c9a12d")
-    (property "Reference" "C1" (at 128.778 22.86 0)
+    (property "Reference" "C8" (at 128.778 22.86 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 132.715 27.94 0)
@@ -2995,7 +2995,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C1") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -3004,7 +3004,7 @@
   (symbol (lib_id "Device:C_Small") (at 113.03 110.49 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "00000000-0000-0000-0000-000058c9a196")
-    (property "Reference" "C6" (at 113.03 106.172 0)
+    (property "Reference" "C11" (at 113.03 106.172 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 113.665 113.03 0)
@@ -3024,7 +3024,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C6") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -3128,7 +3128,7 @@
   (symbol (lib_id "Device:C_Small") (at 205.74 100.33 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "00000000-0000-0000-0000-000058db1ae2")
-    (property "Reference" "C12" (at 206.375 97.79 0)
+    (property "Reference" "C2" (at 206.375 97.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 206.375 102.87 0)
@@ -3148,7 +3148,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C12") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -3213,7 +3213,7 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 48.26 73.66 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "00000000-0000-0000-0000-00005d07afbc")
-    (property "Reference" "C5" (at 50.4952 72.4916 0)
+    (property "Reference" "C9" (at 50.4952 72.4916 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100uF" (at 39.878 73.66 0)
@@ -3233,7 +3233,7 @@
     (instances
       (project "rc2014-ymf262"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C5") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -3381,7 +3381,7 @@
   (symbol (lib_id "74xx:74HCT688") (at 139.7 59.69 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "00000000-0000-0000-0000-00006173199f")
-    (property "Reference" "U1" (at 142.24 29.21 0)
+    (property "Reference" "U3" (at 142.24 29.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74HCT688" (at 142.24 31.5214 0)
@@ -3419,7 +3419,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "U1") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -3624,7 +3624,7 @@
   (symbol (lib_id "Device:C_Small") (at 200.66 26.67 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "00000000-0000-0000-0000-0000619a302e")
-    (property "Reference" "C7" (at 202.9968 25.5016 0)
+    (property "Reference" "C12" (at 202.9968 25.5016 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 202.9968 27.813 0)
@@ -3644,7 +3644,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C7") (unit 1)
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -3653,7 +3653,7 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 233.68 33.02 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "00000000-0000-0000-0000-000061a169e8")
-    (property "Reference" "C8" (at 235.9152 31.8516 0)
+    (property "Reference" "C1" (at 235.9152 31.8516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 235.9152 34.163 0)
@@ -3673,7 +3673,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C8") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -3682,10 +3682,10 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 199.39 132.08 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "001962d0-ff8f-4551-9fef-07e557568285")
-    (property "Reference" "C15" (at 199.6821 136.144 90)
+    (property "Reference" "C7" (at 199.6821 136.144 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10uf" (at 199.39 138.938 90)
+    (property "Value" "10uF" (at 199.39 138.938 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8" (at 199.39 132.08 0)
@@ -3702,7 +3702,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C15") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -3739,7 +3739,7 @@
   (symbol (lib_id "Device:R") (at 218.44 135.89 180) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "09bbe5e7-a3c8-490d-a07e-8d6f2692be90")
-    (property "Reference" "R10" (at 221.742 135.89 90)
+    (property "Reference" "R4" (at 221.742 135.89 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10K" (at 216.154 136.398 90)
@@ -3759,7 +3759,7 @@
     (instances
       (project "rcbus-opl3"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R10") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -3768,10 +3768,10 @@
   (symbol (lib_id "Device:C_Small") (at 237.49 111.76 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "14a54509-0144-4bcf-8f04-79c199dcd019")
-    (property "Reference" "C9" (at 239.7252 110.5916 0)
+    (property "Reference" "C3" (at 239.7252 110.5916 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2.7nf" (at 242.824 112.776 0)
+    (property "Value" "2.7nF" (at 242.824 112.776 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 237.49 111.76 0)
@@ -3788,7 +3788,7 @@
     (instances
       (project "rc2014-ymf262"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C9") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -3825,7 +3825,7 @@
   (symbol (lib_id "Device:R_Small") (at 97.79 78.74 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "169b38c2-4189-4c25-a2e6-3fd964948dc3")
-    (property "Reference" "R3" (at 97.028 84.074 0)
+    (property "Reference" "R10" (at 97.028 84.074 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10K" (at 96.266 86.36 0)
@@ -3845,7 +3845,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R3") (unit 1)
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -3854,7 +3854,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 262.89 85.09 0) (unit 4)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "1d8fb5c8-6ffb-439e-a12e-9f6c931bd5d2")
-    (property "Reference" "U4" (at 259.08 78.232 0)
+    (property "Reference" "U2" (at 259.08 78.232 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 265.684 81.026 0)
@@ -3886,7 +3886,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "U4") (unit 4)
+          (reference "U2") (unit 4)
         )
       )
     )
@@ -3923,7 +3923,7 @@
   (symbol (lib_id "Device:R_Small") (at 113.03 78.74 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "211c992c-f57a-4138-8147-27fc1e3fc555")
-    (property "Reference" "R6" (at 112.014 83.82 0)
+    (property "Reference" "R11" (at 112.014 83.82 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10K" (at 111.506 86.36 0)
@@ -3943,7 +3943,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R6") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -4008,7 +4008,7 @@
   (symbol (lib_id "Device:R_Small") (at 87.63 78.74 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "34808447-fd5d-474e-a294-4c065abd7fb7")
-    (property "Reference" "R1" (at 86.868 84.074 0)
+    (property "Reference" "R9" (at 86.868 84.074 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10K" (at 86.36 86.36 0)
@@ -4028,7 +4028,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R1") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -4037,7 +4037,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 262.89 60.96 0) (unit 2)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid "38d53e1e-2689-4d41-bc3f-6efcef7d40f5")
-    (property "Reference" "U4" (at 262.89 50.8 0)
+    (property "Reference" "U2" (at 262.89 50.8 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 262.89 53.34 0)
@@ -4069,7 +4069,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "U4") (unit 2)
+          (reference "U2") (unit 2)
         )
       )
     )
@@ -4078,7 +4078,7 @@
   (symbol (lib_id "Device:R_Small") (at 107.95 78.74 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "3efb79c7-1d74-4e5e-89fd-9f5a7ae59b98")
-    (property "Reference" "R5" (at 106.68 84.074 0)
+    (property "Reference" "R6" (at 106.68 84.074 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10K" (at 106.68 86.36 0)
@@ -4098,7 +4098,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R5") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -4107,10 +4107,10 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 55.88 73.66 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "4f9b5912-c8e4-403c-bf36-d6adb380bfc8")
-    (property "Reference" "C2" (at 59.182 72.898 0)
+    (property "Reference" "C10" (at 59.182 72.898 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10uf" (at 55.88 83.312 0)
+    (property "Value" "10uF" (at 55.88 83.312 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8" (at 55.88 73.66 0)
@@ -4127,7 +4127,7 @@
     (instances
       (project "rcbus-opl3"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C2") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -4136,7 +4136,7 @@
   (symbol (lib_id "Device:R_Small") (at 92.71 78.74 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "51bbaabd-bf5e-47d7-9476-34f3ae13df63")
-    (property "Reference" "R2" (at 91.948 84.074 0)
+    (property "Reference" "R8" (at 91.948 84.074 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10K" (at 91.44 86.36 0)
@@ -4156,7 +4156,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R2") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -4221,7 +4221,7 @@
   (symbol (lib_id "Device:R") (at 218.44 156.21 180) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "629fe1c1-a1cd-4255-901e-ba9af73ce5ce")
-    (property "Reference" "R11" (at 221.742 156.21 90)
+    (property "Reference" "R5" (at 221.742 156.21 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10K" (at 216.154 156.718 90)
@@ -4241,7 +4241,7 @@
     (instances
       (project "rcbus-opl3"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R11") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -4281,7 +4281,7 @@
   (symbol (lib_id "electrified:YAC512") (at 195.58 54.61 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid "68ae4a16-41e2-4ce4-80d0-7e38a3cb982d")
-    (property "Reference" "U3" (at 197.7233 73.66 0)
+    (property "Reference" "U1" (at 197.7233 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "YAC512" (at 197.7233 76.2 0)
@@ -4315,7 +4315,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "U3") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -4324,7 +4324,7 @@
   (symbol (lib_id "Device:C_Small") (at 87.63 153.67 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "696006b9-16fe-4927-8082-909fd0874b62")
-    (property "Reference" "C19" (at 89.9668 152.5016 0)
+    (property "Reference" "C13" (at 89.9668 152.5016 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 89.9668 154.813 0)
@@ -4344,7 +4344,7 @@
     (instances
       (project "rcbus-ymf262"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C19") (unit 1)
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -4353,7 +4353,7 @@
   (symbol (lib_id "Device:R") (at 245.11 72.39 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "6dd01a31-41bc-441a-951b-ed2410861f68")
-    (property "Reference" "R7" (at 245.11 75.692 90)
+    (property "Reference" "R1" (at 245.11 75.692 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "33" (at 244.602 70.104 90)
@@ -4373,7 +4373,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R7") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -4410,7 +4410,7 @@
   (symbol (lib_id "electrified:YMF262") (at 119.38 138.43 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid "7d5e97d0-b99c-4f74-8fb7-8129c778093d")
-    (property "Reference" "U2" (at 121.5233 115.57 0)
+    (property "Reference" "U4" (at 121.5233 115.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "YMF262" (at 121.5233 118.11 0)
@@ -4452,7 +4452,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "U2") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -4517,7 +4517,7 @@
   (symbol (lib_id "Device:R") (at 209.55 132.08 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "95c4881a-cc15-4c31-92dc-4b4d979d4673")
-    (property "Reference" "R8" (at 209.55 135.382 90)
+    (property "Reference" "R2" (at 209.55 135.382 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100" (at 209.042 129.794 90)
@@ -4537,7 +4537,7 @@
     (instances
       (project "rcbus-opl3"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R8") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -4602,7 +4602,7 @@
   (symbol (lib_id "Device:R") (at 209.55 152.4 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "a934a69c-eb59-4fe6-8a23-e4e910373981")
-    (property "Reference" "R9" (at 209.55 155.702 90)
+    (property "Reference" "R3" (at 209.55 155.702 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100" (at 209.042 150.114 90)
@@ -4622,7 +4622,7 @@
     (instances
       (project "rcbus-opl3"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R9") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -4631,10 +4631,10 @@
   (symbol (lib_id "Device:C_Small") (at 243.84 60.96 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "b7f86232-8963-4754-acef-b1c0c304fca2")
-    (property "Reference" "C11" (at 246.0752 59.7916 0)
+    (property "Reference" "C5" (at 246.0752 59.7916 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "68pf" (at 246.634 61.976 0)
+    (property "Value" "68pF" (at 246.634 61.976 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 243.84 60.96 0)
@@ -4651,7 +4651,7 @@
     (instances
       (project "rc2014-ymf262"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C11") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -4660,10 +4660,10 @@
   (symbol (lib_id "Device:C_Small") (at 237.49 85.09 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "ba071aba-29ab-4433-83b1-111d406a3822")
-    (property "Reference" "C10" (at 239.7252 83.9216 0)
+    (property "Reference" "C4" (at 239.7252 83.9216 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2.7nf" (at 242.316 86.614 0)
+    (property "Value" "2.7nF" (at 242.316 86.614 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 237.49 85.09 0)
@@ -4680,7 +4680,7 @@
     (instances
       (project "rc2014-ymf262"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C10") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
@@ -4717,7 +4717,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 262.89 111.76 0) (unit 3)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid "bedbd726-46c6-4f68-854f-e9838d3c0fbf")
-    (property "Reference" "U4" (at 262.89 101.6 0)
+    (property "Reference" "U2" (at 262.89 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 262.89 104.14 0)
@@ -4749,7 +4749,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "U4") (unit 3)
+          (reference "U2") (unit 3)
         )
       )
     )
@@ -4786,10 +4786,10 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 199.39 152.4 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "cb54bcc4-c8bf-43ec-982f-38562cfdd035")
-    (property "Reference" "C16" (at 199.39 157.988 90)
+    (property "Reference" "C6" (at 199.39 157.988 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10uf" (at 199.39 155.702 90)
+    (property "Value" "10uF" (at 199.39 155.702 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8" (at 199.39 152.4 0)
@@ -4806,7 +4806,7 @@
     (instances
       (project "rc2014-ymf262"
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "C16") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -4843,7 +4843,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 262.89 31.75 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid "d90335a7-d0db-4e30-a67e-76973b1144c1")
-    (property "Reference" "U4" (at 262.89 21.59 0)
+    (property "Reference" "U2" (at 262.89 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 262.89 24.13 0)
@@ -4875,7 +4875,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "U4") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -4940,7 +4940,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 198.12 106.68 0) (unit 5)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid "f92355a1-3ed8-40b6-a010-436fe060b03c")
-    (property "Reference" "U4" (at 196.85 105.4099 0)
+    (property "Reference" "U2" (at 196.85 105.4099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TL074" (at 196.85 107.9499 0)
@@ -4972,7 +4972,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "U4") (unit 5)
+          (reference "U2") (unit 5)
         )
       )
     )
@@ -4981,7 +4981,7 @@
   (symbol (lib_id "Device:R_Small") (at 102.87 78.74 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid "ff3cbb88-b0a2-405d-b0ff-af8a6f919846")
-    (property "Reference" "R4" (at 101.854 84.074 0)
+    (property "Reference" "R7" (at 101.854 84.074 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "10K" (at 101.346 86.36 0)
@@ -5001,7 +5001,7 @@
     (instances
       (project ""
         (path "/9a2d648d-863a-4b7b-80f9-d537185c212b"
-          (reference "R4") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='ASCII' standalone='yes'?>
 <svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="297.0022mm" height="210.0072mm" viewBox="0.0000 0.0000 297.0022 210.0072">
-<svg:text x="178.0022" y="183.7572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="18.5071">Sheet: Assembly</svg:text><svg:text x="178.0022" y="186.4572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="30.7929">File: rcbus-opl3.kicad_pcb</svg:text><svg:text x="178.0022" y="190.3072" font-size="2.6667" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="51.0857">Title: RCBUS YMF262 sound card</svg:text><svg:text x="263.0022" y="196.6572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="8.5071">Id: 6/6</svg:text><svg:text x="178.0022" y="193.8572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="9.3643">Size: A4</svg:text><svg:text x="263.0022" y="193.8572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="18.2429">Rev: @version@</svg:text><svg:text x="178.0022" y="196.6572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="42.2214">KiCad E.D.A. 9.0.1+1 + KiBot v1.8.4</svg:text><svg:text x="200.0022" y="193.8572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="15.7214">Date: @date@</svg:text><svg:text x="286.0022" y="185.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">D</svg:text><svg:text x="286.0022" y="135.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">C</svg:text><svg:text x="286.0022" y="85.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">B</svg:text><svg:text x="286.0022" y="35.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.3043">A</svg:text><svg:text x="11.0000" y="185.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">D</svg:text><svg:text x="11.0000" y="135.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">C</svg:text><svg:text x="11.0000" y="85.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">B</svg:text><svg:text x="11.0000" y="35.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.3043">A</svg:text><svg:text x="285.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">6</svg:text><svg:text x="235.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">5</svg:text><svg:text x="185.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">4</svg:text><svg:text x="135.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">3</svg:text><svg:text x="85.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">2</svg:text><svg:text x="35.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">1</svg:text><svg:text x="285.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">6</svg:text><svg:text x="235.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">5</svg:text><svg:text x="185.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">4</svg:text><svg:text x="135.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">3</svg:text><svg:text x="85.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">2</svg:text><svg:text x="35.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">1</svg:text><svg:g transform="rotate(-90.000000 53.1200 147.5000)"><svg:text x="53.1200" y="148.2500" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="15.0286">35.0000 mm</svg:text></svg:g><svg:text x="110.0000" y="175.3800" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="16.4571">100.0000 mm</svg:text><svg:text x="157.7500" y="108.8461" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="13.6000">5.5000 mm</svg:text><svg:g transform="rotate(-90.000000 48.0400 140.0000)"><svg:text x="48.0400" y="140.7500" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="15.0286">50.0000 mm</svg:text></svg:g><title>SVG Image created as rcbus-opl3-User_Drawings0.svg date 2025/10/08 18:49:27 </title>
+<svg:text x="178.0022" y="183.7572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="18.5071">Sheet: Assembly</svg:text><svg:text x="178.0022" y="186.4572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="30.7929">File: rcbus-opl3.kicad_pcb</svg:text><svg:text x="178.0022" y="190.3072" font-size="2.6667" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="51.0857">Title: RCBUS YMF262 sound card</svg:text><svg:text x="263.0022" y="196.6572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="8.5071">Id: 6/6</svg:text><svg:text x="178.0022" y="193.8572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="9.3643">Size: A4</svg:text><svg:text x="263.0022" y="193.8572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="18.2429">Rev: @version@</svg:text><svg:text x="178.0022" y="196.6572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="42.2214">KiCad E.D.A. 9.0.1+1 + KiBot v1.8.4</svg:text><svg:text x="200.0022" y="193.8572" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="15.7214">Date: @date@</svg:text><svg:text x="286.0022" y="185.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">D</svg:text><svg:text x="286.0022" y="135.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">C</svg:text><svg:text x="286.0022" y="85.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">B</svg:text><svg:text x="286.0022" y="35.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.3043">A</svg:text><svg:text x="11.0000" y="185.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">D</svg:text><svg:text x="11.0000" y="135.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">C</svg:text><svg:text x="11.0000" y="85.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4900">B</svg:text><svg:text x="11.0000" y="35.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.3043">A</svg:text><svg:text x="285.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">6</svg:text><svg:text x="235.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">5</svg:text><svg:text x="185.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">4</svg:text><svg:text x="135.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">3</svg:text><svg:text x="85.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">2</svg:text><svg:text x="35.0000" y="199.6572" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">1</svg:text><svg:text x="285.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">6</svg:text><svg:text x="235.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">5</svg:text><svg:text x="185.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">4</svg:text><svg:text x="135.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">3</svg:text><svg:text x="85.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">2</svg:text><svg:text x="35.0000" y="11.6500" font-size="1.7333" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="start" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="1.4281">1</svg:text><svg:g transform="rotate(-90.000000 53.1200 147.5000)"><svg:text x="53.1200" y="148.2500" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="15.0286">35.0000 mm</svg:text></svg:g><svg:text x="110.0000" y="175.3800" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="16.4571">100.0000 mm</svg:text><svg:text x="157.7500" y="108.8461" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="13.6000">5.5000 mm</svg:text><svg:g transform="rotate(-90.000000 48.0400 140.0000)"><svg:text x="48.0400" y="140.7500" font-size="2.0000" font-family="monospace" font-weight="normal" letter-spacing="0" text-anchor="middle" fill="#FFFFFF" lengthAdjust="spacingAndGlyphs" textLength="15.0286">50.0000 mm</svg:text></svg:g><title>SVG Image created as rcbus-opl3-User_Drawings0.svg date 2025/10/09 19:14:34 </title>
   <desc>Image generated by PCBNEW </desc>
 <g style="fill:#000000; fill-opacity:1.0000;stroke:#000000; stroke-opacity:1.0000; stroke-linecap:round; stroke-linejoin:round;" transform="translate(0 0) scale(1 1)">
 <path style="fill:none;  stroke:#000000; stroke-width:0.3200; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill:none" d="M 66.6320,131.8820 65.0320,133.4820 63.4320,131.8820 65.0320,130.2820 Z"/> 
@@ -138,14 +138,60 @@
 <path d="M148.2190 120.1950 A0.4000 0.4000 0.0 0 0 148.2190 120.9950"/>
 <path d="M148.9190 120.1950 L148.2190 120.1950 "/>
 <circle cx="148.5690" cy="120.5950" r="0.4000"/> 
+<path d="M158.6651 159.6349 L158.3349 159.9651 "/>
+<path d="M158.3349 159.6349 L158.6651 159.9651 "/>
+<path d="M158.6651 145.0349 L158.3349 145.3651 "/>
+<path d="M158.3349 145.0349 L158.6651 145.3651 "/>
+<path d="M158.6651 130.4349 L158.3349 130.7651 "/>
+<path d="M158.3349 130.4349 L158.6651 130.7651 "/>
+<path d="M154.9151 152.3349 L154.5849 152.6651 "/>
+<path d="M154.5849 152.3349 L154.9151 152.6651 "/>
+<path d="M154.9151 137.7349 L154.5849 138.0651 "/>
+<path d="M154.5849 137.7349 L154.9151 138.0651 "/>
+<path d="M154.9151 123.1349 L154.5849 123.4651 "/>
+<path d="M154.5849 123.1349 L154.9151 123.4651 "/>
+<path d="M151.1651 159.6349 L150.8349 159.9651 "/>
+<path d="M150.8349 159.6349 L151.1651 159.9651 "/>
+<path d="M151.1651 145.0349 L150.8349 145.3651 "/>
+<path d="M150.8349 145.0349 L151.1651 145.3651 "/>
+<path d="M151.1651 130.4349 L150.8349 130.7651 "/>
+<path d="M150.8349 130.4349 L151.1651 130.7651 "/>
+<path d="M151.1651 115.8349 L150.8349 116.1651 "/>
+<path d="M150.8349 115.8349 L151.1651 116.1651 "/>
+<path d="M147.4151 152.3349 L147.0849 152.6651 "/>
+<path d="M147.0849 152.3349 L147.4151 152.6651 "/>
+<path d="M147.4151 137.7349 L147.0849 138.0651 "/>
+<path d="M147.0849 137.7349 L147.4151 138.0651 "/>
+<path d="M144.6651 145.0349 L144.3349 145.3651 "/>
+<path d="M144.3349 145.0349 L144.6651 145.3651 "/>
+<path d="M143.6651 115.8349 L143.3349 116.1651 "/>
+<path d="M143.3349 115.8349 L143.6651 116.1651 "/>
 <path d="M141.7651 134.6349 L141.4349 134.9651 "/>
 <path d="M141.4349 134.6349 L141.7651 134.9651 "/>
 <path d="M141.7651 124.4349 L141.4349 124.7651 "/>
 <path d="M141.4349 124.4349 L141.7651 124.7651 "/>
+<path d="M139.9151 147.3349 L139.5849 147.6651 "/>
+<path d="M139.5849 147.3349 L139.9151 147.6651 "/>
+<path d="M139.9151 137.7349 L139.5849 138.0651 "/>
+<path d="M139.5849 137.7349 L139.9151 138.0651 "/>
+<path d="M139.9151 123.1349 L139.5849 123.4651 "/>
+<path d="M139.5849 123.1349 L139.9151 123.4651 "/>
+<path d="M136.1651 130.4349 L135.8349 130.7651 "/>
+<path d="M135.8349 130.4349 L136.1651 130.7651 "/>
+<path d="M136.1651 115.8349 L135.8349 116.1651 "/>
+<path d="M135.8349 115.8349 L136.1651 116.1651 "/>
+<path d="M132.4151 152.3349 L132.0849 152.6651 "/>
+<path d="M132.0849 152.3349 L132.4151 152.6651 "/>
+<path d="M132.4151 137.7349 L132.0849 138.0651 "/>
+<path d="M132.0849 137.7349 L132.4151 138.0651 "/>
+<path d="M130.1651 147.3349 L129.8349 147.6651 "/>
+<path d="M129.8349 147.3349 L130.1651 147.6651 "/>
 <path d="M129.2651 157.8199 L128.9349 158.1501 "/>
 <path d="M128.9349 157.8199 L129.2651 158.1501 "/>
 <path d="M128.9651 117.8349 L128.6349 118.1651 "/>
 <path d="M128.6349 117.8349 L128.9651 118.1651 "/>
+<path d="M128.6651 159.6349 L128.3349 159.9651 "/>
+<path d="M128.3349 159.6349 L128.6651 159.9651 "/>
 <path d="M125.8984 137.1948 L125.5682 137.5250 "/>
 <path d="M125.5682 137.1948 L125.8984 137.5250 "/>
 <path d="M125.8651 152.7349 L125.5349 153.0651 "/>
@@ -158,36 +204,82 @@
 <path d="M123.0315 137.1526 L123.3617 137.4828 "/>
 <path d="M121.9651 143.8349 L121.6349 144.1651 "/>
 <path d="M121.6349 143.8349 L121.9651 144.1651 "/>
+<path d="M121.1651 147.3349 L120.8349 147.6651 "/>
+<path d="M120.8349 147.3349 L121.1651 147.6651 "/>
 <path d="M120.5651 137.4349 L120.2349 137.7651 "/>
 <path d="M120.2349 137.4349 L120.5651 137.7651 "/>
+<path d="M117.4151 137.7349 L117.0849 138.0651 "/>
+<path d="M117.0849 137.7349 L117.4151 138.0651 "/>
 <path d="M117.3651 119.4349 L117.0349 119.7651 "/>
 <path d="M117.0349 119.4349 L117.3651 119.7651 "/>
 <path d="M116.7651 141.5349 L116.4349 141.8651 "/>
 <path d="M116.4349 141.5349 L116.7651 141.8651 "/>
+<path d="M116.6651 123.8349 L116.3349 124.1651 "/>
+<path d="M116.3349 123.8349 L116.6651 124.1651 "/>
 <path d="M116.5651 152.8349 L116.2349 153.1651 "/>
 <path d="M116.2349 152.8349 L116.5651 153.1651 "/>
 <path d="M115.8651 158.3349 L115.5349 158.6651 "/>
 <path d="M115.5349 158.3349 L115.8651 158.6651 "/>
-<path d="M112.6651 149.8349 L112.3349 150.1651 "/>
-<path d="M112.3349 149.8349 L112.6651 150.1651 "/>
+<path d="M113.6651 147.3349 L113.3349 147.6651 "/>
+<path d="M113.3349 147.3349 L113.6651 147.6651 "/>
+<path d="M113.6651 130.4349 L113.3349 130.7651 "/>
+<path d="M113.3349 130.4349 L113.6651 130.7651 "/>
+<path d="M113.6651 115.8349 L113.3349 116.1651 "/>
+<path d="M113.3349 115.8349 L113.6651 116.1651 "/>
 <path d="M112.1450 157.4475 L111.8148 157.7777 "/>
 <path d="M111.8148 157.4475 L112.1450 157.7777 "/>
+<path d="M110.1651 123.8349 L109.8349 124.1651 "/>
+<path d="M109.8349 123.8349 L110.1651 124.1651 "/>
+<path d="M109.9151 152.3349 L109.5849 152.6651 "/>
+<path d="M109.5849 152.3349 L109.9151 152.6651 "/>
+<path d="M109.9151 137.7349 L109.5849 138.0651 "/>
+<path d="M109.5849 137.7349 L109.9151 138.0651 "/>
+<path d="M107.1651 147.3349 L106.8349 147.6651 "/>
+<path d="M106.8349 147.3349 L107.1651 147.6651 "/>
+<path d="M106.6651 141.3349 L106.3349 141.6651 "/>
+<path d="M106.3349 141.3349 L106.6651 141.6651 "/>
 <path d="M106.6651 127.6349 L106.3349 127.9651 "/>
 <path d="M106.3349 127.6349 L106.6651 127.9651 "/>
+<path d="M106.1651 115.8349 L105.8349 116.1651 "/>
+<path d="M105.8349 115.8349 L106.1651 116.1651 "/>
 <path d="M105.5501 156.9349 L105.2199 157.2651 "/>
 <path d="M105.2199 156.9349 L105.5501 157.2651 "/>
+<path d="M102.4151 152.3349 L102.0849 152.6651 "/>
+<path d="M102.0849 152.3349 L102.4151 152.6651 "/>
+<path d="M102.4151 137.7349 L102.0849 138.0651 "/>
+<path d="M102.0849 137.7349 L102.4151 138.0651 "/>
+<path d="M102.4151 123.1349 L102.0849 123.4651 "/>
+<path d="M102.0849 123.1349 L102.4151 123.4651 "/>
 <path d="M101.1651 161.5573 L100.8349 161.8875 "/>
 <path d="M100.8349 161.5573 L101.1651 161.8875 "/>
+<path d="M98.6651 152.3349 L98.3349 152.6651 "/>
+<path d="M98.3349 152.3349 L98.6651 152.6651 "/>
+<path d="M98.6651 141.3349 L98.3349 141.6651 "/>
+<path d="M98.3349 141.3349 L98.6651 141.6651 "/>
+<path d="M98.6651 130.4349 L98.3349 130.7651 "/>
+<path d="M98.3349 130.4349 L98.6651 130.7651 "/>
+<path d="M98.6651 115.8349 L98.3349 116.1651 "/>
+<path d="M98.3349 115.8349 L98.6651 116.1651 "/>
 <path d="M97.9613 155.8349 L97.6311 156.1651 "/>
 <path d="M97.6311 155.8349 L97.9613 156.1651 "/>
 <path d="M97.9011 145.3349 L97.5709 145.6651 "/>
 <path d="M97.5709 145.3349 L97.9011 145.6651 "/>
 <path d="M95.8651 157.3349 L95.5349 157.6651 "/>
 <path d="M95.5349 157.3349 L95.8651 157.6651 "/>
+<path d="M94.9151 137.7349 L94.5849 138.0651 "/>
+<path d="M94.5849 137.7349 L94.9151 138.0651 "/>
+<path d="M94.9151 123.1349 L94.5849 123.4651 "/>
+<path d="M94.5849 123.1349 L94.9151 123.4651 "/>
 <path d="M92.1651 156.3475 L91.8349 156.6777 "/>
 <path d="M91.8349 156.3475 L92.1651 156.6777 "/>
 <path d="M91.4651 151.0349 L91.1349 151.3651 "/>
 <path d="M91.1349 151.0349 L91.4651 151.3651 "/>
+<path d="M91.1651 141.3349 L90.8349 141.6651 "/>
+<path d="M90.8349 141.3349 L91.1651 141.6651 "/>
+<path d="M91.1651 130.4349 L90.8349 130.7651 "/>
+<path d="M90.8349 130.4349 L91.1651 130.7651 "/>
+<path d="M91.1651 115.8349 L90.8349 116.1651 "/>
+<path d="M90.8349 115.8349 L91.1651 116.1651 "/>
 <path d="M90.8751 147.2530 L90.5449 147.5832 "/>
 <path d="M90.5449 147.2530 L90.8751 147.5832 "/>
 <path d="M89.2969 151.4667 L88.9667 151.7969 "/>
@@ -198,6 +290,10 @@
 <path d="M87.3849 147.2849 L87.7151 147.6151 "/>
 <path d="M87.6651 152.6349 L87.3349 152.9651 "/>
 <path d="M87.3349 152.6349 L87.6651 152.9651 "/>
+<path d="M87.4151 137.7349 L87.0849 138.0651 "/>
+<path d="M87.0849 137.7349 L87.4151 138.0651 "/>
+<path d="M87.4151 123.1349 L87.0849 123.4651 "/>
+<path d="M87.0849 123.1349 L87.4151 123.4651 "/>
 <path d="M86.6651 151.3349 L86.3349 151.6651 "/>
 <path d="M86.3349 151.3349 L86.6651 151.6651 "/>
 <path d="M85.7951 153.5159 L85.4649 153.8461 "/>
@@ -206,12 +302,28 @@
 <path d="M85.4349 143.9349 L85.7651 144.2651 "/>
 <path d="M85.1651 147.3349 L84.8349 147.6651 "/>
 <path d="M84.8349 147.3349 L85.1651 147.6651 "/>
+<path d="M83.6651 141.3349 L83.3349 141.6651 "/>
+<path d="M83.3349 141.3349 L83.6651 141.6651 "/>
+<path d="M83.6651 130.4349 L83.3349 130.7651 "/>
+<path d="M83.3349 130.4349 L83.6651 130.7651 "/>
+<path d="M83.6651 115.8349 L83.3349 116.1651 "/>
+<path d="M83.3349 115.8349 L83.6651 116.1651 "/>
 <path d="M83.2651 153.5159 L82.9349 153.8461 "/>
 <path d="M82.9349 153.5159 L83.2651 153.8461 "/>
+<path d="M79.9151 137.7349 L79.5849 138.0651 "/>
+<path d="M79.5849 137.7349 L79.9151 138.0651 "/>
+<path d="M79.9151 123.1349 L79.5849 123.4651 "/>
+<path d="M79.5849 123.1349 L79.9151 123.4651 "/>
 <path d="M79.3651 146.2349 L79.0349 146.5651 "/>
 <path d="M79.0349 146.2349 L79.3651 146.5651 "/>
 <path d="M77.9651 142.2349 L77.6349 142.5651 "/>
 <path d="M77.6349 142.2349 L77.9651 142.5651 "/>
+<path d="M76.1651 159.6349 L75.8349 159.9651 "/>
+<path d="M75.8349 159.6349 L76.1651 159.9651 "/>
+<path d="M76.1651 130.4349 L75.8349 130.7651 "/>
+<path d="M75.8349 130.4349 L76.1651 130.7651 "/>
+<path d="M76.1651 115.8349 L75.8349 116.1651 "/>
+<path d="M75.8349 115.8349 L76.1651 116.1651 "/>
 <path d="M75.0651 153.8349 L74.7349 154.1651 "/>
 <path d="M74.7349 153.8349 L75.0651 154.1651 "/>
 <path d="M74.9651 151.3349 L74.6349 151.6651 "/>
@@ -224,6 +336,20 @@
 <path d="M74.6349 143.8349 L74.9651 144.1651 "/>
 <path d="M74.9651 141.3349 L74.6349 141.6651 "/>
 <path d="M74.6349 141.3349 L74.9651 141.6651 "/>
+<path d="M72.4151 137.7349 L72.0849 138.0651 "/>
+<path d="M72.0849 137.7349 L72.4151 138.0651 "/>
+<path d="M72.4151 123.1349 L72.0849 123.4651 "/>
+<path d="M72.0849 123.1349 L72.4151 123.4651 "/>
+<path d="M68.6651 159.6349 L68.3349 159.9651 "/>
+<path d="M68.3349 159.6349 L68.6651 159.9651 "/>
+<path d="M68.6651 130.4349 L68.3349 130.7651 "/>
+<path d="M68.3349 130.4349 L68.6651 130.7651 "/>
+<path d="M64.9151 137.7349 L64.5849 138.0651 "/>
+<path d="M64.5849 137.7349 L64.9151 138.0651 "/>
+<path d="M61.1651 159.6349 L60.8349 159.9651 "/>
+<path d="M60.8349 159.6349 L61.1651 159.9651 "/>
+<path d="M61.1651 130.4349 L60.8349 130.7651 "/>
+<path d="M60.8349 130.4349 L61.1651 130.7651 "/>
 </g>
 <g style="fill:none;  stroke:#000000; stroke-width:0.3000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 <g transform="rotate(-90.000000 48.0400 140.0000)">
@@ -829,7 +955,7 @@
 <path d="M54.9200 165.0000 L54.3336 163.8735 "/>
 <path d="M54.9200 165.0000 L55.5064 163.8735 "/>
 </g> 
-<svg:g><svg:g><svg:title>SVG Image created as rcbus-opl3-Edge_Cuts1.svg date 2025/10/08 18:49:27 </svg:title>
+<svg:g><svg:g><svg:title>SVG Image created as rcbus-opl3-Edge_Cuts1.svg date 2025/10/09 19:14:34 </svg:title>
   <svg:desc>Image generated by PCBNEW </svg:desc>
 <svg:g style="fill:#000000; fill-opacity:1.0000;stroke:#000000; stroke-opacity:1.0000; stroke-linecap:round; stroke-linejoin:round;" transform="translate(0 0) scale(1 1)">
 </svg:g>
@@ -847,7 +973,7 @@
 <svg:path d="M60.0000 165.0000 L160.0000 165.0000 "/>
 <svg:path d="M159.0120 122.0390 A1.1430 1.1430 0.0 0 0 157.8690 123.1820"/>
 </svg:g> 
-</svg:g></svg:g><svg:g><svg:g><svg:title>SVG Image created as rcbus-opl3-frame.svg date 2025/10/08 18:49:27 </svg:title>
+</svg:g></svg:g><svg:g><svg:g><svg:title>SVG Image created as rcbus-opl3-frame.svg date 2025/10/09 19:14:34 </svg:title>
   <svg:desc>Image generated by PCBNEW </svg:desc>
 <svg:g style="fill:#000000; fill-opacity:1.0000;stroke:#000000; stroke-opacity:1.0000; stroke-linecap:round; stroke-linejoin:round;" transform="translate(0 0) scale(1 1)">
 </svg:g>

@@ -1,32 +1,9 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-10-08T18:44:50+0000",
+    "date": "2025-10-09T19:09:55+0000",
     "kicad_version": "9.0.1",
     "schematic_parity": [
-        {
-            "description": "Duplicate footprints",
-            "items": [
-                {
-                    "description": "Footprint REF**",
-                    "pos": {
-                        "x": 97.5,
-                        "y": 159.0
-                    },
-                    "uuid": "5dc081f3-35d2-4803-9bd6-88f753cd7cf4"
-                },
-                {
-                    "description": "Footprint REF**",
-                    "pos": {
-                        "x": 53.0,
-                        "y": 96.5
-                    },
-                    "uuid": "940d65e0-c5cb-461b-8f1f-ff3cc4dd4d08"
-                }
-            ],
-            "severity": "warning",
-            "type": "duplicate_footprints"
-        },
         {
             "description": "Duplicate footprints",
             "items": [
@@ -41,10 +18,10 @@
                 {
                     "description": "Footprint REF**",
                     "pos": {
-                        "x": 53.0,
-                        "y": 96.5
+                        "x": 97.5,
+                        "y": 159.0
                     },
-                    "uuid": "940d65e0-c5cb-461b-8f1f-ff3cc4dd4d08"
+                    "uuid": "5dc081f3-35d2-4803-9bd6-88f753cd7cf4"
                 }
             ],
             "severity": "warning",
@@ -64,29 +41,14 @@
                 {
                     "description": "Footprint REF**",
                     "pos": {
-                        "x": 53.0,
-                        "y": 96.5
+                        "x": 97.5,
+                        "y": 159.0
                     },
-                    "uuid": "940d65e0-c5cb-461b-8f1f-ff3cc4dd4d08"
+                    "uuid": "5dc081f3-35d2-4803-9bd6-88f753cd7cf4"
                 }
             ],
             "severity": "warning",
             "type": "duplicate_footprints"
-        },
-        {
-            "description": "Extra footprint",
-            "items": [
-                {
-                    "description": "Footprint REF**",
-                    "pos": {
-                        "x": 53.0,
-                        "y": 96.5
-                    },
-                    "uuid": "940d65e0-c5cb-461b-8f1f-ff3cc4dd4d08"
-                }
-            ],
-            "severity": "warning",
-            "type": "extra_footprint"
         },
         {
             "description": "Extra footprint",
@@ -164,7 +126,7 @@
             "description": "Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.",
             "items": [
                 {
-                    "description": "Footprint U1",
+                    "description": "Footprint U3",
                     "pos": {
                         "x": 86.265,
                         "y": 150.35
@@ -179,7 +141,7 @@
             "description": "Footprint 'SOP-24_7.5x15.4mm_P1.27mm' does not match copy in library 'Package_SO'.",
             "items": [
                 {
-                    "description": "Footprint U2",
+                    "description": "Footprint U4",
                     "pos": {
                         "x": 132.0,
                         "y": 151.0
@@ -209,7 +171,7 @@
             "description": "Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.",
             "items": [
                 {
-                    "description": "Footprint U3",
+                    "description": "Footprint U1",
                     "pos": {
                         "x": 123.595,
                         "y": 135.75
@@ -224,7 +186,7 @@
             "description": "Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.",
             "items": [
                 {
-                    "description": "Footprint U4",
+                    "description": "Footprint U2",
                     "pos": {
                         "x": 123.5,
                         "y": 123.037022
