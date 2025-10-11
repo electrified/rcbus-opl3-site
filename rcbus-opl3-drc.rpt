@@ -1,5 +1,5 @@
 ** Drc report for rcbus-opl3.kicad_pcb **
-** Created on 2025-10-09T21:37:14+0000 **
+** Created on 2025-10-11T13:11:51+0000 **
 
 ** Found 7 DRC violations **
 [lib_footprint_mismatch]: Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.
@@ -27,58 +27,7 @@ https://creativecommons.org' on B.Silkscreen
 
 ** Found 0 unconnected pads **
 
-** Found 20 Footprint errors **
-[net_conflict]: Pad net (Net-(U1-CV)) doesn't match net given by schematic (Net-(U1A-+)).
-    ; warning
-    @(114.2 mm, 127.8 mm): Pad 1 [Net-(U1-CV)] of C1 on Front
-[net_conflict]: Pad net (Net-(C6-Pad2)) doesn't match net given by schematic (Net-(C2-Pad2)).
-    ; warning
-    @(138.6 mm, 130.595 mm): Pad 2 [Net-(C6-Pad2)] of C2 on Front
-[net_conflict]: Pad net (Net-(U1-AOUT)) doesn't match net given by schematic (Net-(U1B-+)).
-    ; warning
-    @(123.9 mm, 127.925 mm): Pad 1 [Net-(U1-AOUT)] of C6 on Front
-[net_conflict]: Pad net (Net-(U1-SWIN)) doesn't match net given by schematic (Net-(U2-SWIN)).
-    ; warning
-    @(125.9 mm, 129.525 mm): Pad 1 [Net-(U1-SWIN)] of R1 on Front
-[net_conflict]: Pad net (Net-(U2B--)) doesn't match net given by schematic (Net-(U1B--)).
-    ; warning
-    @(125.9 mm, 127.875 mm): Pad 2 [Net-(U2B--)] of R1 on Front
-[net_conflict]: Pad net (Net-(C6-Pad2)) doesn't match net given by schematic (Net-(C2-Pad2)).
-    ; warning
-    @(142.575 mm, 130.595 mm): Pad 1 [Net-(C6-Pad2)] of R4 on Front
-[net_conflict]: Pad net (Net-(U1-MP)) doesn't match net given by schematic (Net-(U1A--)).
-    ; warning
-    @(119.69 mm, 125.512022 mm): Pad 1 [Net-(U1-MP)] of U1 on Front
-[net_conflict]: Pad net (Net-(U1-MP)) doesn't match net given by schematic (Net-(U1A--)).
-    ; warning
-    @(120.96 mm, 125.512022 mm): Pad 2 [Net-(U1-MP)] of U1 on Front
-[net_conflict]: Pad net (Net-(U1-CV)) doesn't match net given by schematic (Net-(U1A-+)).
-    ; warning
-    @(122.23 mm, 125.512022 mm): Pad 3 [Net-(U1-CV)] of U1 on Front
-[net_conflict]: Pad net (Net-(U1-AOUT)) doesn't match net given by schematic (Net-(U1B-+)).
-    ; warning
-    @(124.77 mm, 125.512022 mm): Pad 5 [Net-(U1-AOUT)] of U1 on Front
-[net_conflict]: Pad net (Net-(U2B--)) doesn't match net given by schematic (Net-(U1B--)).
-    ; warning
-    @(126.04 mm, 125.512022 mm): Pad 6 [Net-(U2B--)] of U1 on Front
-[net_conflict]: Pad net (Net-(U2B--)) doesn't match net given by schematic (Net-(U1B--)).
-    ; warning
-    @(127.31 mm, 125.512022 mm): Pad 7 [Net-(U2B--)] of U1 on Front
-[net_conflict]: Pad net (Net-(U1-SWIN)) doesn't match net given by schematic (Net-(U2-SWIN)).
-    ; warning
-    @(124.23 mm, 132.5 mm): Pad 12 [Net-(U1-SWIN)] of U2 on Front
-[net_conflict]: Pad net (Net-(U1-AOUT)) doesn't match net given by schematic (Net-(U1B-+)).
-    ; warning
-    @(122.96 mm, 132.5 mm): Pad 13 [Net-(U1-AOUT)] of U2 on Front
-[net_conflict]: Pad net (Net-(U1-MP)) doesn't match net given by schematic (Net-(U1A--)).
-    ; warning
-    @(121.69 mm, 132.5 mm): Pad 14 [Net-(U1-MP)] of U2 on Front
-[net_conflict]: Pad net (unconnected-(U1-TST2-Pad15)) doesn't match net given by schematic (unconnected-(U2-TST2-Pad15)).
-    ; warning
-    @(120.42 mm, 132.5 mm): Pad 15 [unconnected-(U1-TST2-Pad15)] of U2 on Front
-[net_conflict]: Pad net (Net-(U1-CV)) doesn't match net given by schematic (Net-(U1A-+)).
-    ; warning
-    @(119.15 mm, 132.5 mm): Pad 16 [Net-(U1-CV)] of U2 on Front
+** Found 3 Footprint errors **
 [extra_footprint]: Extra footprint
     ; warning
     @(98.5 mm, 159.0 mm): Footprint G4
