@@ -1,5 +1,5 @@
 ** Drc report for rcbus-opl3.kicad_pcb **
-** Created on 2025-10-11T13:11:51+0000 **
+** Created on 2025-10-11T13:53:15+0000 **
 
 ** Found 7 DRC violations **
 [lib_footprint_mismatch]: Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.
