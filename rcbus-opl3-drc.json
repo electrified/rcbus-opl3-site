@@ -1,55 +1,9 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-10-11T13:53:15+0000",
+    "date": "2025-10-12T20:53:23+0000",
     "kicad_version": "9.0.1",
-    "schematic_parity": [
-        {
-            "description": "Extra footprint",
-            "items": [
-                {
-                    "description": "Footprint G4",
-                    "pos": {
-                        "x": 98.5,
-                        "y": 159.0
-                    },
-                    "uuid": "5dc081f3-35d2-4803-9bd6-88f753cd7cf4"
-                }
-            ],
-            "severity": "warning",
-            "type": "extra_footprint"
-        },
-        {
-            "description": "Extra footprint",
-            "items": [
-                {
-                    "description": "Footprint G5",
-                    "pos": {
-                        "x": 92.5,
-                        "y": 159.0
-                    },
-                    "uuid": "ae156486-bf17-4d8e-bfb8-d016f54f6097"
-                }
-            ],
-            "severity": "warning",
-            "type": "extra_footprint"
-        },
-        {
-            "description": "Extra footprint",
-            "items": [
-                {
-                    "description": "Footprint G3",
-                    "pos": {
-                        "x": 104.5,
-                        "y": 159.0
-                    },
-                    "uuid": "c3f9f25a-0c5c-41c2-89b0-f3d558bcf7f9"
-                }
-            ],
-            "severity": "warning",
-            "type": "extra_footprint"
-        }
-    ],
+    "schematic_parity": [],
     "source": "rcbus-opl3.kicad_pcb",
     "unconnected_items": [],
     "violations": [

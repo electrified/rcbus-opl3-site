@@ -7,6 +7,3 @@
 "Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(138.5 mm, 161.0 mm): PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen"
 "Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(89.0 mm, 159.5 mm): PCB text 'CC BY-SA
 https://creativecommons.org' on B.Silkscreen"
-"Schematic parity","warning","False","extra_footprint","Extra footprint","@(98.5 mm, 159.0 mm): Footprint G4"
-"Schematic parity","warning","False","extra_footprint","Extra footprint","@(92.5 mm, 159.0 mm): Footprint G5"
-"Schematic parity","warning","False","extra_footprint","Extra footprint","@(104.5 mm, 159.0 mm): Footprint G3"
