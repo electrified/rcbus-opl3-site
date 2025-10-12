@@ -1,9 +1,40 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-10-12T20:53:23+0000",
+    "date": "2025-10-12T22:29:38+0000",
     "kicad_version": "9.0.1",
-    "schematic_parity": [],
+    "schematic_parity": [
+        {
+            "description": "Value (JP1) doesn't match symbol value (BASE ADDRESS).",
+            "items": [
+                {
+                    "description": "Footprint JP1",
+                    "pos": {
+                        "x": 65.0,
+                        "y": 154.16
+                    },
+                    "uuid": "00000000-0000-0000-0000-00005ef2c651"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_mismatch"
+        },
+        {
+            "description": "Value (P1) doesn't match symbol value (RC2014 BUS).",
+            "items": [
+                {
+                    "description": "Footprint P1",
+                    "pos": {
+                        "x": 61.5,
+                        "y": 163.5
+                    },
+                    "uuid": "00000000-0000-0000-0000-00005f1949bd"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_mismatch"
+        }
+    ],
     "source": "rcbus-opl3.kicad_pcb",
     "unconnected_items": [],
     "violations": [

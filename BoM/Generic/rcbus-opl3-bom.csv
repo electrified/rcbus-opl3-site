@@ -12,8 +12,8 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 11,"Resistor Resistor, small symbol",R,R2 R5 R6 R7 R8 R9 R10 R11,10K,R_0603_1608Metric,8, ,https://4donline.ihs.com/images/VipMasterIC/IC/SCMP/SCMP-S-A0009547702/SCMP-S-A0009547702-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0,https://uk.farnell.com/multicomp-pro/mcwr06x1002ftl/res-10k-1-0-1w-0603-thick-film/dp/2447230
 12,8-bit magnitude comparator,74HCT688,U3,74HCT688,SOIC-20W_7.5x12.8mm_P1.27mm,1, ,https://www.ti.com/lit/ds/symlink/cd54hc688.pdf,https://uk.farnell.com/texas-instruments/cd74hct688m96/comparator-magnitude-8bit-soic/dp/3006842
 13,"Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14",TL074,U1,TL074,SOIC-14_3.9x8.7mm_P1.27mm,1, ,http://www.ti.com/lit/ds/symlink/tl071.pdf,https://uk.farnell.com/stmicroelectronics/tl074cdt/opamp-3mhz-0-to-70deg-c/dp/3367323
-14,,YAC512,U2,YAC512,SOP-16_4.55x10.3mm_P1.27mm,1, ,https://www.ardent-tool.com/datasheets/Yamaha_YAC512.pdf,
-15,,YMF262,U4,YMF262,SOP-24_7.5x15.4mm_P1.27mm,1, ,http://www.bitsavers.org/components/yamaha/YMF262_199110.pdf,
+14,D/A Converter,YAC512,U2,YAC512,SOP-16_4.55x10.3mm_P1.27mm,1, ,https://www.ardent-tool.com/datasheets/Yamaha_YAC512.pdf,
+15,OPL3 FM Synthesis IC,YMF262,U4,YMF262,SOP-24_7.5x15.4mm_P1.27mm,1, ,http://www.bitsavers.org/components/yamaha/YMF262_199110.pdf,
 16,"3.3V HCMOS SMD Crystal Clock Oscillator, Abracon",ASV-xxxMHz,Y1,14.3181MHz,Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm,1, ,http://www.abracon.com/Oscillators/ASV.pdf,https://uk.farnell.com/multicomp-pro/mcsjk-6nc1-14-31818-25-b/oscillator-14-31818mhz-7mm-x-5mm/dp/2854363
 
 
