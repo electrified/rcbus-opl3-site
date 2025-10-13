@@ -653,6 +653,12 @@
           "label": "Farnell_URI",
           "name": "Farnell_URI",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -719,8 +725,8 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2025-10-12T22:29+00:00",
-    "GIT_HASH": "Git:75fd011",
+    "DATE": "2025-10-13T21:14+00:00",
+    "GIT_HASH": "Git:ddbdba2",
     "VERSION": "0.0.1"
   }
 }

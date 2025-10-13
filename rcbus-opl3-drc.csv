@@ -7,5 +7,3 @@
 "Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(138.5 mm, 161.0 mm): PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen"
 "Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(89.0 mm, 159.5 mm): PCB text 'CC BY-SA
 https://creativecommons.org' on B.Silkscreen"
-"Schematic parity","warning","False","footprint_symbol_mismatch","Value (JP1) doesn't match symbol value (BASE ADDRESS).","@(65.0 mm, 154.16 mm): Footprint JP1"
-"Schematic parity","warning","False","footprint_symbol_mismatch","Value (P1) doesn't match symbol value (RC2014 BUS).","@(61.5 mm, 163.5 mm): Footprint P1"

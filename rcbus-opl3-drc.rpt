@@ -1,5 +1,5 @@
 ** Drc report for rcbus-opl3.kicad_pcb **
-** Created on 2025-10-12T22:29:38+0000 **
+** Created on 2025-10-13T21:14:13+0000 **
 
 ** Found 7 DRC violations **
 [lib_footprint_mismatch]: Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.
@@ -27,12 +27,6 @@ https://creativecommons.org' on B.Silkscreen
 
 ** Found 0 unconnected pads **
 
-** Found 2 Footprint errors **
-[footprint_symbol_mismatch]: Value (JP1) doesn't match symbol value (BASE ADDRESS).
-    ; warning
-    @(65.0 mm, 154.16 mm): Footprint JP1
-[footprint_symbol_mismatch]: Value (P1) doesn't match symbol value (RC2014 BUS).
-    ; warning
-    @(61.5 mm, 163.5 mm): Footprint P1
+** Found 0 Footprint errors **
 
 ** End of Report **
