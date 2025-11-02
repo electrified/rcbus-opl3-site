@@ -1,12 +1,426 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2025-10-13T22:03:33+0000",
+    "date": "2025-11-02T12:23:22+0000",
     "kicad_version": "9.0.1",
     "schematic_parity": [],
     "source": "rcbus-opl3.kicad_pcb",
     "unconnected_items": [],
     "violations": [
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.4868 mm)",
+            "items": [
+                {
+                    "description": "Pad 10 [/AUDIO_CH1] of U2 on Front",
+                    "pos": {
+                        "x": 126.77,
+                        "y": 132.5
+                    },
+                    "uuid": "6c359670-eaf7-47f4-a48e-bc5e95a2aed5"
+                },
+                {
+                    "description": "Track [/AUDIO_CH2] on Front, length 0.8485 mm",
+                    "pos": {
+                        "x": 125.5,
+                        "y": 131.4
+                    },
+                    "uuid": "6c8a4440-1bb6-40d0-98ee-c5510f8aabf4"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.1095 mm)",
+            "items": [
+                {
+                    "description": "Track [+5V] on Front, length 1.9500 mm",
+                    "pos": {
+                        "x": 119.15,
+                        "y": 140.5
+                    },
+                    "uuid": "3d1b275e-dcf9-4cb9-8046-c6ef1a23c73f"
+                },
+                {
+                    "description": "Pad 2 [GND] of U2 on Front",
+                    "pos": {
+                        "x": 120.42,
+                        "y": 139.0
+                    },
+                    "uuid": "739f16dd-cccd-459f-a659-4ac05adb8e2e"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2146 mm)",
+            "items": [
+                {
+                    "description": "Track [/D3] on Front, length 1.3992 mm",
+                    "pos": {
+                        "x": 137.715,
+                        "y": 156.715
+                    },
+                    "uuid": "39e442a0-ea07-4248-912b-31be09d1104f"
+                },
+                {
+                    "description": "Track [/D4] on Front, length 3.2500 mm",
+                    "pos": {
+                        "x": 139.3,
+                        "y": 156.7
+                    },
+                    "uuid": "6498db93-4cda-490c-987c-d0e3f510a067"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3548 mm)",
+            "items": [
+                {
+                    "description": "Track [+5V] on Front, length 3.7000 mm",
+                    "pos": {
+                        "x": 121.1,
+                        "y": 140.5
+                    },
+                    "uuid": "55fbf214-d308-4d71-a420-add8a375d695"
+                },
+                {
+                    "description": "Pad 2 [GND] of U2 on Front",
+                    "pos": {
+                        "x": 120.42,
+                        "y": 139.0
+                    },
+                    "uuid": "739f16dd-cccd-459f-a659-4ac05adb8e2e"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2146 mm)",
+            "items": [
+                {
+                    "description": "Track [/D4] on Front, length 3.2500 mm",
+                    "pos": {
+                        "x": 139.3,
+                        "y": 156.7
+                    },
+                    "uuid": "6498db93-4cda-490c-987c-d0e3f510a067"
+                },
+                {
+                    "description": "Track [/D3] on Front, length 1.1048 mm",
+                    "pos": {
+                        "x": 138.704366,
+                        "y": 157.704366
+                    },
+                    "uuid": "73175a25-f41d-4459-a1c7-7174a3f6b7ff"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2146 mm)",
+            "items": [
+                {
+                    "description": "Track [/D4] on Front, length 3.2500 mm",
+                    "pos": {
+                        "x": 139.3,
+                        "y": 156.7
+                    },
+                    "uuid": "6498db93-4cda-490c-987c-d0e3f510a067"
+                },
+                {
+                    "description": "Track [/D3] on Front, length 1.6841 mm",
+                    "pos": {
+                        "x": 138.704366,
+                        "y": 158.809149
+                    },
+                    "uuid": "d1c9a807-255b-488c-a22d-c9a3d059fd2d"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3548 mm)",
+            "items": [
+                {
+                    "description": "Track [+5V] on Front, length 0.3000 mm",
+                    "pos": {
+                        "x": 121.1,
+                        "y": 140.5
+                    },
+                    "uuid": "6624e328-3d5c-4107-9482-cf19d9fd1208"
+                },
+                {
+                    "description": "Pad 2 [GND] of U2 on Front",
+                    "pos": {
+                        "x": 120.42,
+                        "y": 139.0
+                    },
+                    "uuid": "739f16dd-cccd-459f-a659-4ac05adb8e2e"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3968 mm)",
+            "items": [
+                {
+                    "description": "Pad 14 [/D3] of U4 on Front",
+                    "pos": {
+                        "x": 137.29,
+                        "y": 156.715
+                    },
+                    "uuid": "d5a6c616-ae18-46cc-af70-37e107be7f95"
+                },
+                {
+                    "description": "Track [/D4] on Front, length 1.7748 mm",
+                    "pos": {
+                        "x": 138.045,
+                        "y": 155.445
+                    },
+                    "uuid": "decc508d-b28f-41d5-bc23-3266e3420c0b"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2747 mm)",
+            "items": [
+                {
+                    "description": "Pad 5 [/DAC_CLK] of U2 on Front",
+                    "pos": {
+                        "x": 124.23,
+                        "y": 139.0
+                    },
+                    "uuid": "3ea13c8a-90ff-4e1a-b3b7-127c66144b33"
+                },
+                {
+                    "description": "Track [+5V] on Front, length 0.9900 mm",
+                    "pos": {
+                        "x": 124.799999,
+                        "y": 140.5
+                    },
+                    "uuid": "96ab0093-f46c-4f79-aa56-cf60e21e2b14"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2747 mm)",
+            "items": [
+                {
+                    "description": "Pad 9 [+5V] of U2 on Front",
+                    "pos": {
+                        "x": 128.04,
+                        "y": 132.5
+                    },
+                    "uuid": "19044ae7-9f97-4118-ae72-71fda8555583"
+                },
+                {
+                    "description": "Track [/AUDIO_CH1] on Front, length 0.9900 mm",
+                    "pos": {
+                        "x": 126.77,
+                        "y": 131.700001
+                    },
+                    "uuid": "1b1bf98d-b013-4e63-83de-9bae346e1923"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.1095 mm)",
+            "items": [
+                {
+                    "description": "Pad 9 [+5V] of U2 on Front",
+                    "pos": {
+                        "x": 128.04,
+                        "y": 132.5
+                    },
+                    "uuid": "19044ae7-9f97-4118-ae72-71fda8555583"
+                },
+                {
+                    "description": "Track [/AUDIO_CH1] on Front, length 1.0300 mm",
+                    "pos": {
+                        "x": 127.470001,
+                        "y": 131.0
+                    },
+                    "uuid": "48d498c6-9bf2-4639-b722-0ea1201a49e2"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3251 mm)",
+            "items": [
+                {
+                    "description": "Pad 6 [+5V] of U2 on Front",
+                    "pos": {
+                        "x": 125.5,
+                        "y": 139.0
+                    },
+                    "uuid": "b3c73884-1261-4277-a788-0ed68c7146ab"
+                },
+                {
+                    "description": "Track [/DOAB] on Front, length 2.5410 mm",
+                    "pos": {
+                        "x": 128.334216,
+                        "y": 137.3
+                    },
+                    "uuid": "bc249e63-7d8a-4256-8d0d-1f278454b6a4"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2059 mm)",
+            "items": [
+                {
+                    "description": "Pad 9 [+5V] of U2 on Front",
+                    "pos": {
+                        "x": 128.04,
+                        "y": 132.5
+                    },
+                    "uuid": "19044ae7-9f97-4118-ae72-71fda8555583"
+                },
+                {
+                    "description": "Track [/AUDIO_CH1] on Front, length 2.1213 mm",
+                    "pos": {
+                        "x": 128.5,
+                        "y": 131.0
+                    },
+                    "uuid": "f8c2ca46-70b2-491e-83c7-7f21bcd150ac"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2211 mm)",
+            "items": [
+                {
+                    "description": "Track [/DOAB] on Front, length 0.9861 mm",
+                    "pos": {
+                        "x": 129.0315,
+                        "y": 137.997284
+                    },
+                    "uuid": "e48114a9-2a82-4309-bb47-1afc39087643"
+                },
+                {
+                    "description": "Pad 8 [/SMPAC] of U2 on Front",
+                    "pos": {
+                        "x": 128.04,
+                        "y": 139.0
+                    },
+                    "uuid": "fadfbf56-c83b-4be3-b1fb-cfa94936c196"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2555 mm)",
+            "items": [
+                {
+                    "description": "Pad 6 [+5V] of U2 on Front",
+                    "pos": {
+                        "x": 125.5,
+                        "y": 139.0
+                    },
+                    "uuid": "b3c73884-1261-4277-a788-0ed68c7146ab"
+                },
+                {
+                    "description": "Track [/DOAB] on Front, length 0.0847 mm",
+                    "pos": {
+                        "x": 125.793209,
+                        "y": 137.3
+                    },
+                    "uuid": "f64836f4-e937-4f0b-a4e9-ae0bc4da4b8f"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.1031 mm)",
+            "items": [
+                {
+                    "description": "Via [/DOAB] on Front - Back",
+                    "pos": {
+                        "x": 125.733318,
+                        "y": 137.359891
+                    },
+                    "uuid": "770043a0-528a-4959-9dcb-31aa2fb555f8"
+                },
+                {
+                    "description": "Pad 6 [+5V] of U2 on Front",
+                    "pos": {
+                        "x": 125.5,
+                        "y": 139.0
+                    },
+                    "uuid": "b3c73884-1261-4277-a788-0ed68c7146ab"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3388 mm)",
+            "items": [
+                {
+                    "description": "Track [/AUDIO_CH2] on Front, length 0.3227 mm",
+                    "pos": {
+                        "x": 126.1,
+                        "y": 130.8
+                    },
+                    "uuid": "1eaf94e3-bbea-49c5-8f7d-008aee58ff8e"
+                },
+                {
+                    "description": "Pad 10 [/AUDIO_CH1] of U2 on Front",
+                    "pos": {
+                        "x": 126.77,
+                        "y": 132.5
+                    },
+                    "uuid": "6c359670-eaf7-47f4-a48e-bc5e95a2aed5"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3388 mm)",
+            "items": [
+                {
+                    "description": "Track [/AUDIO_CH2] on Front, length 0.9645 mm",
+                    "pos": {
+                        "x": 126.422665,
+                        "y": 130.8
+                    },
+                    "uuid": "229b11b3-4ac6-4b21-9460-93b91dda5fbe"
+                },
+                {
+                    "description": "Pad 10 [/AUDIO_CH1] of U2 on Front",
+                    "pos": {
+                        "x": 126.77,
+                        "y": 132.5
+                    },
+                    "uuid": "6c359670-eaf7-47f4-a48e-bc5e95a2aed5"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
         {
             "description": "Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.",
             "items": [
@@ -17,21 +431,6 @@
                         "y": 150.35
                     },
                     "uuid": "00000000-0000-0000-0000-00006173b78c"
-                }
-            ],
-            "severity": "warning",
-            "type": "lib_footprint_mismatch"
-        },
-        {
-            "description": "Footprint 'SOP-24_7.5x15.4mm_P1.27mm' does not match copy in library 'Package_SO'.",
-            "items": [
-                {
-                    "description": "Footprint U4",
-                    "pos": {
-                        "x": 132.0,
-                        "y": 151.0
-                    },
-                    "uuid": "00000000-0000-0000-0000-00006189ddeb"
                 }
             ],
             "severity": "warning",
@@ -53,7 +452,7 @@
             "type": "lib_footprint_mismatch"
         },
         {
-            "description": "Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.",
+            "description": "Footprint 'SOIC-16W_5.3x10.2mm_P1.27mm' does not match copy in library 'Package_SO'.",
             "items": [
                 {
                     "description": "Footprint U2",

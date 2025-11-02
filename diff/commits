@@ -1,5 +1,5 @@
-_local_|2025-10-13|root|Local changes not committed|False|True
+_local_|2025-11-02|root|Local changes not committed|False|True
+4d7316e|2025-11-02|ed|wip: change 10uf electrolytics to 4mm diameter, and use custom footprint for ymf262|True|True
+f7926e2|2025-10-26|ed|some r2 changes|True|True
 ddbdba2|2025-10-13|ed|add mpn field|True|True
 418f944|2025-10-12|ed|update the parts for the large caps|True|False
-75fd011|2025-10-12|ed|add datasheets / farnell links|True|True
-b421ed7|2025-10-11|ed|update some part fields|False|True

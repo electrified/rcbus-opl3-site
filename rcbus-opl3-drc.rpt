@@ -1,17 +1,86 @@
 ** Drc report for rcbus-opl3.kicad_pcb **
-** Created on 2025-10-13T22:03:33+0000 **
+** Created on 2025-11-02T12:23:22+0000 **
 
-** Found 7 DRC violations **
+** Found 24 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.4868 mm)
+    ; error
+    @(126.77 mm, 132.5 mm): Pad 10 [/AUDIO_CH1] of U2 on Front
+    @(125.5 mm, 131.4 mm): Track [/AUDIO_CH2] on Front, length 0.8485 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.1095 mm)
+    ; error
+    @(119.15 mm, 140.5 mm): Track [+5V] on Front, length 1.9500 mm
+    @(120.42 mm, 139.0 mm): Pad 2 [GND] of U2 on Front
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2146 mm)
+    ; error
+    @(137.715 mm, 156.715 mm): Track [/D3] on Front, length 1.3992 mm
+    @(139.3 mm, 156.7 mm): Track [/D4] on Front, length 3.2500 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3548 mm)
+    ; error
+    @(121.1 mm, 140.5 mm): Track [+5V] on Front, length 3.7000 mm
+    @(120.42 mm, 139.0 mm): Pad 2 [GND] of U2 on Front
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2146 mm)
+    ; error
+    @(139.3 mm, 156.7 mm): Track [/D4] on Front, length 3.2500 mm
+    @(138.704366 mm, 157.704366 mm): Track [/D3] on Front, length 1.1048 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2146 mm)
+    ; error
+    @(139.3 mm, 156.7 mm): Track [/D4] on Front, length 3.2500 mm
+    @(138.704366 mm, 158.809149 mm): Track [/D3] on Front, length 1.6841 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3548 mm)
+    ; error
+    @(121.1 mm, 140.5 mm): Track [+5V] on Front, length 0.3000 mm
+    @(120.42 mm, 139.0 mm): Pad 2 [GND] of U2 on Front
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3968 mm)
+    ; error
+    @(137.29 mm, 156.715 mm): Pad 14 [/D3] of U4 on Front
+    @(138.045 mm, 155.445 mm): Track [/D4] on Front, length 1.7748 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2747 mm)
+    ; error
+    @(124.23 mm, 139.0 mm): Pad 5 [/DAC_CLK] of U2 on Front
+    @(124.799999 mm, 140.5 mm): Track [+5V] on Front, length 0.9900 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2747 mm)
+    ; error
+    @(128.04 mm, 132.5 mm): Pad 9 [+5V] of U2 on Front
+    @(126.77 mm, 131.700001 mm): Track [/AUDIO_CH1] on Front, length 0.9900 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.1095 mm)
+    ; error
+    @(128.04 mm, 132.5 mm): Pad 9 [+5V] of U2 on Front
+    @(127.470001 mm, 131.0 mm): Track [/AUDIO_CH1] on Front, length 1.0300 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3251 mm)
+    ; error
+    @(125.5 mm, 139.0 mm): Pad 6 [+5V] of U2 on Front
+    @(128.334216 mm, 137.3 mm): Track [/DOAB] on Front, length 2.5410 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2059 mm)
+    ; error
+    @(128.04 mm, 132.5 mm): Pad 9 [+5V] of U2 on Front
+    @(128.5 mm, 131.0 mm): Track [/AUDIO_CH1] on Front, length 2.1213 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2211 mm)
+    ; error
+    @(129.0315 mm, 137.997284 mm): Track [/DOAB] on Front, length 0.9861 mm
+    @(128.04 mm, 139.0 mm): Pad 8 [/SMPAC] of U2 on Front
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.2555 mm)
+    ; error
+    @(125.5 mm, 139.0 mm): Pad 6 [+5V] of U2 on Front
+    @(125.793209 mm, 137.3 mm): Track [/DOAB] on Front, length 0.0847 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.1031 mm)
+    ; error
+    @(125.733318 mm, 137.359891 mm): Via [/DOAB] on Front - Back
+    @(125.5 mm, 139.0 mm): Pad 6 [+5V] of U2 on Front
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3388 mm)
+    ; error
+    @(126.1 mm, 130.8 mm): Track [/AUDIO_CH2] on Front, length 0.3227 mm
+    @(126.77 mm, 132.5 mm): Pad 10 [/AUDIO_CH1] of U2 on Front
+[clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3388 mm)
+    ; error
+    @(126.422665 mm, 130.8 mm): Track [/AUDIO_CH2] on Front, length 0.9645 mm
+    @(126.77 mm, 132.5 mm): Pad 10 [/AUDIO_CH1] of U2 on Front
 [lib_footprint_mismatch]: Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
     @(86.265 mm, 150.35 mm): Footprint U3
-[lib_footprint_mismatch]: Footprint 'SOP-24_7.5x15.4mm_P1.27mm' does not match copy in library 'Package_SO'.
-    ; warning
-    @(132.0 mm, 151.0 mm): Footprint U4
 [lib_footprint_mismatch]: Footprint 'Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm' does not match copy in library 'Oscillator'.
     ; warning
     @(144.5 mm, 146.5 mm): Footprint Y1
-[lib_footprint_mismatch]: Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.
+[lib_footprint_mismatch]: Footprint 'SOIC-16W_5.3x10.2mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
     @(123.595 mm, 135.75 mm): Footprint U2
 [lib_footprint_mismatch]: Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.
