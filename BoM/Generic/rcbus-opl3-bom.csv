@@ -23,8 +23,8 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 Project info:
 Schematic:,rcbus-opl3
 Variant:,default
-Revision:,0.0.1-pre.4d7316e
-Date:,2025-11-02
+Revision:,0.0.1-pre.5a83b2e
+Date:,2025-11-10
 KiCad Version:,9.0.1+1
 Statistics:
 Component Groups:,16

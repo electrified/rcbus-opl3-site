@@ -725,8 +725,8 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2025-11-02T12:23+00:00",
-    "GIT_HASH": "Git:4d7316e",
-    "VERSION": "0.0.1-pre.4d7316e"
+    "DATE": "2025-11-10T23:12+00:00",
+    "GIT_HASH": "Git:5a83b2e",
+    "VERSION": "0.0.1-pre.5a83b2e"
   }
 }
