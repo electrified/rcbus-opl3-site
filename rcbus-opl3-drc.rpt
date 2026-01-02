@@ -1,19 +1,79 @@
 ** Drc report for rcbus-opl3.kicad_pcb **
-** Created on 2025-11-10T23:12:36+0000 **
+** Created on 2026-01-02T22:20:04+0000 **
 
-** Found 6 DRC violations **
+** Found 26 DRC violations **
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.
+    ; warning
+    @(79.4 mm, 142.4 mm): Footprint C8
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.
+    ; warning
+    @(118.325 mm, 142.4 mm): Footprint C12
+[lib_footprint_mismatch]: Footprint 'PinHeader_2x06_P2.54mm_Vertical' does not match copy in library 'Connector_PinHeader_2.54mm'.
+    ; warning
+    @(65.0 mm, 154.16 mm): Footprint JP1
 [lib_footprint_mismatch]: Footprint 'SOIC-20W_7.5x12.8mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
     @(86.265 mm, 150.35 mm): Footprint U3
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.
+    ; warning
+    @(123.4 mm, 128.7 mm): Footprint C6
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.
+    ; warning
+    @(117.2 mm, 121.4 mm): Footprint C5
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.
+    ; warning
+    @(123.5 mm, 144.0 mm): Footprint C11
 [lib_footprint_mismatch]: Footprint 'Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm' does not match copy in library 'Oscillator'.
     ; warning
     @(144.5 mm, 146.5 mm): Footprint Y1
-[lib_footprint_mismatch]: Footprint 'SOIC-16W_5.3x10.2mm_P1.27mm' does not match copy in library 'Package_SO'.
+[lib_footprint_mismatch]: Footprint 'SOP-16_4.55x10.3mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
     @(123.595 mm, 135.75 mm): Footprint U2
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(73.0 mm, 154.0 mm): Footprint R11
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.
+    ; warning
+    @(127.1 mm, 118.0 mm): Footprint C4
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(73.0 mm, 151.5 mm): Footprint R7
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(143.4 mm, 120.595 mm): Footprint R3
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(125.4 mm, 128.7 mm): Footprint R1
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(143.4 mm, 130.595 mm): Footprint R4
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(73.0 mm, 146.5 mm): Footprint R10
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(73.0 mm, 141.5 mm): Footprint R9
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.
+    ; warning
+    @(123.225 mm, 118.0 mm): Footprint C3
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(73.0 mm, 144.0 mm): Footprint R8
 [lib_footprint_mismatch]: Footprint 'SOIC-14_3.9x8.7mm_P1.27mm' does not match copy in library 'Package_SO'.
     ; warning
     @(123.5 mm, 123.037022 mm): Footprint U1
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(73.0 mm, 149.0 mm): Footprint R6
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.
+    ; warning
+    @(150.364 mm, 149.026 mm): Footprint C13
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(143.4 mm, 124.595 mm): Footprint R2
+[lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(143.4 mm, 134.79 mm): Footprint R5
 [text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
     ; warning
     @(138.5 mm, 161.0 mm): PCB text 'https://maidavale.org/projects/rcbus-opl3/' on B.Silkscreen

@@ -1,5 +1,5 @@
-_local_|2025-11-10|root|Local changes not committed|False|True
+_local_|2026-01-02|root|Local changes not committed|False|True
+4b95d90|2026-01-02|Ed Brindley|update symbols/footprints to kicad 9.0.7, improve ymf footprint|True|True
 5a83b2e|2025-11-10|ed|fix drc, reroute for new width components, add pin 1 indicator for oscillator|False|True
 4d7316e|2025-11-02|ed|wip: change 10uf electrolytics to 4mm diameter, and use custom footprint for ymf262|True|True
 f7926e2|2025-10-26|ed|some r2 changes|True|True
-ddbdba2|2025-10-13|ed|add mpn field|True|True
